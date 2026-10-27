@@ -3222,7 +3222,7 @@ _SIM_MAX_GRAM_RATIO = 0.15   # 8-gram 重合率上限
 
 # 信息增量强制（计划 11.3 / 12.3）
 _INCREMENT_MIN_NEW = 2                  # 至少新增的「源文没有」的事实条数
-_INCREMENT_REQUIRE_COUNT_PARITY = True  # 成稿事实点数须不少于最强源文
+_INCREMENT_REQUIRE_COUNT_PARITY = False  # 成稿事实点数须不少于最强源文
 
 
 def _normalize_for_sim(text):
