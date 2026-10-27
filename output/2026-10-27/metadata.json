@@ -1,7 +1,183 @@
 {
-  "batches_completed": [
-    "morning"
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T10:02:58.077277",
+  "total_articles": 2,
+  "articles": [
+    {
+      "index": 1,
+      "title": "中国女足3-2啃下美国，11年这道坎竟然迈过去了？",
+      "path": "/home/runner/work/_temp/output/2026-10-27/article-1-中国女足32啃下-a0e8a1.md",
+      "slug": "中国女足32啃下-a0e8a1",
+      "tags": [
+        "China women's football",
+        "USA",
+        "Ma Xiaoxu",
+        "3-2",
+        "group stage"
+      ],
+      "keywords": [
+        "China women's football",
+        "USA",
+        "Ma Xiaoxu",
+        "3-2",
+        "group stage"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "热点球评",
+      "topic_category": "战报比分",
+      "column_id": "wu-jian-kuai-xun",
+      "column_name": "午间快讯",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    },
+    {
+      "index": 2,
+      "title": "那个曾让国足头疼的伊朗马达，退役后竟在德黑兰开出租车？",
+      "path": "/home/runner/work/_temp/output/2026-10-27/article-2-那个曾让国足头疼-77feef.md",
+      "slug": "那个曾让国足头疼-77feef",
+      "tags": [
+        "Ali Daei",
+        "Iran football",
+        "retired star",
+        "taxi driver",
+        "nostalgia"
+      ],
+      "keywords": [
+        "Ali Daei",
+        "Iran football",
+        "retired star",
+        "taxi driver",
+        "nostalgia"
+      ],
+      "images": [],
+      "sources_used": [],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "人物故事",
+      "topic_category": "中国足球",
+      "column_id": "fan-life",
+      "column_name": "人物故事",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "三级·软性",
+      "interaction_bait_source": "template_fallback"
+    }
   ],
-  "last_batch": "morning",
-  "last_updated": "2026-10-27 10:47:46"
+  "topics": [
+    {
+      "title": "11年没赢过美国，马晓旭这场3-2到底改了什么？",
+      "angle": "中国U17女足3-2逆转美国，终结11年不胜。不吹天赋不吹未来，只讲这批孩子和教练组在落后时的那股狠劲，以及这代女足和孙雯那代人的精神传承。",
+      "keywords": [
+        "China U17 women",
+        "Ma Xiaoxu",
+        "USA comeback"
+      ],
+      "keywords_cn": [
+        "中国U17女足",
+        "马晓旭",
+        "逆转美国"
+      ],
+      "content_type": "热点球评",
+      "score": 92,
+      "controversy_level": "medium",
+      "target_emotion": "骄傲",
+      "resonance_angle": "国足情结",
+      "series_id": "guozu-chronicle",
+      "why_pick": "11年魔咒终结+女足情怀，老球迷DNA动了",
+      "_category": "战报比分",
+      "_column_id": "wu-jian-kuai-xun",
+      "_column_name": "午间快讯",
+      "_column_icon": "⚡",
+      "_writing_style": "群聊播报体",
+      "_style_detail": "3-5条消息，每条3-5句。格式：【事件概述】+ 一句话老六辣评。短句、快节奏、有信息量但不啰嗦。每条独立成块。",
+      "_word_count_range": [
+        300,
+        500
+      ],
+      "_interaction_type": "prediction_poll",
+      "_interaction_guidance": "文末放一个投票：'今天上午最劲爆的消息是？A.XX B.XX C.XX，我选A，你呢？'",
+      "_topic_domain": "足球快讯",
+      "_topic_guidance": "上午最新足球消息精选：比赛结果、转会动态、突发事件。用短句快节奏呈现，每条独立成块，每条包含事件概述+一句话老六辣评。像中午在食堂打开手机扫一眼就知道上午发生了什么。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
+      "_rank_id": "topic-0"
+    },
+    {
+      "title": "那个曾让国足头疼的伊朗马达，退役后竟在德黑兰开出租车？",
+      "content_type": "人物故事",
+      "_column_name": "人物故事",
+      "_from_reservoir": true
+    }
+  ],
+  "data_sources": {},
+  "supply_layers": {
+    "total": 2,
+    "counts": {
+      "一级·确定性": 0,
+      "二级·突发": 1,
+      "三级·软性": 1
+    },
+    "ratios": {
+      "一级·确定性": 0.0,
+      "二级·突发": 50.0,
+      "三级·软性": 50.0
+    },
+    "targets": {
+      "一级·确定性": 30.0,
+      "二级·突发": 50.0,
+      "三级·软性": 20.0
+    },
+    "deviations": {
+      "一级·确定性": -30.0,
+      "二级·突发": 0.0,
+      "三级·软性": 30.0
+    },
+    "unclassified": 0
+  },
+  "degrade_events": [
+    {
+      "环节": "赛程源",
+      "原因": "本批无可用赛程选题（源不可用或无匹配）",
+      "处置": "退化为纯新闻流驱动，选题池仅由事实卡装配",
+      "数量": 1
+    },
+    {
+      "环节": "互动引导兜底",
+      "原因": "缺 关注引导",
+      "处置": "保存侧模板兜底注入",
+      "数量": 1
+    }
+  ],
+  "type": "match_analysis",
+  "quota": {
+    "batch": "noon",
+    "max_articles": 2,
+    "uplifted": false,
+    "reason": null,
+    "requested_reason": null,
+    "normal_max": 2,
+    "uplift_max": 3,
+    "weekly_limit": 2,
+    "weekly_used": 0,
+    "detail": "常态 2 篇",
+    "source": "策略手册 第五章 / 完善计划 12.1"
+  },
+  "ranker_mode": "rule",
+  "batches_completed": [
+    "morning",
+    "noon"
+  ],
+  "last_batch": "noon",
+  "last_updated": "2026-10-27 18:02:58"
 }
