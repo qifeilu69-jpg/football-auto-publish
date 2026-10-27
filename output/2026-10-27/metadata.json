@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T10:02:58.077277",
-  "total_articles": 2,
+  "generated_at": "2026-10-27T15:58:55.097544",
+  "total_articles": 5,
   "articles": [
     {
       "index": 1,
@@ -69,55 +69,171 @@
       "is_recap": false,
       "supply_layer": "三级·软性",
       "interaction_bait_source": "template_fallback"
+    },
+    {
+      "index": 1,
+      "title": "国安2-2战平仍21场不败，这纪录老球迷等了多少年？",
+      "path": "/home/runner/work/_temp/output/2026-10-27/article-1-国安22战平仍2-4044a5.md",
+      "slug": "国安22战平仍2-4044a5",
+      "tags": [
+        "Beijing Guoan",
+        "AFC Champions League",
+        "unbeaten record",
+        "Chinese Super League"
+      ],
+      "keywords": [
+        "Beijing Guoan",
+        "AFC Champions League",
+        "unbeaten record",
+        "Chinese Super League"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "热点球评",
+      "topic_category": "战报比分",
+      "column_id": "world-cup-daily",
+      "column_name": "世界杯日报",
+      "batch_name": "晚间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    },
+    {
+      "index": 2,
+      "title": "小罗从诺坎普之王到囚徒，他真被足球抛弃了吗？",
+      "path": "/home/runner/work/_temp/output/2026-10-27/article-2-小罗从诺坎普之王-9d584e.md",
+      "slug": "小罗从诺坎普之王-9d584e",
+      "tags": [
+        "Ronaldinho",
+        "Barcelona",
+        "football legend",
+        "nostalgia",
+        "prison"
+      ],
+      "keywords": [
+        "Ronaldinho",
+        "Barcelona",
+        "football legend",
+        "nostalgia",
+        "prison"
+      ],
+      "images": [],
+      "sources_used": [],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "人物故事",
+      "topic_category": "未分类",
+      "column_id": "fan-life",
+      "column_name": "人物故事",
+      "batch_name": "晚间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "三级·软性",
+      "interaction_bait_source": "template_fallback"
+    },
+    {
+      "index": 3,
+      "title": "利物浦切尔西硬碰硬，曼城拜仁谁先翻车？",
+      "path": "/home/runner/work/_temp/output/2026-10-27/article-3-利物浦切尔西硬碰-666a38.md",
+      "slug": "利物浦切尔西硬碰-666a38",
+      "tags": [
+        "Liverpool",
+        "Chelsea",
+        "Manchester City",
+        "Bayern Munich",
+        "Borussia Dortmund",
+        "Roma",
+        "AC Milan",
+        "Juventus",
+        "Santos",
+        "Palmeiras"
+      ],
+      "keywords": [
+        "Liverpool",
+        "Chelsea",
+        "Manchester City",
+        "Bayern Munich",
+        "Borussia Dortmund",
+        "Roma",
+        "AC Milan",
+        "Juventus",
+        "Santos",
+        "Palmeiras"
+      ],
+      "images": [],
+      "sources_used": [],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "热点球评",
+      "topic_category": "未分类",
+      "column_id": "hot-take",
+      "column_name": "老六辣评",
+      "batch_name": "晚间",
+      "is_prediction": true,
+      "is_recap": false,
+      "supply_layer": "二级·突发",
+      "interaction_bait_source": "template_fallback"
     }
   ],
   "topics": [
     {
-      "title": "11年没赢过美国，马晓旭这场3-2到底改了什么？",
-      "angle": "中国U17女足3-2逆转美国，终结11年不胜。不吹天赋不吹未来，只讲这批孩子和教练组在落后时的那股狠劲，以及这代女足和孙雯那代人的精神传承。",
+      "title": "2-2被全北扳平，国安21场不败却撞上5次不赢的苦主，这纪录香吗？",
+      "angle": "21场不败是队史单赛季纪录，听着提气；可对面是全北，5次交手一次没赢过。纪录和苦主同框，这才是国安的真问题——不怕输球，怕的是碰上特定对手就腿软。",
       "keywords": [
-        "China U17 women",
-        "Ma Xiaoxu",
-        "USA comeback"
+        "Beijing Guoan",
+        "Jeonbuk",
+        "AFC Champions League",
+        "unbeaten run"
       ],
       "keywords_cn": [
-        "中国U17女足",
-        "马晓旭",
-        "逆转美国"
+        "北京国安",
+        "全北现代",
+        "亚冠精英联赛",
+        "不败纪录"
       ],
       "content_type": "热点球评",
-      "score": 92,
+      "score": 88,
       "controversy_level": "medium",
-      "target_emotion": "骄傲",
-      "resonance_angle": "国足情结",
-      "series_id": "guozu-chronicle",
-      "why_pick": "11年魔咒终结+女足情怀，老球迷DNA动了",
+      "target_emotion": "好奇",
+      "resonance_angle": "老球迷身份认同",
+      "series_id": "无",
+      "why_pick": "纪录与苦主反差强烈，评论区必吵",
       "_category": "战报比分",
-      "_column_id": "wu-jian-kuai-xun",
-      "_column_name": "午间快讯",
-      "_column_icon": "⚡",
-      "_writing_style": "群聊播报体",
-      "_style_detail": "3-5条消息，每条3-5句。格式：【事件概述】+ 一句话老六辣评。短句、快节奏、有信息量但不啰嗦。每条独立成块。",
+      "_column_id": "world-cup-daily",
+      "_column_name": "世界杯日报",
+      "_column_icon": "📰",
+      "_writing_style": "快讯集锦体",
+      "_style_detail": "像在看赛后集锦的文字版。按比赛分块，每块2-3句话+一个记忆点。快节奏有信息量有观点。开头一句话总结今天世界杯的主旋律。非世界杯期间可改为当日俱乐部比赛集锦。",
       "_word_count_range": [
-        300,
-        500
+        400,
+        600
       ],
       "_interaction_type": "prediction_poll",
-      "_interaction_guidance": "文末放一个投票：'今天上午最劲爆的消息是？A.XX B.XX C.XX，我选A，你呢？'",
-      "_topic_domain": "足球快讯",
-      "_topic_guidance": "上午最新足球消息精选：比赛结果、转会动态、突发事件。用短句快节奏呈现，每条独立成块，每条包含事件概述+一句话老六辣评。像中午在食堂打开手机扫一眼就知道上午发生了什么。",
-      "_data_source_hint": "match_preferred",
-      "_batch_name": "午间",
-      "_batch_time": "12:00",
-      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
-      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
+      "_interaction_guidance": "文末预测明天比赛：'明天XX对XX，你觉得谁能赢？评论区下注，我先来——...'",
+      "_topic_domain": "世界杯日报",
+      "_topic_guidance": "当天世界杯比赛的高光时刻、冷门结果、名场面汇总。像赛后集锦的文字版，给下班没看球的读者补课。覆盖当天世界杯关键节点，每场2-3句话抓重点，开头一句话总结今天的'主旋律'。",
+      "_data_source_hint": "gzh_only",
+      "_batch_name": "晚间",
+      "_batch_time": "18:00",
+      "_reader_scenario": "下班通勤/晚饭后刷手机，需要爽感和谈资",
+      "_overall_tone": "有观点、有情绪、适合截图转发和评论区站队",
       "_rank_id": "topic-0"
     },
     {
-      "title": "那个曾让国足头疼的伊朗马达，退役后竟在德黑兰开出租车？",
+      "title": "小罗从诺坎普之王到囚徒，他真被足球抛弃了吗？",
       "content_type": "人物故事",
       "_column_name": "人物故事",
       "_from_reservoir": true
+    },
+    {
+      "title": "利物浦切尔西硬碰硬，曼城拜仁谁先翻车？",
+      "content_type": "热点球评",
+      "_batch_name": "晚间",
+      "_is_prediction": true
     }
   ],
   "data_sources": {},
@@ -157,27 +273,34 @@
       "原因": "缺 关注引导",
       "处置": "保存侧模板兜底注入",
       "数量": 1
+    },
+    {
+      "环节": "互动引导兜底",
+      "原因": "缺 关注引导",
+      "处置": "保存侧模板兜底注入",
+      "数量": 1
     }
   ],
   "type": "match_analysis",
   "quota": {
-    "batch": "noon",
+    "batch": "evening",
     "max_articles": 2,
     "uplifted": false,
     "reason": null,
     "requested_reason": null,
     "normal_max": 2,
-    "uplift_max": 3,
+    "uplift_max": 2,
     "weekly_limit": 2,
     "weekly_used": 0,
-    "detail": "常态 2 篇",
+    "detail": "常态 2 篇（该批次不加发）",
     "source": "策略手册 第五章 / 完善计划 12.1"
   },
-  "ranker_mode": "rule",
+  "ranker_mode": "llm",
   "batches_completed": [
+    "evening",
     "morning",
     "noon"
   ],
-  "last_batch": "noon",
-  "last_updated": "2026-10-27 18:02:58"
+  "last_batch": "evening",
+  "last_updated": "2026-10-27 23:58:55"
 }
