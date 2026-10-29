@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T06:18:11.457150",
+  "total_articles": 3,
+  "articles": [
+    {
+      "index": 1,
+      "title": "奥斯卡10月29日突然视频出镜表态，这回他到底想说什么？",
+      "path": "/home/runner/work/_temp/output/2026-10-29/article-1-奥斯卡10月29-2a9e04.md",
+      "slug": "奥斯卡10月29-2a9e04",
+      "tags": [
+        "Oscar",
+        "Shanghai Port",
+        "CSL",
+        "video statement"
+      ],
+      "keywords": [
+        "Oscar",
+        "Shanghai Port",
+        "CSL",
+        "video statement"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "八卦趣事",
+      "topic_category": "未分类",
+      "column_id": "chen-du-kuai-xun",
+      "column_name": "晨读快讯",
+      "batch_name": "晨读",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    },
+    {
+      "index": 2,
+      "title": "中国U17女足碰上法国，没想到德国全胜竟被委内瑞拉1-0掀翻",
+      "path": "/home/runner/work/_temp/output/2026-10-29/article-2-中国U17女足碰-d60ba8.md",
+      "slug": "中国U17女足碰-d60ba8",
+      "tags": [
+        "U17 Women's World Cup",
+        "China U17 women",
+        "France U17 women",
+        "Germany out",
+        "Venezuela"
+      ],
+      "keywords": [
+        "U17 Women's World Cup",
+        "China U17 women",
+        "France U17 women",
+        "Germany out",
+        "Venezuela"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "热点球评",
+      "topic_category": "战报比分",
+      "column_id": "hua-ti-lei-tai",
+      "column_name": "话题擂台",
+      "batch_name": "晨读",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    },
+    {
+      "index": 3,
+      "title": "米兰2-4被博洛尼亚逆转，这防线到底还能不能看了？",
+      "path": "/home/runner/work/_temp/output/2026-10-29/article-3-米兰24被博洛尼-44e352.md",
+      "slug": "米兰24被博洛尼-44e352",
+      "tags": [
+        "AC Milan",
+        "Bologna",
+        "Serie A",
+        "Mbangula",
+        "own goal"
+      ],
+      "keywords": [
+        "AC Milan",
+        "Bologna",
+        "Serie A",
+        "Mbangula",
+        "own goal"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "紧急球评",
+      "topic_category": "战报比分",
+      "column_id": "breaking",
+      "column_name": "突发直击",
+      "batch_name": "晨读",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "未分层"
+    }
+  ],
+  "topics": [
+    {
+      "title": "奥斯卡说看到不了解中国的人乱批评他很难过，这话你怎么听？",
+      "angle": "在上海踢了多年的奥斯卡公开表态爱上海、劝外籍球员和社媒大V尊重中国人。这话从一个拿过中超顶薪的外援嘴里说出来，是真感情还是场面话？老球迷心里有杆秤。",
+      "keywords": [
+        "Oscar",
+        "Shanghai",
+        "foreign players"
+      ],
+      "keywords_cn": [
+        "奥斯卡",
+        "上海海港",
+        "外援表态"
+      ],
+      "content_type": "八卦趣事",
+      "score": 82,
+      "controversy_level": "high",
+      "target_emotion": "好奇",
+      "resonance_angle": "老球迷身份认同",
+      "series_id": "无",
+      "why_pick": "外援公开表态有争议有立场，评论区必吵",
+      "_category": "冲突舆情",
+      "_column_id": "chen-du-kuai-xun",
+      "_column_name": "晨读快讯",
+      "_column_icon": "📰",
+      "_writing_style": "群聊播报体",
+      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_word_count_range": [
+        300,
+        500
+      ],
+      "_interaction_type": "prediction_poll",
+      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_topic_domain": "足球快讯",
+      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-0"
+    },
+    {
+      "title": "U17女足今晚23点碰法国，CCTV5直播，这批姑娘能走多远？",
+      "angle": "U17女足世界杯1/8决赛中国对法国，央视直播。别只盯着男足骂，这批十七八岁的姑娘正站在淘汰赛的门口，值得熬夜看一眼。",
+      "keywords": [
+        "U17 Women World Cup",
+        "China France",
+        "CCTV5"
+      ],
+      "keywords_cn": [
+        "U17女足",
+        "世界杯淘汰赛",
+        "中法之战"
+      ],
+      "content_type": "热点球评",
+      "score": 78,
+      "controversy_level": "low",
+      "target_emotion": "骄傲",
+      "resonance_angle": "国足情结",
+      "series_id": "无",
+      "why_pick": "女足淘汰赛直播，情怀与关注度兼具",
+      "_category": "未分类",
+      "_column_id": "hua-ti-lei-tai",
+      "_column_name": "话题擂台",
+      "_column_icon": "🥊",
+      "_writing_style": "烧烤摊辩论体",
+      "_style_detail": "先摆出争议话题（一句话定调）→ 正方观点（2-3个论据）→ 反方观点（2-3个论据）→ 老六站队（亮明态度+核心论据）→ 邀请读者站队。语气像烧烤摊上和朋友抬杠，可以激动但不说脏话。必须给双方都有说话的机会，但最后必须有你自己的态度。",
+      "_word_count_range": [
+        400,
+        600
+      ],
+      "_interaction_type": "side_taking_vote",
+      "_interaction_guidance": "文末明确说'评论区站队——支持XX的扣1，反对的扣2，我先来：我站[1/2]，因为...'",
+      "_topic_domain": "足球争议话题",
+      "_topic_guidance": "一个有争议的足球话题，列出正反两方观点，最后给出老六的站队并说明理由。话题要能让读者看完后立刻想去评论区表态。适合的话题：'XX该不该下课''XX转会到底值不值''VAR到底该不该废除'等。",
+      "_data_source_hint": "gzh_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-1"
+    },
+    {
+      "title": "米兰 2-4 博洛尼亚，6球对攻大战",
+      "content_type": "紧急球评-进球大战"
+    }
+  ],
+  "data_sources": {},
+  "supply_layers": {
+    "total": 3,
+    "counts": {
+      "一级·确定性": 0,
+      "二级·突发": 2,
+      "三级·软性": 0
+    },
+    "ratios": {
+      "一级·确定性": 0.0,
+      "二级·突发": 66.7,
+      "三级·软性": 0.0
+    },
+    "targets": {
+      "一级·确定性": 30.0,
+      "二级·突发": 50.0,
+      "三级·软性": 20.0
+    },
+    "deviations": {
+      "一级·确定性": -30.0,
+      "二级·突发": 16.7,
+      "三级·软性": -20.0
+    },
+    "unclassified": 1
+  },
+  "degrade_events": [
+    {
+      "环节": "赛程源",
+      "原因": "本批无可用赛程选题（源不可用或无匹配）",
+      "处置": "退化为纯新闻流驱动，选题池仅由事实卡装配",
+      "数量": 1
+    },
+    {
+      "环节": "软性补位跳过",
+      "原因": "晨读批禁用软性补位（P0-2：晨读吃隔夜赛果+硬新闻）",
+      "处置": "本批篇数不足，按实际成稿发布（不拿软性顶替）",
+      "数量": 1
+    }
+  ],
+  "type": "match_analysis",
+  "quota": {
+    "batch": "morning",
+    "max_articles": 3,
+    "uplifted": true,
+    "reason": "thursday_boost",
+    "requested_reason": "thursday_boost",
+    "normal_max": 2,
+    "uplift_max": 3,
+    "weekly_limit": 2,
+    "weekly_used": 1,
+    "detail": "加发 3 篇（原因 thursday_boost，周内 1/2）",
+    "source": "策略手册 第五章 / 完善计划 12.1"
+  },
+  "ranker_mode": "rule",
+  "batches_completed": [
+    "morning"
+  ],
+  "last_batch": "morning",
+  "last_updated": "2026-10-29 14:18:11"
+}
