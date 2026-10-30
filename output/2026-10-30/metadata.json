@@ -1,0 +1,181 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T06:16:51.343221",
+  "total_articles": 2,
+  "articles": [
+    {
+      "index": 1,
+      "title": "没想到埃弗顿3-1纽卡，哈克尼一传一射把比赛打成了教学局",
+      "path": "/home/runner/work/_temp/output/2026-10-30/article-1-没想到埃弗顿31-52873b.md",
+      "slug": "没想到埃弗顿31-52873b",
+      "tags": [
+        "Everton",
+        "Newcastle",
+        "Carabao Cup",
+        "Hackney",
+        "quarter-final"
+      ],
+      "keywords": [
+        "Everton",
+        "Newcastle",
+        "Carabao Cup",
+        "Hackney",
+        "quarter-final"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "热点球评",
+      "topic_category": "战报比分",
+      "column_id": "chen-du-kuai-xun",
+      "column_name": "晨读快讯",
+      "batch_name": "晨读",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    },
+    {
+      "index": 2,
+      "title": "5比3赢球却丢三球，利雅得胜利这后防老球迷真替他们捏把汗",
+      "path": "/home/runner/work/_temp/output/2026-10-30/article-2-5比3赢球却丢三-b8311e.md",
+      "slug": "5比3赢球却丢三-b8311e",
+      "tags": [
+        "Cristiano Ronaldo",
+        "Al Nassr",
+        "Felix",
+        "hat-trick",
+        "Saudi Pro League"
+      ],
+      "keywords": [
+        "Cristiano Ronaldo",
+        "Al Nassr",
+        "Felix",
+        "hat-trick",
+        "Saudi Pro League"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "紧急球评",
+      "topic_category": "战报比分",
+      "column_id": "breaking",
+      "column_name": "突发直击",
+      "batch_name": "晨读",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "未分层"
+    }
+  ],
+  "topics": [
+    {
+      "title": "埃弗顿3-1掀翻纽卡，这支球队凭啥突然硬气起来了？",
+      "angle": "埃弗顿主场3-1拿下纽卡斯尔联，不是爆冷是硬碰硬赢的——从保级泥潭到敢跟强队对攻，背后是阵容和心态的双重转变，值得掰开说说。",
+      "keywords": [
+        "Everton",
+        "Newcastle United",
+        "Premier League"
+      ],
+      "keywords_cn": [
+        "埃弗顿",
+        "纽卡斯尔联",
+        "英超"
+      ],
+      "content_type": "热点球评",
+      "score": 82,
+      "controversy_level": "medium",
+      "target_emotion": "好奇",
+      "resonance_angle": "老球迷身份认同",
+      "series_id": "无",
+      "why_pick": "老牌劲旅翻身，老球迷最爱看的逆袭剧本",
+      "_category": "战报比分",
+      "_column_id": "chen-du-kuai-xun",
+      "_column_name": "晨读快讯",
+      "_column_icon": "📰",
+      "_writing_style": "群聊播报体",
+      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_word_count_range": [
+        300,
+        500
+      ],
+      "_interaction_type": "prediction_poll",
+      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_topic_domain": "足球快讯",
+      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-0"
+    },
+    {
+      "title": "利雅得胜利 5-3 拉斯永恒，8球对攻大战",
+      "content_type": "紧急球评-进球大战"
+    }
+  ],
+  "data_sources": {},
+  "supply_layers": {
+    "total": 2,
+    "counts": {
+      "一级·确定性": 0,
+      "二级·突发": 1,
+      "三级·软性": 0
+    },
+    "ratios": {
+      "一级·确定性": 0.0,
+      "二级·突发": 50.0,
+      "三级·软性": 0.0
+    },
+    "targets": {
+      "一级·确定性": 30.0,
+      "二级·突发": 50.0,
+      "三级·软性": 20.0
+    },
+    "deviations": {
+      "一级·确定性": -30.0,
+      "二级·突发": 0.0,
+      "三级·软性": -20.0
+    },
+    "unclassified": 1
+  },
+  "degrade_events": [
+    {
+      "环节": "赛程源",
+      "原因": "本批无可用赛程选题（源不可用或无匹配）",
+      "处置": "退化为纯新闻流驱动，选题池仅由事实卡装配",
+      "数量": 1
+    },
+    {
+      "环节": "软性补位跳过",
+      "原因": "晨读批禁用软性补位（P0-2：晨读吃隔夜赛果+硬新闻）",
+      "处置": "本批篇数不足，按实际成稿发布（不拿软性顶替）",
+      "数量": 1
+    }
+  ],
+  "type": "match_analysis",
+  "quota": {
+    "batch": "morning",
+    "max_articles": 2,
+    "uplifted": false,
+    "reason": null,
+    "requested_reason": null,
+    "normal_max": 2,
+    "uplift_max": 3,
+    "weekly_limit": 2,
+    "weekly_used": 2,
+    "detail": "常态 2 篇",
+    "source": "策略手册 第五章 / 完善计划 12.1"
+  },
+  "ranker_mode": "llm",
+  "batches_completed": [
+    "morning"
+  ],
+  "last_batch": "morning",
+  "last_updated": "2026-10-30 14:16:51"
+}
