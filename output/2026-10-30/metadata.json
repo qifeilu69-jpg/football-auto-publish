@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T06:16:51.343221",
-  "total_articles": 2,
+  "generated_at": "2026-10-30T11:03:39.533893",
+  "total_articles": 3,
   "articles": [
     {
       "index": 1,
@@ -70,53 +70,92 @@
       "is_prediction": false,
       "is_recap": false,
       "supply_layer": "未分层"
+    },
+    {
+      "index": 2,
+      "title": "马拉多纳的上帝之手，英格兰人为何恨了四十年？",
+      "path": "/home/runner/work/_temp/output/2026-10-30/article-2-马拉多纳的上帝之-eaa26d.md",
+      "slug": "马拉多纳的上帝之-eaa26d",
+      "tags": [
+        "Maradona",
+        "Hand of God",
+        "1986 World Cup",
+        "Argentina vs England",
+        "Goal of the Century"
+      ],
+      "keywords": [
+        "Maradona",
+        "Hand of God",
+        "1986 World Cup",
+        "Argentina vs England",
+        "Goal of the Century"
+      ],
+      "images": [],
+      "sources_used": [],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "历史回顾",
+      "topic_category": "未分类",
+      "column_id": "fan-life",
+      "column_name": "人物故事",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "三级·软性",
+      "interaction_bait_source": "template_fallback"
     }
   ],
   "topics": [
     {
-      "title": "埃弗顿3-1掀翻纽卡，这支球队凭啥突然硬气起来了？",
-      "angle": "埃弗顿主场3-1拿下纽卡斯尔联，不是爆冷是硬碰硬赢的——从保级泥潭到敢跟强队对攻，背后是阵容和心态的双重转变，值得掰开说说。",
+      "title": "曼联明夏竟不愿激活利马续约，马竞巴萨等着捡漏？",
+      "angle": "利桑德罗·马丁内斯在曼联的处境被低估了——俱乐部和球员双双不愿触发续约，马竞巴萨嗅到免签机会。这不是简单转会流言，是曼联后防重建的信号，老球迷都懂免签豪门的算盘。",
       "keywords": [
-        "Everton",
-        "Newcastle United",
-        "Premier League"
+        "Lisandro Martinez",
+        "Manchester United",
+        "Atletico Madrid",
+        "Barcelona",
+        "free transfer"
       ],
       "keywords_cn": [
-        "埃弗顿",
-        "纽卡斯尔联",
-        "英超"
+        "利桑德罗·马丁内斯",
+        "曼联",
+        "马竞",
+        "巴萨",
+        "免签"
       ],
-      "content_type": "热点球评",
-      "score": 82,
-      "controversy_level": "medium",
+      "content_type": "转会资讯",
+      "score": 88,
+      "controversy_level": "high",
       "target_emotion": "好奇",
-      "resonance_angle": "老球迷身份认同",
+      "resonance_angle": "名帅名宿沉浮",
       "series_id": "无",
-      "why_pick": "老牌劲旅翻身，老球迷最爱看的逆袭剧本",
-      "_category": "战报比分",
-      "_column_id": "chen-du-kuai-xun",
-      "_column_name": "晨读快讯",
-      "_column_icon": "📰",
+      "why_pick": "免签豪门捡漏是转会窗最带劲的瓜",
+      "_category": "转会官宣",
+      "_column_id": "wu-jian-kuai-xun",
+      "_column_name": "午间快讯",
+      "_column_icon": "⚡",
       "_writing_style": "群聊播报体",
-      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_style_detail": "3-5条消息，每条3-5句。格式：【事件概述】+ 一句话老六辣评。短句、快节奏、有信息量但不啰嗦。每条独立成块。",
       "_word_count_range": [
         300,
         500
       ],
       "_interaction_type": "prediction_poll",
-      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_interaction_guidance": "文末放一个投票：'今天上午最劲爆的消息是？A.XX B.XX C.XX，我选A，你呢？'",
       "_topic_domain": "足球快讯",
-      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_topic_guidance": "上午最新足球消息精选：比赛结果、转会动态、突发事件。用短句快节奏呈现，每条独立成块，每条包含事件概述+一句话老六辣评。像中午在食堂打开手机扫一眼就知道上午发生了什么。",
       "_data_source_hint": "match_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-0"
     },
     {
-      "title": "利雅得胜利 5-3 拉斯永恒，8球对攻大战",
-      "content_type": "紧急球评-进球大战"
+      "title": "马拉多纳的上帝之手，英格兰人为何恨了四十年？",
+      "content_type": "历史回顾",
+      "_column_name": "人物故事",
+      "_from_reservoir": true
     }
   ],
   "data_sources": {},
@@ -125,12 +164,12 @@
     "counts": {
       "一级·确定性": 0,
       "二级·突发": 1,
-      "三级·软性": 0
+      "三级·软性": 1
     },
     "ratios": {
       "一级·确定性": 0.0,
       "二级·突发": 50.0,
-      "三级·软性": 0.0
+      "三级·软性": 50.0
     },
     "targets": {
       "一级·确定性": 30.0,
@@ -140,9 +179,9 @@
     "deviations": {
       "一级·确定性": -30.0,
       "二级·突发": 0.0,
-      "三级·软性": -20.0
+      "三级·软性": 30.0
     },
-    "unclassified": 1
+    "unclassified": 0
   },
   "degrade_events": [
     {
@@ -152,15 +191,25 @@
       "数量": 1
     },
     {
-      "环节": "软性补位跳过",
-      "原因": "晨读批禁用软性补位（P0-2：晨读吃隔夜赛果+硬新闻）",
-      "处置": "本批篇数不足，按实际成稿发布（不拿软性顶替）",
+      "环节": "互动引导兜底",
+      "原因": "缺 关注引导",
+      "处置": "保存侧模板兜底注入",
       "数量": 1
+    }
+  ],
+  "pending_review": [
+    {
+      "id": "2026-10-30-1-592673",
+      "index": 1,
+      "title": "曼联没想到吧？28岁铁卫合同剩一年，马竞巴萨竟准备免签捡漏",
+      "reasons": [
+        "合同金额(命中：转会费、合同、续约；含金额量词)"
+      ]
     }
   ],
   "type": "match_analysis",
   "quota": {
-    "batch": "morning",
+    "batch": "noon",
     "max_articles": 2,
     "uplifted": false,
     "reason": null,
@@ -174,8 +223,9 @@
   },
   "ranker_mode": "llm",
   "batches_completed": [
-    "morning"
+    "morning",
+    "noon"
   ],
-  "last_batch": "morning",
-  "last_updated": "2026-10-30 14:16:51"
+  "last_batch": "noon",
+  "last_updated": "2026-10-30 19:03:39"
 }
