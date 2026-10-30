@@ -36,9 +36,9 @@
     "last_fail_at": "2026-10-29T14:17:54+08:00"
   },
   "deepseek/deepseek-v4-flash-vision-exp": {
-    "prompt_tokens": 159502,
-    "completion_tokens": 39306,
-    "total_tokens": 300642,
+    "prompt_tokens": 180465,
+    "completion_tokens": 45183,
+    "total_tokens": 327482,
     "fail_streak": 0,
     "free_quota_pct": 72.4,
     "free_quota_expires_at": "2027-09-14 09:24:30"
