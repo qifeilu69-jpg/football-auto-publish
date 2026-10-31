@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31T10:35:20.956679",
-  "total_articles": 4,
+  "generated_at": "2026-10-31T15:53:13.011708",
+  "total_articles": 7,
   "articles": [
     {
       "index": 1,
@@ -138,94 +138,163 @@
       "is_prediction": false,
       "is_recap": false,
       "supply_layer": "二级·突发"
+    },
+    {
+      "index": 1,
+      "title": "37岁比埃拉退役，国安那四年30球30助攻谁还记得",
+      "path": "/home/runner/work/_temp/output/2026-10-31/article-1-37岁比埃拉退役-904679.md",
+      "slug": "37岁比埃拉退役-904679",
+      "tags": [
+        "Viera",
+        "Beijing Guoan",
+        "retirement",
+        "CSL"
+      ],
+      "keywords": [
+        "Viera",
+        "Beijing Guoan",
+        "retirement",
+        "CSL"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "八卦趣事",
+      "topic_category": "中国足球",
+      "column_id": "world-cup-daily",
+      "column_name": "世界杯日报",
+      "batch_name": "晚间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    },
+    {
+      "index": 2,
+      "title": "当年那个追风少年曲波，如今白发苍苍，他还能跑得动吗？",
+      "path": "/home/runner/work/_temp/output/2026-10-31/article-2-当年那个追风少年-8694b1.md",
+      "slug": "当年那个追风少年-8694b1",
+      "tags": [
+        "Qu Bo",
+        "Chinese football",
+        "youth memory",
+        "retired player",
+        "World Cup"
+      ],
+      "keywords": [
+        "Qu Bo",
+        "Chinese football",
+        "youth memory",
+        "retired player",
+        "World Cup"
+      ],
+      "images": [],
+      "sources_used": [],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "人物故事",
+      "topic_category": "未分类",
+      "column_id": "fan-life",
+      "column_name": "人物故事",
+      "batch_name": "晚间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "三级·软性",
+      "interaction_bait_source": "template_fallback"
+    },
+    {
+      "index": 3,
+      "title": "拜仁多特+米兰德比+利物浦枪手，今晚谁先翻车？",
+      "path": "/home/runner/work/_temp/output/2026-10-31/article-3-拜仁多特米兰德比-60523d.md",
+      "slug": "拜仁多特米兰德比-60523d",
+      "tags": [
+        "Bundesliga",
+        "Serie A",
+        "Premier League",
+        "Derby",
+        "Prediction"
+      ],
+      "keywords": [
+        "Bundesliga",
+        "Serie A",
+        "Premier League",
+        "Derby",
+        "Prediction"
+      ],
+      "images": [
+        "/home/runner/work/_temp/output/2026-10-31/images/article-3-img-001.jpg"
+      ],
+      "sources_used": [],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "热点球评",
+      "topic_category": "未分类",
+      "column_id": "hot-take",
+      "column_name": "老六辣评",
+      "batch_name": "晚间",
+      "is_prediction": true,
+      "is_recap": false,
+      "supply_layer": "二级·突发",
+      "interaction_bait_source": "template_fallback"
     }
   ],
   "topics": [
     {
-      "title": "马晓旭带队闯进U17女足世界杯，当年那个9号原来当教练也这么硬",
-      "angle": "从球员时代的锋线尖刀到如今U17女足主帅，马晓旭喊话'你们已经创造了历史'——写她的转型弧光，老球迷看的是那个曾经带球狂奔的姑娘如今站在场边。",
+      "title": "37岁比埃拉退役，国安那两年他到底给中超留下了什么？",
+      "angle": "比埃拉宣布退役，不写流水账生涯回顾，聚焦他在国安88场30球30助的双30数据——那个中超还肯为技术型外援买单的年代，如今回不去了。",
       "keywords": [
-        "ma xiaoxu",
-        "u17 women",
-        "china women football",
-        "coach"
+        "Jonathan Viera",
+        "Beijing Guoan",
+        "retirement",
+        "CSL"
       ],
       "keywords_cn": [
-        "马晓旭",
-        "U17女足",
-        "女足世界杯",
-        "主帅"
+        "比埃拉",
+        "北京国安",
+        "退役",
+        "中超"
       ],
       "content_type": "八卦趣事",
-      "score": 82,
+      "score": 92,
       "controversy_level": "low",
       "target_emotion": "怀旧",
-      "resonance_angle": "名帅名宿沉浮",
-      "series_id": "old-fan-night",
-      "why_pick": "名宿转型弧光，戳老球迷代际记忆",
-      "_category": "冲突舆情",
-      "_column_id": "wu-jian-kuai-xun",
-      "_column_name": "午间快讯",
-      "_column_icon": "⚡",
-      "_writing_style": "群聊播报体",
-      "_style_detail": "3-5条消息，每条3-5句。格式：【事件概述】+ 一句话老六辣评。短句、快节奏、有信息量但不啰嗦。每条独立成块。",
-      "_word_count_range": [
-        300,
-        500
-      ],
-      "_interaction_type": "prediction_poll",
-      "_interaction_guidance": "文末放一个投票：'今天上午最劲爆的消息是？A.XX B.XX C.XX，我选A，你呢？'",
-      "_topic_domain": "足球快讯",
-      "_topic_guidance": "上午最新足球消息精选：比赛结果、转会动态、突发事件。用短句快节奏呈现，每条独立成块，每条包含事件概述+一句话老六辣评。像中午在食堂打开手机扫一眼就知道上午发生了什么。",
-      "_data_source_hint": "match_preferred",
-      "_batch_name": "午间",
-      "_batch_time": "12:00",
-      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
-      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
-      "_rank_id": "topic-0"
-    },
-    {
-      "title": "球场搭了4个架子就被判0-3弃权，这规矩你服吗？",
-      "angle": "赣州瑞狮主场因搭建4个大型架子被判违规弃权0-3，站俱乐部一边：规则是死的，但判罚尺度得讲人情，这种'一票否决'式处罚对小球队太狠。",
-      "keywords": [
-        "ganzhou ruishi",
-        "forfeit",
-        "stadium violation",
-        "china league"
-      ],
-      "keywords_cn": [
-        "赣州瑞狮",
-        "弃权判负",
-        "球场违规",
-        "中乙"
-      ],
-      "content_type": "热点球评",
-      "score": 78,
-      "controversy_level": "high",
-      "target_emotion": "愤怒",
       "resonance_angle": "老球迷身份认同",
-      "series_id": "无",
-      "why_pick": "判罚争议强，小球队被规则碾压引共鸣",
-      "_category": "战报比分",
-      "_column_id": "re-dian-su-ping",
-      "_column_name": "热点速评",
-      "_column_icon": "🔥",
-      "_writing_style": "赛后快刀体",
-      "_style_detail": "直接砸观点不铺垫 → 2-3个论据支撑 → 亮明立场。像从沙发上跳起来说的第一句话，锋利不留余地。500字以内，短平快。",
+      "series_id": "old-fan-night",
+      "why_pick": "中超技术流黄金期的活标本，老球迷共情强",
+      "_category": "中国足球",
+      "_column_id": "world-cup-daily",
+      "_column_name": "世界杯日报",
+      "_column_icon": "📰",
+      "_writing_style": "快讯集锦体",
+      "_style_detail": "像在看赛后集锦的文字版。按比赛分块，每块2-3句话+一个记忆点。快节奏有信息量有观点。开头一句话总结今天世界杯的主旋律。非世界杯期间可改为当日俱乐部比赛集锦。",
       "_word_count_range": [
         400,
         600
       ],
-      "_interaction_type": "side_taking_vote",
-      "_interaction_guidance": "文末说：'觉得我说得对的扣1，觉得我太极端的扣2，我先来：我扣1，因为...'",
-      "_topic_domain": "足球热点评论",
-      "_topic_guidance": "从上午的比赛/新闻中选一个最值得聊的话题，快速给出观点和点评。不是深度分析，是'看完比赛后和朋友说的第一句话'。可以是一场精彩比赛的快速复盘，也可以是一个转会传闻的犀利点评。",
-      "_data_source_hint": "match_preferred",
-      "_batch_name": "午间",
-      "_batch_time": "12:00",
-      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
-      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
-      "_rank_id": "topic-1"
+      "_interaction_type": "prediction_poll",
+      "_interaction_guidance": "文末预测明天比赛：'明天XX对XX，你觉得谁能赢？评论区下注，我先来——...'",
+      "_topic_domain": "世界杯日报",
+      "_topic_guidance": "当天世界杯比赛的高光时刻、冷门结果、名场面汇总。像赛后集锦的文字版，给下班没看球的读者补课。覆盖当天世界杯关键节点，每场2-3句话抓重点，开头一句话总结今天的'主旋律'。",
+      "_data_source_hint": "gzh_only",
+      "_batch_name": "晚间",
+      "_batch_time": "18:00",
+      "_reader_scenario": "下班通勤/晚饭后刷手机，需要爽感和谈资",
+      "_overall_tone": "有观点、有情绪、适合截图转发和评论区站队",
+      "_rank_id": "topic-0"
+    },
+    {
+      "title": "当年那个追风少年曲波，如今白发苍苍，他还能跑得动吗？",
+      "content_type": "人物故事",
+      "_column_name": "人物故事",
+      "_from_reservoir": true
+    },
+    {
+      "title": "拜仁多特+米兰德比+利物浦枪手，今晚谁先翻车？",
+      "content_type": "热点球评",
+      "_batch_name": "晚间",
+      "_is_prediction": true
     }
   ],
   "data_sources": {},
@@ -233,13 +302,13 @@
     "total": 2,
     "counts": {
       "一级·确定性": 0,
-      "二级·突发": 2,
-      "三级·软性": 0
+      "二级·突发": 1,
+      "三级·软性": 1
     },
     "ratios": {
       "一级·确定性": 0.0,
-      "二级·突发": 100.0,
-      "三级·软性": 0.0
+      "二级·突发": 50.0,
+      "三级·软性": 50.0
     },
     "targets": {
       "一级·确定性": 30.0,
@@ -248,8 +317,8 @@
     },
     "deviations": {
       "一级·确定性": -30.0,
-      "二级·突发": 50.0,
-      "三级·软性": -20.0
+      "二级·突发": 0.0,
+      "三级·软性": 30.0
     },
     "unclassified": 0
   },
@@ -259,27 +328,40 @@
       "原因": "本批无可用赛程选题（源不可用或无匹配）",
       "处置": "退化为纯新闻流驱动，选题池仅由事实卡装配",
       "数量": 1
+    },
+    {
+      "环节": "互动引导兜底",
+      "原因": "缺 关注引导",
+      "处置": "保存侧模板兜底注入",
+      "数量": 1
+    },
+    {
+      "环节": "互动引导兜底",
+      "原因": "缺 关注引导",
+      "处置": "保存侧模板兜底注入",
+      "数量": 1
     }
   ],
   "type": "match_analysis",
   "quota": {
-    "batch": "noon",
+    "batch": "evening",
     "max_articles": 2,
     "uplifted": false,
     "reason": null,
     "requested_reason": null,
     "normal_max": 2,
-    "uplift_max": 3,
+    "uplift_max": 2,
     "weekly_limit": 2,
     "weekly_used": 2,
-    "detail": "常态 2 篇",
+    "detail": "常态 2 篇（该批次不加发）",
     "source": "策略手册 第五章 / 完善计划 12.1"
   },
   "ranker_mode": "rule",
   "batches_completed": [
+    "evening",
     "morning",
     "noon"
   ],
-  "last_batch": "noon",
-  "last_updated": "2026-10-31 18:35:20"
+  "last_batch": "evening",
+  "last_updated": "2026-10-31 23:53:13"
 }
