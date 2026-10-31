@@ -36,17 +36,17 @@
     "last_fail_at": "2026-10-30T19:03:16+08:00"
   },
   "deepseek/deepseek-v4-flash-vision-exp": {
-    "prompt_tokens": 197303,
-    "completion_tokens": 47739,
-    "total_tokens": 346876,
+    "prompt_tokens": 204936,
+    "completion_tokens": 48175,
+    "total_tokens": 354945,
     "fail_streak": 0,
     "free_quota_pct": 72.4,
     "free_quota_expires_at": "2027-09-14 09:24:30"
   },
   "deepseek/deepseek-flash": {
-    "prompt_tokens": 184791,
-    "completion_tokens": 45377,
-    "total_tokens": 351539,
+    "prompt_tokens": 189587,
+    "completion_tokens": 46541,
+    "total_tokens": 357499,
     "fail_streak": 0,
     "free_quota_pct": 66.9,
     "free_quota_expires_at": "2027-09-14 09:24:30"
