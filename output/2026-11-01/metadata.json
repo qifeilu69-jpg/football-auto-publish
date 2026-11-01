@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
-  "generated_at": "2026-11-01T06:41:12.123906",
-  "total_articles": 2,
+  "generated_at": "2026-11-01T11:29:09.130199",
+  "total_articles": 4,
   "articles": [
     {
       "index": 1,
@@ -68,55 +68,122 @@
       "is_prediction": false,
       "is_recap": false,
       "supply_layer": "未分层"
+    },
+    {
+      "index": 1,
+      "title": "比埃拉挂靴：88场30球30助，他把最好的十年留给了一支西甲小球队",
+      "path": "/home/runner/work/_temp/output/2026-11-01/article-1-比埃拉挂靴88场-ee7568.md",
+      "slug": "比埃拉挂靴88场-ee7568",
+      "tags": [
+        "Jonathan Viera",
+        "Las Palmas",
+        "retirement",
+        "loyalty"
+      ],
+      "keywords": [
+        "Jonathan Viera",
+        "Las Palmas",
+        "retirement",
+        "loyalty"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "八卦趣事",
+      "topic_category": "未分类",
+      "column_id": "wu-jian-kuai-xun",
+      "column_name": "午间快讯",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    },
+    {
+      "index": 2,
+      "title": "马拉多纳一米六八却扛起整支阿根廷，那届世界杯凭什么封神？",
+      "path": "/home/runner/work/_temp/output/2026-11-01/article-2-马拉多纳一米六八-7704c8.md",
+      "slug": "马拉多纳一米六八-7704c8",
+      "tags": [
+        "Maradona",
+        "1986 World Cup",
+        "Argentina",
+        "football history",
+        "classic match"
+      ],
+      "keywords": [
+        "Maradona",
+        "1986 World Cup",
+        "Argentina",
+        "football history",
+        "classic match"
+      ],
+      "images": [],
+      "sources_used": [],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "历史回顾",
+      "topic_category": "未分类",
+      "column_id": "fan-life",
+      "column_name": "人物故事",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "三级·软性",
+      "interaction_bait_source": "template_fallback"
     }
   ],
   "topics": [
     {
-      "title": "曼城主场0-1栽给布莱顿，瓜迪奥拉这套传控还灵吗？",
-      "angle": "卫冕冠军主场被布莱顿零封，这不是偶然失手，是传控体系被对手研究透的信号。老六明确站队：瓜帅该动刀了，别再拿控球率当遮羞布。",
+      "title": "曾效力国安的比埃拉，295场78球为何让西乙球队写长文致敬？",
+      "angle": "拉斯帕尔马斯用一篇长文送别比埃拉，295战78球的数据背后，是他在中超那段被低估的岁月。老球迷该记得，国安当年那个西班牙小个子，是怎么用脑子和脚法吃饭的。",
       "keywords": [
-        "Manchester City",
-        "Brighton",
-        "Guardiola",
-        "Premier League"
+        "viera",
+        "las palmas",
+        "beijing guoan",
+        "la liga"
       ],
       "keywords_cn": [
-        "曼城",
-        "布莱顿",
-        "瓜迪奥拉",
-        "英超"
+        "比埃拉",
+        "拉斯帕尔马斯",
+        "北京国安",
+        "西乙"
       ],
-      "content_type": "热点球评",
-      "score": 91,
-      "controversy_level": "high",
-      "target_emotion": "震惊",
-      "resonance_angle": "名帅名宿沉浮",
-      "series_id": "无",
-      "why_pick": "豪门主场翻车，名帅危机感直戳老球迷",
-      "_category": "战报比分",
-      "_column_id": "chen-du-kuai-xun",
-      "_column_name": "晨读快讯",
-      "_column_icon": "📰",
+      "content_type": "八卦趣事",
+      "score": 88,
+      "controversy_level": "low",
+      "target_emotion": "怀旧",
+      "resonance_angle": "老球迷身份认同",
+      "series_id": "old-fan-night",
+      "why_pick": "中超旧将获老东家长文致敬，情怀拉满",
+      "_category": "中国足球",
+      "_column_id": "wu-jian-kuai-xun",
+      "_column_name": "午间快讯",
+      "_column_icon": "⚡",
       "_writing_style": "群聊播报体",
-      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_style_detail": "3-5条消息，每条3-5句。格式：【事件概述】+ 一句话老六辣评。短句、快节奏、有信息量但不啰嗦。每条独立成块。",
       "_word_count_range": [
         300,
         500
       ],
       "_interaction_type": "prediction_poll",
-      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_interaction_guidance": "文末放一个投票：'今天上午最劲爆的消息是？A.XX B.XX C.XX，我选A，你呢？'",
       "_topic_domain": "足球快讯",
-      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_topic_guidance": "上午最新足球消息精选：比赛结果、转会动态、突发事件。用短句快节奏呈现，每条独立成块，每条包含事件概述+一句话老六辣评。像中午在食堂打开手机扫一眼就知道上午发生了什么。",
       "_data_source_hint": "match_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-0"
     },
     {
-      "title": "乌迪内斯 2-5 罗马，7球对攻大战",
-      "content_type": "紧急球评-进球大战"
+      "title": "马拉多纳一米六八却扛起整支阿根廷，那届世界杯凭什么封神？",
+      "content_type": "历史回顾",
+      "_column_name": "人物故事",
+      "_from_reservoir": true
     }
   ],
   "data_sources": {},
@@ -125,12 +192,12 @@
     "counts": {
       "一级·确定性": 0,
       "二级·突发": 1,
-      "三级·软性": 0
+      "三级·软性": 1
     },
     "ratios": {
       "一级·确定性": 0.0,
       "二级·突发": 50.0,
-      "三级·软性": 0.0
+      "三级·软性": 50.0
     },
     "targets": {
       "一级·确定性": 30.0,
@@ -140,9 +207,9 @@
     "deviations": {
       "一级·确定性": -30.0,
       "二级·突发": 0.0,
-      "三级·软性": -20.0
+      "三级·软性": 30.0
     },
-    "unclassified": 1
+    "unclassified": 0
   },
   "degrade_events": [
     {
@@ -152,15 +219,15 @@
       "数量": 1
     },
     {
-      "环节": "软性补位跳过",
-      "原因": "晨读批禁用软性补位（P0-2：晨读吃隔夜赛果+硬新闻）",
-      "处置": "本批篇数不足，按实际成稿发布（不拿软性顶替）",
+      "环节": "互动引导兜底",
+      "原因": "缺 关注引导",
+      "处置": "保存侧模板兜底注入",
       "数量": 1
     }
   ],
   "type": "match_analysis",
   "quota": {
-    "batch": "morning",
+    "batch": "noon",
     "max_articles": 2,
     "uplifted": false,
     "reason": null,
@@ -172,10 +239,11 @@
     "detail": "常态 2 篇",
     "source": "策略手册 第五章 / 完善计划 12.1"
   },
-  "ranker_mode": "llm",
+  "ranker_mode": "rule",
   "batches_completed": [
-    "morning"
+    "morning",
+    "noon"
   ],
-  "last_batch": "morning",
-  "last_updated": "2026-11-01 14:41:12"
+  "last_batch": "noon",
+  "last_updated": "2026-11-01 19:29:09"
 }
