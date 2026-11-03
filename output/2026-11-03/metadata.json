@@ -1,0 +1,213 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T07:11:00.404911",
+  "total_articles": 2,
+  "articles": [
+    {
+      "index": 1,
+      "title": "邵佳一带国足8场3胜1平4负，亚洲杯却推迟近一年？",
+      "path": "/home/runner/work/_temp/output/2026-11-03/article-1-邵佳一带国足8场-4333ab.md",
+      "slug": "邵佳一带国足8场-4333ab",
+      "tags": [
+        "Shao Jiayi",
+        "China national team",
+        "AFC Asian Cup",
+        "World Cup qualifiers"
+      ],
+      "keywords": [
+        "Shao Jiayi",
+        "China national team",
+        "AFC Asian Cup",
+        "World Cup qualifiers"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "热点球评",
+      "topic_category": "中国足球",
+      "column_id": "chen-du-kuai-xun",
+      "column_name": "晨读快讯",
+      "batch_name": "晨读",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    },
+    {
+      "index": 2,
+      "title": "没想到亚洲杯一延期，国足和申花的日子全乱套了",
+      "path": "/home/runner/work/_temp/output/2026-11-03/article-2-没想到亚洲杯一延-0097a3.md",
+      "slug": "没想到亚洲杯一延-0097a3",
+      "tags": [
+        "AFC Asian Cup",
+        "CSL",
+        "AFC Champions League",
+        "Shenhua",
+        "national team"
+      ],
+      "keywords": [
+        "AFC Asian Cup",
+        "CSL",
+        "AFC Champions League",
+        "Shenhua",
+        "national team"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "八卦趣事",
+      "topic_category": "中国足球",
+      "column_id": "hua-ti-lei-tai",
+      "column_name": "话题擂台",
+      "batch_name": "晨读",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    }
+  ],
+  "topics": [
+    {
+      "title": "亚洲杯突然延期，邵佳一这盘棋是赚了还是被坑了？",
+      "angle": "亚洲杯延期到2027年底，邵佳一上任两年无大赛、先踢4轮世预赛再打亚洲杯，节奏全乱。这到底是给了国足喘息还是把邵佳一架上火烤？我的态度：延期对国足是双刃剑，但对邵佳一个人是纯压力——热身赛3连败在前，世预赛先来，输不起。",
+      "keywords": [
+        "Shao Jiayi",
+        "AFC Asian Cup",
+        "China national team",
+        "World Cup qualifiers"
+      ],
+      "keywords_cn": [
+        "邵佳一",
+        "亚洲杯延期",
+        "国足",
+        "世预赛"
+      ],
+      "content_type": "热点球评",
+      "score": 92,
+      "controversy_level": "high",
+      "target_emotion": "愤怒",
+      "resonance_angle": "国足情结",
+      "series_id": "guozu-chronicle",
+      "why_pick": "国足主帅处境+赛程乱局，老球迷集体记忆最强共鸣点",
+      "_category": "中国足球",
+      "_column_id": "chen-du-kuai-xun",
+      "_column_name": "晨读快讯",
+      "_column_icon": "📰",
+      "_writing_style": "群聊播报体",
+      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_word_count_range": [
+        300,
+        500
+      ],
+      "_interaction_type": "prediction_poll",
+      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_topic_domain": "足球快讯",
+      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-0"
+    },
+    {
+      "title": "46年没赢过中国的马来西亚，如今竟敢这么说我们？",
+      "angle": "马来媒直言中国队陷入困境、马来西亚上次赢中国还是46年前——这话听着像恭维，其实是刀子。我不服：46年的账是历史，但拿历史当遮羞布最危险。国足现在最怕的就是被东南亚球队当成'可以咬一口'的对象。",
+      "keywords": [
+        "Malaysia",
+        "China national team",
+        "Southeast Asia football"
+      ],
+      "keywords_cn": [
+        "马来西亚",
+        "国足",
+        "东南亚足球",
+        "46年"
+      ],
+      "content_type": "八卦趣事",
+      "score": 85,
+      "controversy_level": "medium",
+      "target_emotion": "愤怒",
+      "resonance_angle": "国足情结",
+      "series_id": "无",
+      "why_pick": "邻国轻视戳中老球迷自尊，反差感强易引战",
+      "_category": "中国足球",
+      "_column_id": "hua-ti-lei-tai",
+      "_column_name": "话题擂台",
+      "_column_icon": "🥊",
+      "_writing_style": "烧烤摊辩论体",
+      "_style_detail": "先摆出争议话题（一句话定调）→ 正方观点（2-3个论据）→ 反方观点（2-3个论据）→ 老六站队（亮明态度+核心论据）→ 邀请读者站队。语气像烧烤摊上和朋友抬杠，可以激动但不说脏话。必须给双方都有说话的机会，但最后必须有你自己的态度。",
+      "_word_count_range": [
+        400,
+        600
+      ],
+      "_interaction_type": "side_taking_vote",
+      "_interaction_guidance": "文末明确说'评论区站队——支持XX的扣1，反对的扣2，我先来：我站[1/2]，因为...'",
+      "_topic_domain": "足球争议话题",
+      "_topic_guidance": "一个有争议的足球话题，列出正反两方观点，最后给出老六的站队并说明理由。话题要能让读者看完后立刻想去评论区表态。适合的话题：'XX该不该下课''XX转会到底值不值''VAR到底该不该废除'等。",
+      "_data_source_hint": "gzh_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-1"
+    }
+  ],
+  "data_sources": {},
+  "supply_layers": {
+    "total": 2,
+    "counts": {
+      "一级·确定性": 0,
+      "二级·突发": 2,
+      "三级·软性": 0
+    },
+    "ratios": {
+      "一级·确定性": 0.0,
+      "二级·突发": 100.0,
+      "三级·软性": 0.0
+    },
+    "targets": {
+      "一级·确定性": 30.0,
+      "二级·突发": 50.0,
+      "三级·软性": 20.0
+    },
+    "deviations": {
+      "一级·确定性": -30.0,
+      "二级·突发": 50.0,
+      "三级·软性": -20.0
+    },
+    "unclassified": 0
+  },
+  "degrade_events": [
+    {
+      "环节": "赛程源",
+      "原因": "本批无可用赛程选题（源不可用或无匹配）",
+      "处置": "退化为纯新闻流驱动，选题池仅由事实卡装配",
+      "数量": 1
+    }
+  ],
+  "type": "match_analysis",
+  "quota": {
+    "batch": "morning",
+    "max_articles": 2,
+    "uplifted": false,
+    "reason": null,
+    "requested_reason": null,
+    "normal_max": 2,
+    "uplift_max": 3,
+    "weekly_limit": 2,
+    "weekly_used": 0,
+    "detail": "常态 2 篇",
+    "source": "策略手册 第五章 / 完善计划 12.1"
+  },
+  "ranker_mode": "rule",
+  "batches_completed": [
+    "morning"
+  ],
+  "last_batch": "morning",
+  "last_updated": "2026-11-03 15:11:00"
+}
