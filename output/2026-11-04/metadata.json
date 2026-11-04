@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T06:54:32.741375",
-  "total_articles": 2,
+  "generated_at": "2026-11-04T12:31:38.581368",
+  "total_articles": 4,
   "articles": [
     {
       "index": 1,
@@ -68,94 +68,164 @@
       "is_prediction": false,
       "is_recap": false,
       "supply_layer": "未分层"
+    },
+    {
+      "index": 1,
+      "title": "成都蓉城领先3分却连败，这冠军悬念比国足还磨人？",
+      "path": "/home/runner/work/_temp/output/2026-11-04/article-1-成都蓉城领先3分-734eda.md",
+      "slug": "成都蓉城领先3分-734eda",
+      "tags": [
+        "Chengdu Rongcheng",
+        "CSL",
+        "title race",
+        "losing streak",
+        "Chinese football"
+      ],
+      "keywords": [
+        "Chengdu Rongcheng",
+        "CSL",
+        "title race",
+        "losing streak",
+        "Chinese football"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "热点球评",
+      "topic_category": "中国足球",
+      "column_id": "re-dian-su-ping",
+      "column_name": "热点速评",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    },
+    {
+      "index": 2,
+      "title": "CIES榜单出炉：英超青训占比倒数第3，中超竟压过五大联赛？",
+      "path": "/home/runner/work/_temp/output/2026-11-04/article-2-CIES榜单出炉-a35602.md",
+      "slug": "CIES榜单出炉-a35602",
+      "tags": [
+        "CIES",
+        "youth academy",
+        "CSL",
+        "A-League",
+        "Premier League"
+      ],
+      "keywords": [
+        "CIES",
+        "youth academy",
+        "CSL",
+        "A-League",
+        "Premier League"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "排行榜",
+      "topic_category": "中国足球",
+      "column_id": "wu-jian-kuai-xun",
+      "column_name": "午间快讯",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "三级·软性"
     }
   ],
   "topics": [
     {
-      "title": "黄潜主场0-6被巴黎打成筛子，这防线到底是漏还是散？",
-      "angle": "比利亚雷亚尔主场0-6惨败巴黎，不是被打穿，是自己先散了。这种比分对西甲球队是耻辱，对巴黎是宣言——但我更想说黄潜这套防守体系已经烂到根了。",
+      "title": "没想到成都争冠最后掉链子，这剧本老球迷是不是在哪见过？",
+      "angle": "卫报都跑来关注中超争冠了，成都这波世纪掉链子，比输球更扎心的是那种熟悉感——中国足球总在临门一脚掉链子，老球迷看一次心梗一次。",
       "keywords": [
-        "Villarreal",
-        "Paris Saint-Germain",
-        "Champions League"
+        "Chengdu Rongcheng",
+        "CSL title race",
+        "Guardian",
+        "Dalian"
       ],
       "keywords_cn": [
-        "比利亚雷亚尔",
-        "巴黎圣日耳曼",
-        "欧冠"
+        "成都蓉城",
+        "中超争冠",
+        "卫报",
+        "大连"
       ],
       "content_type": "热点球评",
-      "score": 85,
-      "controversy_level": "high",
-      "target_emotion": "震惊",
-      "resonance_angle": "无",
-      "series_id": "无",
-      "why_pick": "0-6极端比分自带冲击力，防线话题有争议",
-      "_category": "战报比分",
-      "_column_id": "hua-ti-lei-tai",
-      "_column_name": "话题擂台",
-      "_column_icon": "🥊",
-      "_writing_style": "烧烤摊辩论体",
-      "_style_detail": "先摆出争议话题（一句话定调）→ 正方观点（2-3个论据）→ 反方观点（2-3个论据）→ 老六站队（亮明态度+核心论据）→ 邀请读者站队。语气像烧烤摊上和朋友抬杠，可以激动但不说脏话。必须给双方都有说话的机会，但最后必须有你自己的态度。",
+      "score": 88,
+      "controversy_level": "medium",
+      "target_emotion": "怀旧",
+      "resonance_angle": "国足情结",
+      "series_id": "guozu-chronicle",
+      "why_pick": "外媒关注+掉链子宿命感，戳中国足球集体记忆",
+      "_category": "中国足球",
+      "_column_id": "re-dian-su-ping",
+      "_column_name": "热点速评",
+      "_column_icon": "🔥",
+      "_writing_style": "赛后快刀体",
+      "_style_detail": "直接砸观点不铺垫 → 2-3个论据支撑 → 亮明立场。像从沙发上跳起来说的第一句话，锋利不留余地。500字以内，短平快。",
       "_word_count_range": [
         400,
         600
       ],
       "_interaction_type": "side_taking_vote",
-      "_interaction_guidance": "文末明确说'评论区站队——支持XX的扣1，反对的扣2，我先来：我站[1/2]，因为...'",
-      "_topic_domain": "足球争议话题",
-      "_topic_guidance": "一个有争议的足球话题，列出正反两方观点，最后给出老六的站队并说明理由。话题要能让读者看完后立刻想去评论区表态。适合的话题：'XX该不该下课''XX转会到底值不值''VAR到底该不该废除'等。",
-      "_data_source_hint": "gzh_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_interaction_guidance": "文末说：'觉得我说得对的扣1，觉得我太极端的扣2，我先来：我扣1，因为...'",
+      "_topic_domain": "足球热点评论",
+      "_topic_guidance": "从上午的比赛/新闻中选一个最值得聊的话题，快速给出观点和点评。不是深度分析，是'看完比赛后和朋友说的第一句话'。可以是一场精彩比赛的快速复盘，也可以是一个转会传闻的犀利点评。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-1"
     },
     {
-      "title": "40岁大卫·席尔瓦只踢一场就飞香港，这算传奇谢幕还是走穴？",
-      "angle": "40岁的西班牙黄金一代中场大师，专程飞到香港只为踢一场港超。这不是落魄，是老派球员对足球最后的浪漫——但也得问一句，这种一场秀到底值不值。",
+      "title": "中超青训出场率全球第20，西甲第6英超倒3，这数据你信吗？",
+      "angle": "一个反常识数据：中超青训球员出场占比居然压过英超。别急着骄傲，这背后是联赛水平低、外援少、没钱买人的无奈，不是青训成功。",
       "keywords": [
-        "David Silva",
-        "Hong Kong Premier League",
-        "Spain golden generation"
+        "youth academy",
+        "CSL",
+        "Premier League",
+        "La Liga",
+        "playing time"
       ],
       "keywords_cn": [
-        "大卫·席尔瓦",
-        "港超",
-        "西班牙黄金一代"
+        "青训",
+        "中超",
+        "英超",
+        "西甲",
+        "出场占比"
       ],
-      "content_type": "八卦趣事",
-      "score": 88,
+      "content_type": "排行榜",
+      "score": 82,
       "controversy_level": "medium",
-      "target_emotion": "怀旧",
-      "resonance_angle": "老球迷身份认同",
-      "series_id": "old-fan-night",
-      "why_pick": "黄金一代名将谢幕，戳老球迷青春记忆",
-      "_category": "未分类",
-      "_column_id": "chen-du-kuai-xun",
-      "_column_name": "晨读快讯",
-      "_column_icon": "📰",
+      "target_emotion": "好奇",
+      "resonance_angle": "国足情结",
+      "series_id": "无",
+      "why_pick": "反常识数据+中外对比，自带争议和讨论空间",
+      "_category": "冲突舆情",
+      "_column_id": "wu-jian-kuai-xun",
+      "_column_name": "午间快讯",
+      "_column_icon": "⚡",
       "_writing_style": "群聊播报体",
-      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_style_detail": "3-5条消息，每条3-5句。格式：【事件概述】+ 一句话老六辣评。短句、快节奏、有信息量但不啰嗦。每条独立成块。",
       "_word_count_range": [
         300,
         500
       ],
       "_interaction_type": "prediction_poll",
-      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_interaction_guidance": "文末放一个投票：'今天上午最劲爆的消息是？A.XX B.XX C.XX，我选A，你呢？'",
       "_topic_domain": "足球快讯",
-      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_topic_guidance": "上午最新足球消息精选：比赛结果、转会动态、突发事件。用短句快节奏呈现，每条独立成块，每条包含事件概述+一句话老六辣评。像中午在食堂打开手机扫一眼就知道上午发生了什么。",
       "_data_source_hint": "match_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-0"
-    },
-    {
-      "title": "塔什干棉农 2-6 利雅得胜利，8球对攻大战",
-      "content_type": "紧急球评-进球大战"
     }
   ],
   "data_sources": {},
@@ -164,12 +234,12 @@
     "counts": {
       "一级·确定性": 0,
       "二级·突发": 1,
-      "三级·软性": 0
+      "三级·软性": 1
     },
     "ratios": {
       "一级·确定性": 0.0,
       "二级·突发": 50.0,
-      "三级·软性": 0.0
+      "三级·软性": 50.0
     },
     "targets": {
       "一级·确定性": 30.0,
@@ -179,9 +249,9 @@
     "deviations": {
       "一级·确定性": -30.0,
       "二级·突发": 0.0,
-      "三级·软性": -20.0
+      "三级·软性": 30.0
     },
-    "unclassified": 1
+    "unclassified": 0
   },
   "degrade_events": [
     {
@@ -189,17 +259,11 @@
       "原因": "本批无可用赛程选题（源不可用或无匹配）",
       "处置": "退化为纯新闻流驱动，选题池仅由事实卡装配",
       "数量": 1
-    },
-    {
-      "环节": "软性补位跳过",
-      "原因": "晨读批禁用软性补位（P0-2：晨读吃隔夜赛果+硬新闻）",
-      "处置": "本批篇数不足，按实际成稿发布（不拿软性顶替）",
-      "数量": 1
     }
   ],
   "type": "match_analysis",
   "quota": {
-    "batch": "morning",
+    "batch": "noon",
     "max_articles": 2,
     "uplifted": false,
     "reason": null,
@@ -213,8 +277,9 @@
   },
   "ranker_mode": "llm",
   "batches_completed": [
-    "morning"
+    "morning",
+    "noon"
   ],
-  "last_batch": "morning",
-  "last_updated": "2026-11-04 14:54:32"
+  "last_batch": "noon",
+  "last_updated": "2026-11-04 20:31:38"
 }
