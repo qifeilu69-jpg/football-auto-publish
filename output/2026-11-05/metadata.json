@@ -1,0 +1,300 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T07:13:59.997063",
+  "total_articles": 3,
+  "articles": [
+    {
+      "index": 1,
+      "title": "1-9！朗斯主场被打成筛子，官方账号赛后一小时竟一声不吭？",
+      "path": "/home/runner/work/_temp/output/2026-11-05/article-1-19朗斯主场被打-209df0.md",
+      "slug": "19朗斯主场被打-209df0",
+      "tags": [
+        "Lens",
+        "Como",
+        "Champions League",
+        "1-9",
+        "official account silence"
+      ],
+      "keywords": [
+        "Lens",
+        "Como",
+        "Champions League",
+        "1-9",
+        "official account silence"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "人物故事",
+      "topic_category": "战报比分",
+      "column_id": "chen-du-kuai-xun",
+      "column_name": "人物故事",
+      "batch_name": "晨读",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "三级·软性"
+    },
+    {
+      "index": 2,
+      "title": "斯坦丘晒照背后，大连英博这场面比赢球还稀罕？",
+      "path": "/home/runner/work/_temp/output/2026-11-05/article-2-斯坦丘晒照背后大-d73fa5.md",
+      "slug": "斯坦丘晒照背后大-d73fa5",
+      "tags": [
+        "Dalian Yingbo",
+        "Stanciu",
+        "flagship store",
+        "Li Guoxu",
+        "CSL"
+      ],
+      "keywords": [
+        "Dalian Yingbo",
+        "Stanciu",
+        "flagship store",
+        "Li Guoxu",
+        "CSL"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "八卦趣事",
+      "topic_category": "未分类",
+      "column_id": "chen-du-kuai-xun",
+      "column_name": "晨读快讯",
+      "batch_name": "晨读",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    },
+    {
+      "index": 3,
+      "title": "中国女足抽签分档第18位，没想到出线路竟藏在这两个小组第二里？",
+      "path": "/home/runner/work/_temp/output/2026-11-05/article-3-中国女足抽签分档-751929.md",
+      "slug": "中国女足抽签分档-751929",
+      "tags": [
+        "women football",
+        "Olympic qualifier",
+        "China women team",
+        "draw",
+        "Asian Cup"
+      ],
+      "keywords": [
+        "women football",
+        "Olympic qualifier",
+        "China women team",
+        "draw",
+        "Asian Cup"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "热点球评",
+      "topic_category": "战报比分",
+      "column_id": "hua-ti-lei-tai",
+      "column_name": "话题擂台",
+      "batch_name": "晨读",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    }
+  ],
+  "topics": [
+    {
+      "title": "朗斯主场1-9被血洗，小法赛后那句后悔到底在说谁？",
+      "angle": "法布雷加斯执教科莫在欧冠客场9球血洗朗斯，赛后却提此前4-0曼联时的人员安排说后悔——赢成这样还后悔，这是凡尔赛还是真有不甘？老六认为这是名帅雏形的胜负欲。",
+      "keywords": [
+        "Lens",
+        "Como",
+        "Fabregas",
+        "Champions League"
+      ],
+      "keywords_cn": [
+        "朗斯",
+        "科莫",
+        "法布雷加斯",
+        "欧冠"
+      ],
+      "content_type": "人物故事",
+      "score": 93,
+      "controversy_level": "high",
+      "target_emotion": "震惊",
+      "resonance_angle": "名帅名宿沉浮",
+      "series_id": "无",
+      "why_pick": "9球惨案加小法凡尔赛式后悔，反差极强",
+      "_category": "战报比分",
+      "_column_id": "chen-du-kuai-xun",
+      "_column_name": "人物故事",
+      "_column_icon": "📰",
+      "_writing_style": "群聊播报体",
+      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_word_count_range": [
+        300,
+        500
+      ],
+      "_interaction_type": "prediction_poll",
+      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_topic_domain": "足球快讯",
+      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-2",
+      "_degraded": true
+    },
+    {
+      "title": "斯坦丘被球迷围住喊出周日必胜，大连这股劲原来从哪来？",
+      "angle": "斯坦丘出席活动被球迷团团围住，直言希望周日赢球、大连独一无二。老六从球迷围堵的画面切入，聊这座足球城对球队的执念与主场氛围的分量。",
+      "keywords": [
+        "Stanciu",
+        "Dalian",
+        "home atmosphere",
+        "CSL"
+      ],
+      "keywords_cn": [
+        "斯坦丘",
+        "大连",
+        "主场氛围",
+        "中超"
+      ],
+      "content_type": "八卦趣事",
+      "score": 82,
+      "controversy_level": "low",
+      "target_emotion": "感动",
+      "resonance_angle": "老球迷身份认同",
+      "series_id": "old-fan-night",
+      "why_pick": "球迷围堵画面有细节有情绪，足球城情怀",
+      "_category": "中国足球",
+      "_column_id": "chen-du-kuai-xun",
+      "_column_name": "晨读快讯",
+      "_column_icon": "📰",
+      "_writing_style": "群聊播报体",
+      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_word_count_range": [
+        300,
+        500
+      ],
+      "_interaction_type": "prediction_poll",
+      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_topic_domain": "足球快讯",
+      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-0"
+    },
+    {
+      "title": "中国女足奥预赛只排第3档，8队抢2.5席这次真悬了吗？",
+      "angle": "官方公布中国女足将以第3档参加奥预赛亚洲区抽签，8队争2.5个名额。老六直说：档位就是实力的镜子，别再拿情怀当遮羞布，但抽签能不能抽条活路值得掰扯。",
+      "keywords": [
+        "China women national team",
+        "Olympic qualifier",
+        "AFC",
+        "draw"
+      ],
+      "keywords_cn": [
+        "中国女足",
+        "奥预赛",
+        "亚洲区",
+        "抽签"
+      ],
+      "content_type": "热点球评",
+      "score": 88,
+      "controversy_level": "medium",
+      "target_emotion": "愤怒",
+      "resonance_angle": "国足情结",
+      "series_id": "guozu-chronicle",
+      "why_pick": "女足档位下滑戳中恨铁不成钢的集体情绪",
+      "_category": "未分类",
+      "_column_id": "hua-ti-lei-tai",
+      "_column_name": "话题擂台",
+      "_column_icon": "🥊",
+      "_writing_style": "烧烤摊辩论体",
+      "_style_detail": "先摆出争议话题（一句话定调）→ 正方观点（2-3个论据）→ 反方观点（2-3个论据）→ 老六站队（亮明态度+核心论据）→ 邀请读者站队。语气像烧烤摊上和朋友抬杠，可以激动但不说脏话。必须给双方都有说话的机会，但最后必须有你自己的态度。",
+      "_word_count_range": [
+        400,
+        600
+      ],
+      "_interaction_type": "side_taking_vote",
+      "_interaction_guidance": "文末明确说'评论区站队——支持XX的扣1，反对的扣2，我先来：我站[1/2]，因为...'",
+      "_topic_domain": "足球争议话题",
+      "_topic_guidance": "一个有争议的足球话题，列出正反两方观点，最后给出老六的站队并说明理由。话题要能让读者看完后立刻想去评论区表态。适合的话题：'XX该不该下课''XX转会到底值不值''VAR到底该不该废除'等。",
+      "_data_source_hint": "gzh_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-1"
+    }
+  ],
+  "data_sources": {},
+  "supply_layers": {
+    "total": 3,
+    "counts": {
+      "一级·确定性": 0,
+      "二级·突发": 2,
+      "三级·软性": 1
+    },
+    "ratios": {
+      "一级·确定性": 0.0,
+      "二级·突发": 66.7,
+      "三级·软性": 33.3
+    },
+    "targets": {
+      "一级·确定性": 30.0,
+      "二级·突发": 50.0,
+      "三级·软性": 20.0
+    },
+    "deviations": {
+      "一级·确定性": -30.0,
+      "二级·突发": 16.7,
+      "三级·软性": 13.3
+    },
+    "unclassified": 0
+  },
+  "degrade_events": [
+    {
+      "环节": "赛程源",
+      "原因": "本批无可用赛程选题（源不可用或无匹配）",
+      "处置": "退化为纯新闻流驱动，选题池仅由事实卡装配",
+      "数量": 1
+    },
+    {
+      "环节": "一致性校验",
+      "原因": "事实验证连续不过: 缺少客队名: 血洗",
+      "处置": "降级为低风险板块（人物故事）后重生成一次",
+      "数量": 1
+    }
+  ],
+  "type": "match_analysis",
+  "quota": {
+    "batch": "morning",
+    "max_articles": 3,
+    "uplifted": true,
+    "reason": "thursday_boost",
+    "requested_reason": "thursday_boost",
+    "normal_max": 2,
+    "uplift_max": 3,
+    "weekly_limit": 2,
+    "weekly_used": 1,
+    "detail": "加发 3 篇（原因 thursday_boost，周内 1/2）",
+    "source": "策略手册 第五章 / 完善计划 12.1"
+  },
+  "ranker_mode": "llm",
+  "batches_completed": [
+    "morning"
+  ],
+  "last_batch": "morning",
+  "last_updated": "2026-11-05 15:13:59"
+}
