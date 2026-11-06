@@ -1,7 +1,7 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T07:13:13.305994",
-  "total_articles": 2,
+  "generated_at": "2026-11-06T12:26:04.377335",
+  "total_articles": 4,
   "articles": [
     {
       "index": 1,
@@ -70,53 +70,164 @@
       "is_prediction": false,
       "is_recap": false,
       "supply_layer": "未分层"
+    },
+    {
+      "index": 1,
+      "title": "19岁肇宸惟连续入围U19国足，这孩子到底什么来头？",
+      "path": "/home/runner/work/_temp/output/2026-11-06/article-1-19岁肇宸惟连续-5ea7c5.md",
+      "slug": "19岁肇宸惟连续-5ea7c5",
+      "tags": [
+        "U19国足",
+        "Zhao Chenwei",
+        "training squad",
+        "Chinese football youth"
+      ],
+      "keywords": [
+        "U19国足",
+        "Zhao Chenwei",
+        "training squad",
+        "Chinese football youth"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "八卦趣事",
+      "topic_category": "中国足球",
+      "column_id": "wu-jian-kuai-xun",
+      "column_name": "午间快讯",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    },
+    {
+      "index": 2,
+      "title": "68岁田岛幸三要挑战因凡蒂诺，没想到日本足协这次真敢掀桌子",
+      "path": "/home/runner/work/_temp/output/2026-11-06/article-2-68岁田岛幸三要-37b117.md",
+      "slug": "68岁田岛幸三要-37b117",
+      "tags": [
+        "Tajima",
+        "Infantino",
+        "FIFA",
+        "election",
+        "JFA"
+      ],
+      "keywords": [
+        "Tajima",
+        "Infantino",
+        "FIFA",
+        "election",
+        "JFA"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "热点球评",
+      "topic_category": "未分类",
+      "column_id": "re-dian-su-ping",
+      "column_name": "热点速评",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
     }
   ],
   "topics": [
     {
-      "title": "恩佐·阿尔维斯进西班牙世少赛名单，马塞洛的儿子却穿错了球衣？",
-      "angle": "马塞洛之子恩佐·阿尔维斯入选西班牙U17世少赛名单，首战对阵中国U17。老六态度：巴西传奇的儿子代表西班牙，这身份错位本身就够聊一晚上，顺带看看咱们U17碰上的是什么成色的对手。",
+      "title": "肇俊哲儿子入选U19国足，22年前那脚门柱原来没白打",
+      "angle": "肇宸惟入选U19国足出战熊猫杯，从父亲肇俊哲02世界杯击中巴西门柱讲到今天，写中国足球少见的父子传承，态度是：这份执念值得尊重，但别给孩子扣'下一个谁'的帽子。",
       "keywords": [
-        "Enzo Alves",
-        "Marcelo",
-        "U17 World Cup"
+        "zhao Junzhe",
+        "zhao Chenwei",
+        "china u19",
+        "panda cup",
+        "world cup 2002"
       ],
       "keywords_cn": [
-        "恩佐·阿尔维斯",
-        "马塞洛",
-        "世少赛"
+        "肇俊哲",
+        "肇宸惟",
+        "U19国足",
+        "熊猫杯",
+        "2002世界杯"
       ],
       "content_type": "八卦趣事",
-      "score": 78,
-      "controversy_level": "low",
-      "target_emotion": "好奇",
+      "score": 92,
+      "controversy_level": "medium",
+      "target_emotion": "怀旧",
       "resonance_angle": "国足情结",
-      "series_id": "无",
-      "why_pick": "名宿之子身份反差+中国U17对手双重钩子",
-      "_category": "未分类",
-      "_column_id": "chen-du-kuai-xun",
-      "_column_name": "晨读快讯",
-      "_column_icon": "📰",
+      "series_id": "guozu-chronicle",
+      "why_pick": "父子传承接02世界杯记忆，老球迷DNA动了",
+      "_category": "中国足球",
+      "_column_id": "wu-jian-kuai-xun",
+      "_column_name": "午间快讯",
+      "_column_icon": "⚡",
       "_writing_style": "群聊播报体",
-      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_style_detail": "3-5条消息，每条3-5句。格式：【事件概述】+ 一句话老六辣评。短句、快节奏、有信息量但不啰嗦。每条独立成块。",
       "_word_count_range": [
         300,
         500
       ],
       "_interaction_type": "prediction_poll",
-      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_interaction_guidance": "文末放一个投票：'今天上午最劲爆的消息是？A.XX B.XX C.XX，我选A，你呢？'",
       "_topic_domain": "足球快讯",
-      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_topic_guidance": "上午最新足球消息精选：比赛结果、转会动态、突发事件。用短句快节奏呈现，每条独立成块，每条包含事件概述+一句话老六辣评。像中午在食堂打开手机扫一眼就知道上午发生了什么。",
       "_data_source_hint": "match_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-0"
     },
     {
-      "title": "朗斯 1-9 科莫，10球对攻大战",
-      "content_type": "紧急球评-进球大战"
+      "title": "日本足协前主席要去竞选国际足联主席，亚洲足球这回想翻身？",
+      "angle": "田岛幸三确认竞选国际足联主席，从亚洲足球在国际足联话语权的历史短板切入，态度鲜明：这是亚洲足球难得的机会，但光靠情怀选不上，得看背后票仓博弈。",
+      "keywords": [
+        "tajima",
+        "fifa president",
+        "japan fa",
+        "asian football",
+        "election"
+      ],
+      "keywords_cn": [
+        "田岛幸三",
+        "国际足联主席",
+        "日本足协",
+        "亚洲足球",
+        "竞选"
+      ],
+      "content_type": "热点球评",
+      "score": 85,
+      "controversy_level": "high",
+      "target_emotion": "好奇",
+      "resonance_angle": "无",
+      "series_id": "无",
+      "why_pick": "亚洲足球话语权话题，中外对比戳中老球迷",
+      "_category": "未分类",
+      "_column_id": "re-dian-su-ping",
+      "_column_name": "热点速评",
+      "_column_icon": "🔥",
+      "_writing_style": "赛后快刀体",
+      "_style_detail": "直接砸观点不铺垫 → 2-3个论据支撑 → 亮明立场。像从沙发上跳起来说的第一句话，锋利不留余地。500字以内，短平快。",
+      "_word_count_range": [
+        400,
+        600
+      ],
+      "_interaction_type": "side_taking_vote",
+      "_interaction_guidance": "文末说：'觉得我说得对的扣1，觉得我太极端的扣2，我先来：我扣1，因为...'",
+      "_topic_domain": "足球热点评论",
+      "_topic_guidance": "从上午的比赛/新闻中选一个最值得聊的话题，快速给出观点和点评。不是深度分析，是'看完比赛后和朋友说的第一句话'。可以是一场精彩比赛的快速复盘，也可以是一个转会传闻的犀利点评。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
+      "_rank_id": "topic-1"
     }
   ],
   "data_sources": {},
@@ -124,12 +235,12 @@
     "total": 2,
     "counts": {
       "一级·确定性": 0,
-      "二级·突发": 1,
+      "二级·突发": 2,
       "三级·软性": 0
     },
     "ratios": {
       "一级·确定性": 0.0,
-      "二级·突发": 50.0,
+      "二级·突发": 100.0,
       "三级·软性": 0.0
     },
     "targets": {
@@ -139,10 +250,10 @@
     },
     "deviations": {
       "一级·确定性": -30.0,
-      "二级·突发": 0.0,
+      "二级·突发": 50.0,
       "三级·软性": -20.0
     },
-    "unclassified": 1
+    "unclassified": 0
   },
   "degrade_events": [
     {
@@ -150,17 +261,11 @@
       "原因": "本批无可用赛程选题（源不可用或无匹配）",
       "处置": "退化为纯新闻流驱动，选题池仅由事实卡装配",
       "数量": 1
-    },
-    {
-      "环节": "软性补位跳过",
-      "原因": "晨读批禁用软性补位（P0-2：晨读吃隔夜赛果+硬新闻）",
-      "处置": "本批篇数不足，按实际成稿发布（不拿软性顶替）",
-      "数量": 1
     }
   ],
   "type": "match_analysis",
   "quota": {
-    "batch": "morning",
+    "batch": "noon",
     "max_articles": 2,
     "uplifted": false,
     "reason": null,
@@ -174,8 +279,9 @@
   },
   "ranker_mode": "rule",
   "batches_completed": [
-    "morning"
+    "morning",
+    "noon"
   ],
-  "last_batch": "morning",
-  "last_updated": "2026-11-06 15:13:13"
+  "last_batch": "noon",
+  "last_updated": "2026-11-06 20:26:04"
 }
