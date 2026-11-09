@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T07:06:04.350784",
+  "total_articles": 1,
+  "articles": [
+    {
+      "index": 1,
+      "title": "大连英博52分夺冠，成都蓉城领先14分竟丢了冠军？",
+      "path": "/home/runner/work/_temp/output/2026-11-09/article-1-大连英博52分夺-3f0f6f.md",
+      "slug": "大连英博52分夺-3f0f6f",
+      "tags": [
+        "Dalian Yingbo",
+        "Chengdu Rongcheng",
+        "CSL",
+        "title race",
+        "final round"
+      ],
+      "keywords": [
+        "Dalian Yingbo",
+        "Chengdu Rongcheng",
+        "CSL",
+        "title race",
+        "final round"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "热点球评",
+      "topic_category": "中国足球",
+      "column_id": "hua-ti-lei-tai",
+      "column_name": "话题擂台",
+      "batch_name": "晨读",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    }
+  ],
+  "topics": [
+    {
+      "title": "曼城1-3栽在诺丁汉森林脚下，瓜迪奥拉这套还灵吗？",
+      "angle": "卫冕冠军客场翻车，问题不在运气，而在中场控制力下滑。老六要问：瓜帅那套传控是不是该改改了？",
+      "keywords": [
+        "Manchester City",
+        "Nottingham Forest",
+        "Guardiola"
+      ],
+      "keywords_cn": [
+        "曼城",
+        "诺丁汉森林",
+        "瓜迪奥拉"
+      ],
+      "content_type": "热点球评",
+      "score": 88,
+      "controversy_level": "high",
+      "target_emotion": "震惊",
+      "resonance_angle": "名帅名宿沉浮",
+      "series_id": "无",
+      "why_pick": "豪门翻车加名帅质疑，最容易引爆讨论",
+      "_category": "战报比分",
+      "_column_id": "hua-ti-lei-tai",
+      "_column_name": "话题擂台",
+      "_column_icon": "🥊",
+      "_writing_style": "烧烤摊辩论体",
+      "_style_detail": "先摆出争议话题（一句话定调）→ 正方观点（2-3个论据）→ 反方观点（2-3个论据）→ 老六站队（亮明态度+核心论据）→ 邀请读者站队。语气像烧烤摊上和朋友抬杠，可以激动但不说脏话。必须给双方都有说话的机会，但最后必须有你自己的态度。",
+      "_word_count_range": [
+        400,
+        600
+      ],
+      "_interaction_type": "side_taking_vote",
+      "_interaction_guidance": "文末明确说'评论区站队——支持XX的扣1，反对的扣2，我先来：我站[1/2]，因为...'",
+      "_topic_domain": "足球争议话题",
+      "_topic_guidance": "一个有争议的足球话题，列出正反两方观点，最后给出老六的站队并说明理由。话题要能让读者看完后立刻想去评论区表态。适合的话题：'XX该不该下课''XX转会到底值不值''VAR到底该不该废除'等。",
+      "_data_source_hint": "gzh_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-3"
+    },
+    {
+      "title": "蓉城14分优势竟丢了冠军，这崩盘到底该怪谁？",
+      "angle": "剩5轮领先14分却丢冠，不是命不好，是后半程只赢2场的管理和心态双重崩盘。",
+      "keywords": [
+        "Chengdu Rongcheng",
+        "CSL",
+        "title collapse"
+      ],
+      "keywords_cn": [
+        "成都蓉城",
+        "中超",
+        "丢冠"
+      ],
+      "content_type": "热点球评",
+      "score": 92,
+      "controversy_level": "high",
+      "target_emotion": "愤怒",
+      "resonance_angle": "老球迷身份认同",
+      "series_id": "无",
+      "why_pick": "超大优势丢冠，争议和情绪拉满",
+      "_category": "冲突舆情",
+      "_column_id": "hua-ti-lei-tai",
+      "_column_name": "话题擂台",
+      "_column_icon": "🥊",
+      "_writing_style": "烧烤摊辩论体",
+      "_style_detail": "先摆出争议话题（一句话定调）→ 正方观点（2-3个论据）→ 反方观点（2-3个论据）→ 老六站队（亮明态度+核心论据）→ 邀请读者站队。语气像烧烤摊上和朋友抬杠，可以激动但不说脏话。必须给双方都有说话的机会，但最后必须有你自己的态度。",
+      "_word_count_range": [
+        400,
+        600
+      ],
+      "_interaction_type": "side_taking_vote",
+      "_interaction_guidance": "文末明确说'评论区站队——支持XX的扣1，反对的扣2，我先来：我站[1/2]，因为...'",
+      "_topic_domain": "足球争议话题",
+      "_topic_guidance": "一个有争议的足球话题，列出正反两方观点，最后给出老六的站队并说明理由。话题要能让读者看完后立刻想去评论区表态。适合的话题：'XX该不该下课''XX转会到底值不值''VAR到底该不该废除'等。",
+      "_data_source_hint": "gzh_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-1"
+    },
+    {
+      "title": "王钰栋从B1升到A2，荷比丹真适合他吗？",
+      "angle": "球探评级上调是好事，但留洋不是镀金，选对联赛比选大联赛更重要。",
+      "keywords": [
+        "Wang Yudong",
+        "scout rating",
+        "overseas"
+      ],
+      "keywords_cn": [
+        "王钰栋",
+        "球探评级",
+        "留洋"
+      ],
+      "content_type": "转会资讯",
+      "score": 78,
+      "controversy_level": "medium",
+      "target_emotion": "好奇",
+      "resonance_angle": "国足情结",
+      "series_id": "无",
+      "why_pick": "留洋新星评级上调，国足未来话题",
+      "_category": "转会官宣",
+      "_column_id": "chen-du-kuai-xun",
+      "_column_name": "晨读快讯",
+      "_column_icon": "📰",
+      "_writing_style": "群聊播报体",
+      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_word_count_range": [
+        300,
+        500
+      ],
+      "_interaction_type": "prediction_poll",
+      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_topic_domain": "足球快讯",
+      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-0"
+    },
+    {
+      "title": "大连9冠超广州成足球城第一，这底蕴你服不服？",
+      "angle": "从万达时代到今天，大连足球的冠军基因不是偶然，是一座城市的足球文化沉淀。",
+      "keywords": [
+        "Dalian",
+        "CSL titles",
+        "football city"
+      ],
+      "keywords_cn": [
+        "大连",
+        "中超冠军",
+        "足球城"
+      ],
+      "content_type": "排行榜",
+      "score": 85,
+      "controversy_level": "medium",
+      "target_emotion": "骄傲",
+      "resonance_angle": "老球迷身份认同",
+      "series_id": "old-fan-night",
+      "why_pick": "城市足球底蕴话题，老球迷情怀拉满",
+      "_category": "中国足球",
+      "_column_id": "chen-du-kuai-xun",
+      "_column_name": "晨读快讯",
+      "_column_icon": "📰",
+      "_writing_style": "群聊播报体",
+      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_word_count_range": [
+        300,
+        500
+      ],
+      "_interaction_type": "prediction_poll",
+      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_topic_domain": "足球快讯",
+      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-2"
+    },
+    {
+      "title": "迈阿密国际 3-3 夏洛特，6球对攻大战",
+      "content_type": "紧急球评-进球大战"
+    }
+  ],
+  "data_sources": {},
+  "supply_layers": {
+    "total": 2,
+    "counts": {
+      "一级·确定性": 0,
+      "二级·突发": 1,
+      "三级·软性": 0
+    },
+    "ratios": {
+      "一级·确定性": 0.0,
+      "二级·突发": 50.0,
+      "三级·软性": 0.0
+    },
+    "targets": {
+      "一级·确定性": 30.0,
+      "二级·突发": 50.0,
+      "三级·软性": 20.0
+    },
+    "deviations": {
+      "一级·确定性": -30.0,
+      "二级·突发": 0.0,
+      "三级·软性": -20.0
+    },
+    "unclassified": 1
+  },
+  "degrade_events": [
+    {
+      "环节": "赛程源",
+      "原因": "本批无可用赛程选题（源不可用或无匹配）",
+      "处置": "退化为纯新闻流驱动，选题池仅由事实卡装配",
+      "数量": 1
+    },
+    {
+      "环节": "软性补位跳过",
+      "原因": "晨读批禁用软性补位（P0-2：晨读吃隔夜赛果+硬新闻）",
+      "处置": "本批篇数不足，按实际成稿发布（不拿软性顶替）",
+      "数量": 1
+    }
+  ],
+  "pending_review": [
+    {
+      "id": "2026-11-09-2-b60390",
+      "index": 2,
+      "title": "梅西送出助攻，迈阿密3-0领先竟被夏洛特追成3-3？",
+      "reasons": [
+        "伤病(命中：伤退)"
+      ]
+    }
+  ],
+  "type": "match_analysis",
+  "quota": {
+    "batch": "morning",
+    "max_articles": 2,
+    "uplifted": false,
+    "reason": null,
+    "requested_reason": null,
+    "normal_max": 2,
+    "uplift_max": 3,
+    "weekly_limit": 2,
+    "weekly_used": 0,
+    "detail": "常态 2 篇",
+    "source": "策略手册 第五章 / 完善计划 12.1"
+  },
+  "ranker_mode": "llm",
+  "batches_completed": [
+    "morning"
+  ],
+  "last_batch": "morning",
+  "last_updated": "2026-11-09 15:06:04"
+}
