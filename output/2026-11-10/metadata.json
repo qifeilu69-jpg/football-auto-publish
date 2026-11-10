@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T07:43:39.661599",
-  "total_articles": 1,
+  "generated_at": "2026-11-10T12:56:32.820195",
+  "total_articles": 3,
   "articles": [
     {
       "index": 2,
@@ -36,93 +36,161 @@
       "is_prediction": false,
       "is_recap": false,
       "supply_layer": "二级·突发"
-    }
-  ],
-  "topics": [
+    },
     {
-      "title": "曼联4-4维拉这场，凭啥让我想起二十年前那支红魔？",
-      "angle": "八个进球看着热闹，其实是防守全面失控；但那种不要命往前压的疯劲，恰恰是老球迷怀念的曼联味道——现在的红魔丢的正是这股血性。",
+      "index": 1,
+      "title": "曼联4-4维拉竟靠补时两球续命，这8轮不胜谁还坐得住？",
+      "path": "/home/runner/work/_temp/output/2026-11-10/article-1-曼联44维拉竟靠-83e9ee.md",
+      "slug": "曼联44维拉竟靠-83e9ee",
+      "tags": [
+        "Manchester United",
+        "Aston Villa",
+        "Premier League",
+        "4-4",
+        "winless run"
+      ],
       "keywords": [
         "Manchester United",
         "Aston Villa",
         "Premier League",
+        "4-4",
+        "winless run"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "热点球评",
+      "topic_category": "战报比分",
+      "column_id": "re-dian-su-ping",
+      "column_name": "热点速评",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    },
+    {
+      "index": 2,
+      "title": "中足联颁奖礼上，杨晨一句话让老球迷想起02年那支国足",
+      "path": "/home/runner/work/_temp/output/2026-11-10/article-2-中足联颁奖礼上杨-33680f.md",
+      "slug": "中足联颁奖礼上杨-33680f",
+      "tags": [
+        "Yang Chen",
+        "Zhejiang FC",
+        "CFA awards",
+        "Chinese football",
+        "general manager"
+      ],
+      "keywords": [
+        "Yang Chen",
+        "Zhejiang FC",
+        "CFA awards",
+        "Chinese football",
+        "general manager"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "转会资讯",
+      "topic_category": "转会官宣",
+      "column_id": "wu-jian-kuai-xun",
+      "column_name": "午间快讯",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    }
+  ],
+  "topics": [
+    {
+      "title": "曼联4-4维拉这场，老球迷看完血压到底稳没稳住？",
+      "angle": "8个进球的对攻大战，不吹谁强谁弱，只聊这种比赛为什么让老球迷又爱又恨——防守集体失踪的背后是英超节奏的极致，也是两队后防的集体裸奔。",
+      "keywords": [
+        "manchester united",
+        "aston villa",
+        "premier league",
         "eight goals"
       ],
       "keywords_cn": [
         "曼联",
         "阿斯顿维拉",
         "英超",
-        "进球大战"
+        "对攻大战"
       ],
       "content_type": "热点球评",
       "score": 88,
-      "controversy_level": "medium",
-      "target_emotion": "怀旧",
+      "controversy_level": "high",
+      "target_emotion": "震惊",
       "resonance_angle": "老球迷身份认同",
       "series_id": "无",
-      "why_pick": "八个进球+红魔血性怀旧，老球迷DNA动",
+      "why_pick": "8球对攻自带话题，老球迷看球代入感强",
       "_category": "战报比分",
-      "_column_id": "hua-ti-lei-tai",
-      "_column_name": "话题擂台",
-      "_column_icon": "🥊",
-      "_writing_style": "烧烤摊辩论体",
-      "_style_detail": "先摆出争议话题（一句话定调）→ 正方观点（2-3个论据）→ 反方观点（2-3个论据）→ 老六站队（亮明态度+核心论据）→ 邀请读者站队。语气像烧烤摊上和朋友抬杠，可以激动但不说脏话。必须给双方都有说话的机会，但最后必须有你自己的态度。",
+      "_column_id": "re-dian-su-ping",
+      "_column_name": "热点速评",
+      "_column_icon": "🔥",
+      "_writing_style": "赛后快刀体",
+      "_style_detail": "直接砸观点不铺垫 → 2-3个论据支撑 → 亮明立场。像从沙发上跳起来说的第一句话，锋利不留余地。500字以内，短平快。",
       "_word_count_range": [
         400,
         600
       ],
       "_interaction_type": "side_taking_vote",
-      "_interaction_guidance": "文末明确说'评论区站队——支持XX的扣1，反对的扣2，我先来：我站[1/2]，因为...'",
-      "_topic_domain": "足球争议话题",
-      "_topic_guidance": "一个有争议的足球话题，列出正反两方观点，最后给出老六的站队并说明理由。话题要能让读者看完后立刻想去评论区表态。适合的话题：'XX该不该下课''XX转会到底值不值''VAR到底该不该废除'等。",
-      "_data_source_hint": "gzh_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_interaction_guidance": "文末说：'觉得我说得对的扣1，觉得我太极端的扣2，我先来：我扣1，因为...'",
+      "_topic_domain": "足球热点评论",
+      "_topic_guidance": "从上午的比赛/新闻中选一个最值得聊的话题，快速给出观点和点评。不是深度分析，是'看完比赛后和朋友说的第一句话'。可以是一场精彩比赛的快速复盘，也可以是一个转会传闻的犀利点评。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-1"
     },
     {
-      "title": "中超新规亏损上限1.8亿，这剂药能救活几家俱乐部？",
-      "angle": "中足联给中超戴上财务紧箍咒，年亏损不超1.8亿、三年累计5.4亿；问题是限亏不等于造血，光堵不疏，中小俱乐部该穷还是穷。",
+      "title": "杨晨谈王钰栋留洋要设计路线，这话怎么听着这么耳熟呢？",
+      "angle": "杨晨说留洋最重要是打上比赛、要设计好路线——这话没毛病，但中国球员留洋折在'路线'上的例子还少吗？从当年健力宝到如今，问题从来不是路线设计，是能不能真踢上球。",
       "keywords": [
-        "CSL",
-        "financial fair play",
-        "CFA",
-        "club finance"
+        "wang yudong",
+        "yang chen",
+        "overseas",
+        "chinese football"
       ],
       "keywords_cn": [
-        "中超",
-        "财务指标",
-        "中足联",
-        "俱乐部"
+        "王钰栋",
+        "杨晨",
+        "留洋",
+        "国足"
       ],
       "content_type": "转会资讯",
-      "score": 82,
-      "controversy_level": "high",
+      "score": 85,
+      "controversy_level": "medium",
       "target_emotion": "好奇",
       "resonance_angle": "国足情结",
-      "series_id": "无",
-      "why_pick": "新政争议大，牵动中超生存命脉",
+      "series_id": "guozu-chronicle",
+      "why_pick": "留洋话题戳国足情结，杨晨表态有增量",
       "_category": "转会官宣",
-      "_column_id": "chen-du-kuai-xun",
-      "_column_name": "晨读快讯",
-      "_column_icon": "📰",
+      "_column_id": "wu-jian-kuai-xun",
+      "_column_name": "午间快讯",
+      "_column_icon": "⚡",
       "_writing_style": "群聊播报体",
-      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_style_detail": "3-5条消息，每条3-5句。格式：【事件概述】+ 一句话老六辣评。短句、快节奏、有信息量但不啰嗦。每条独立成块。",
       "_word_count_range": [
         300,
         500
       ],
       "_interaction_type": "prediction_poll",
-      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_interaction_guidance": "文末放一个投票：'今天上午最劲爆的消息是？A.XX B.XX C.XX，我选A，你呢？'",
       "_topic_domain": "足球快讯",
-      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_topic_guidance": "上午最新足球消息精选：比赛结果、转会动态、突发事件。用短句快节奏呈现，每条独立成块，每条包含事件概述+一句话老六辣评。像中午在食堂打开手机扫一眼就知道上午发生了什么。",
       "_data_source_hint": "match_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-0"
     }
   ],
@@ -159,19 +227,9 @@
       "数量": 1
     }
   ],
-  "pending_review": [
-    {
-      "id": "2026-11-10-1-10bfbf",
-      "index": 1,
-      "title": "曼联4-4维拉还是不胜，8轮18名这剧本谁想得到",
-      "reasons": [
-        "伤病(命中：手术)"
-      ]
-    }
-  ],
   "type": "match_analysis",
   "quota": {
-    "batch": "morning",
+    "batch": "noon",
     "max_articles": 2,
     "uplifted": false,
     "reason": null,
@@ -185,8 +243,9 @@
   },
   "ranker_mode": "llm",
   "batches_completed": [
-    "morning"
+    "morning",
+    "noon"
   ],
-  "last_batch": "morning",
-  "last_updated": "2026-11-10 15:43:39"
+  "last_batch": "noon",
+  "last_updated": "2026-11-10 20:56:32"
 }
