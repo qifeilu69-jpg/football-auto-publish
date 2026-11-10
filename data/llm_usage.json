@@ -4,10 +4,10 @@
     "prompt_tokens": 0,
     "completion_tokens": 0,
     "total_tokens": 122000,
-    "fail_streak": 13,
+    "fail_streak": 14,
     "free_quota_pct": 87.8,
     "free_quota_expires_at": "2027-08-11 11:04:10",
-    "last_fail_at": "2026-11-09T15:02:35+08:00"
+    "last_fail_at": "2026-11-10T15:39:14+08:00"
   },
   "deepseek-v4-flash-202605": {
     "prompt_tokens": 172392,
@@ -21,32 +21,32 @@
     "prompt_tokens": 0,
     "completion_tokens": 0,
     "total_tokens": 21000,
-    "fail_streak": 10,
+    "fail_streak": 11,
     "free_quota_pct": 97.9,
     "free_quota_expires_at": "2027-08-27 13:40:03",
-    "last_fail_at": "2026-11-09T15:02:59+08:00"
+    "last_fail_at": "2026-11-10T15:40:14+08:00"
   },
   "glm-5.3": {
     "prompt_tokens": 335,
     "completion_tokens": 1728,
     "total_tokens": 36063,
-    "fail_streak": 7,
+    "fail_streak": 8,
     "free_quota_pct": 96.6,
     "free_quota_expires_at": "2027-09-14 09:24:30",
-    "last_fail_at": "2026-11-09T15:03:57+08:00"
+    "last_fail_at": "2026-11-10T15:41:15+08:00"
   },
   "deepseek/deepseek-v4-flash-vision-exp": {
-    "prompt_tokens": 389343,
-    "completion_tokens": 90746,
-    "total_tokens": 581923,
+    "prompt_tokens": 396173,
+    "completion_tokens": 92121,
+    "total_tokens": 590128,
     "fail_streak": 0,
     "free_quota_pct": 72.4,
     "free_quota_expires_at": "2027-09-14 09:24:30"
   },
   "deepseek/deepseek-flash": {
-    "prompt_tokens": 386430,
-    "completion_tokens": 79702,
-    "total_tokens": 587503,
+    "prompt_tokens": 393423,
+    "completion_tokens": 81341,
+    "total_tokens": 596135,
     "fail_streak": 0,
     "free_quota_pct": 66.9,
     "free_quota_expires_at": "2027-09-14 09:24:30"
@@ -64,10 +64,10 @@
     "prompt_tokens": 6481,
     "completion_tokens": 5734,
     "total_tokens": 523000,
-    "fail_streak": 2,
+    "fail_streak": 3,
     "free_quota_pct": 47.7,
     "free_quota_expires_at": "2027-09-14 09:24:30",
-    "last_fail_at": "2026-11-09T15:04:54+08:00"
+    "last_fail_at": "2026-11-10T15:42:15+08:00"
   },
   "hy4-preview": {
     "prompt_tokens": 0,
