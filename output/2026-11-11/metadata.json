@@ -1,0 +1,253 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T06:58:24.259710",
+  "total_articles": 2,
+  "articles": [
+    {
+      "index": 1,
+      "title": "米利西奇走了，中国女足新帅竟然从这俩人里出？",
+      "path": "/home/runner/work/_temp/output/2026-11-11/article-1-米利西奇走了中国-04326c.md",
+      "slug": "米利西奇走了中国-04326c",
+      "tags": [
+        "China women's football",
+        "coach selection",
+        "Wang Jun",
+        "Chang Weiwei",
+        "Milicic"
+      ],
+      "keywords": [
+        "China women's football",
+        "coach selection",
+        "Wang Jun",
+        "Chang Weiwei",
+        "Milicic"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "热点球评",
+      "topic_category": "转会官宣",
+      "column_id": "chen-du-kuai-xun",
+      "column_name": "晨读快讯",
+      "batch_name": "晨读",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    },
+    {
+      "index": 2,
+      "title": "克雷桑24场20球9助竟落选最佳阵容，这评选标准谁看懂了？",
+      "path": "/home/runner/work/_temp/output/2026-11-11/article-2-克雷桑24场20-928f39.md",
+      "slug": "克雷桑24场20-928f39",
+      "tags": [
+        "Cresan",
+        "Shandong Taishan",
+        "best XI",
+        "2026 season",
+        "Wang Dalei"
+      ],
+      "keywords": [
+        "Cresan",
+        "Shandong Taishan",
+        "best XI",
+        "2026 season",
+        "Wang Dalei"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "热点球评",
+      "topic_category": "未分类",
+      "column_id": "hua-ti-lei-tai",
+      "column_name": "话题擂台",
+      "batch_name": "晨读",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    }
+  ],
+  "topics": [
+    {
+      "title": "中国女足选帅程序都走完了，原来我们连候选是谁都不知道？",
+      "angle": "苗原透露女足选帅程序结束即将官宣。老六态度：选帅全程黑箱，球迷连候选名单都没见过，这不是保密是失职，铿锵玫瑰的招牌经不起这么耗。",
+      "keywords": [
+        "China women's national team",
+        "head coach",
+        "Miao Yuan"
+      ],
+      "keywords_cn": [
+        "中国女足",
+        "选帅",
+        "苗原"
+      ],
+      "content_type": "热点球评",
+      "score": 82,
+      "controversy_level": "high",
+      "target_emotion": "愤怒",
+      "resonance_angle": "国足情结",
+      "series_id": "guozu-chronicle",
+      "why_pick": "女足选帅黑箱，老球迷恨铁不成钢",
+      "_category": "转会官宣",
+      "_column_id": "chen-du-kuai-xun",
+      "_column_name": "晨读快讯",
+      "_column_icon": "📰",
+      "_writing_style": "群聊播报体",
+      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_word_count_range": [
+        300,
+        500
+      ],
+      "_interaction_type": "prediction_poll",
+      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_topic_domain": "足球快讯",
+      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-0"
+    },
+    {
+      "title": "没想到克雷桑落选最佳阵，王大雷晒数据这波是护短还是较真？",
+      "angle": "克雷桑落选中超最佳阵容，王大雷晒数据力挺队友。老六态度：最佳阵容评选标准该公开，数据摆出来才好说话，但队友公开喊话也有更衣室抱团的意味。",
+      "keywords": [
+        "Cresan",
+        "Wang Dalei",
+        "CSL Best XI"
+      ],
+      "keywords_cn": [
+        "克雷桑",
+        "王大雷",
+        "中超最佳阵容"
+      ],
+      "content_type": "热点球评",
+      "score": 88,
+      "controversy_level": "high",
+      "target_emotion": "愤怒",
+      "resonance_angle": "老球迷身份认同",
+      "series_id": "无",
+      "why_pick": "评选争议加队友晒数据，天然有对立面",
+      "_category": "冲突舆情",
+      "_column_id": "hua-ti-lei-tai",
+      "_column_name": "话题擂台",
+      "_column_icon": "🥊",
+      "_writing_style": "烧烤摊辩论体",
+      "_style_detail": "先摆出争议话题（一句话定调）→ 正方观点（2-3个论据）→ 反方观点（2-3个论据）→ 老六站队（亮明态度+核心论据）→ 邀请读者站队。语气像烧烤摊上和朋友抬杠，可以激动但不说脏话。必须给双方都有说话的机会，但最后必须有你自己的态度。",
+      "_word_count_range": [
+        400,
+        600
+      ],
+      "_interaction_type": "side_taking_vote",
+      "_interaction_guidance": "文末明确说'评论区站队——支持XX的扣1，反对的扣2，我先来：我站[1/2]，因为...'",
+      "_topic_domain": "足球争议话题",
+      "_topic_guidance": "一个有争议的足球话题，列出正反两方观点，最后给出老六的站队并说明理由。话题要能让读者看完后立刻想去评论区表态。适合的话题：'XX该不该下课''XX转会到底值不值''VAR到底该不该废除'等。",
+      "_data_source_hint": "gzh_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-1"
+    },
+    {
+      "title": "罗慕洛机场泪流满面，丢冠的痛凭什么只让外援一个人扛？",
+      "angle": "蓉城丢冠后外援罗慕洛在机场为球迷签名泪流满面。老六态度：外援的眼泪比本土球员更真，这支队的问题不在外援，在管理和临门一脚的心态。",
+      "keywords": [
+        "Romulo",
+        "Chengdu Rongcheng",
+        "CSL title race"
+      ],
+      "keywords_cn": [
+        "罗慕洛",
+        "成都蓉城",
+        "中超争冠"
+      ],
+      "content_type": "八卦趣事",
+      "score": 85,
+      "controversy_level": "medium",
+      "target_emotion": "感动",
+      "resonance_angle": "名帅名宿沉浮",
+      "series_id": "无",
+      "why_pick": "外援落泪画面感强，戳中丢冠共情",
+      "_category": "中国足球",
+      "_column_id": "chen-du-kuai-xun",
+      "_column_name": "晨读快讯",
+      "_column_icon": "📰",
+      "_writing_style": "群聊播报体",
+      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_word_count_range": [
+        300,
+        500
+      ],
+      "_interaction_type": "prediction_poll",
+      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_topic_domain": "足球快讯",
+      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-2"
+    }
+  ],
+  "data_sources": {},
+  "supply_layers": {
+    "total": 2,
+    "counts": {
+      "一级·确定性": 0,
+      "二级·突发": 2,
+      "三级·软性": 0
+    },
+    "ratios": {
+      "一级·确定性": 0.0,
+      "二级·突发": 100.0,
+      "三级·软性": 0.0
+    },
+    "targets": {
+      "一级·确定性": 30.0,
+      "二级·突发": 50.0,
+      "三级·软性": 20.0
+    },
+    "deviations": {
+      "一级·确定性": -30.0,
+      "二级·突发": 50.0,
+      "三级·软性": -20.0
+    },
+    "unclassified": 0
+  },
+  "degrade_events": [
+    {
+      "环节": "赛程源",
+      "原因": "本批无可用赛程选题（源不可用或无匹配）",
+      "处置": "退化为纯新闻流驱动，选题池仅由事实卡装配",
+      "数量": 1
+    }
+  ],
+  "type": "match_analysis",
+  "quota": {
+    "batch": "morning",
+    "max_articles": 2,
+    "uplifted": false,
+    "reason": null,
+    "requested_reason": null,
+    "normal_max": 2,
+    "uplift_max": 3,
+    "weekly_limit": 2,
+    "weekly_used": 0,
+    "detail": "常态 2 篇",
+    "source": "策略手册 第五章 / 完善计划 12.1"
+  },
+  "ranker_mode": "rule",
+  "batches_completed": [
+    "morning"
+  ],
+  "last_batch": "morning",
+  "last_updated": "2026-11-11 14:58:24"
+}
