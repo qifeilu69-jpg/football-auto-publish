@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T07:06:35.945572",
+  "generated_at": "2026-11-13T12:34:41.392283",
   "total_articles": 1,
   "articles": [
     {
@@ -40,98 +40,98 @@
   ],
   "topics": [
     {
-      "title": "原来曼联这两年半的动荡，高层自己承认是当年续约滕哈赫埋的雷？",
-      "angle": "电讯报爆料曼联高层内部复盘，把这两年半的乱局源头指向那份续约合同。一个决定拖垮一个周期，这就是足球江湖里最贵的一堂课——名帅沉浮背后，往往是管理层先动的手。",
+      "title": "波切蒂诺接手曼联，1000万解约金砸下去，这步棋到底谁在赌？",
+      "angle": "曼联又一次用天价解约金挖名帅，波切蒂诺从热刺到巴黎再到曼联，一路都是豪门接盘侠的角色。这次他能不能在老特拉福德挺过一个赛季？我的判断是：曼联的问题从来不在教练席，而在上面那间办公室。",
       "keywords": [
-        "manchester united",
-        "ten hag",
-        "contract renewal",
-        "premier league"
+        "Pochettino",
+        "Manchester United",
+        "Premier League",
+        "compensation"
       ],
       "keywords_cn": [
+        "波切蒂诺",
         "曼联",
-        "滕哈赫",
-        "续约",
-        "英超"
+        "英超",
+        "解约金"
       ],
-      "content_type": "八卦趣事",
-      "score": 88,
+      "content_type": "转会资讯",
+      "score": 92,
       "controversy_level": "high",
-      "target_emotion": "震惊",
+      "target_emotion": "好奇",
       "resonance_angle": "名帅名宿沉浮",
       "series_id": "无",
-      "why_pick": "高层自曝续约是动荡根源，反转感强",
+      "why_pick": "名帅接盘豪门自带话题，曼联流量主场",
       "_category": "转会官宣",
-      "_column_id": "chen-du-kuai-xun",
-      "_column_name": "晨读快讯",
-      "_column_icon": "📰",
+      "_column_id": "wu-jian-kuai-xun",
+      "_column_name": "午间快讯",
+      "_column_icon": "⚡",
       "_writing_style": "群聊播报体",
-      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_style_detail": "3-5条消息，每条3-5句。格式：【事件概述】+ 一句话老六辣评。短句、快节奏、有信息量但不啰嗦。每条独立成块。",
       "_word_count_range": [
         300,
         500
       ],
       "_interaction_type": "prediction_poll",
-      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_interaction_guidance": "文末放一个投票：'今天上午最劲爆的消息是？A.XX B.XX C.XX，我选A，你呢？'",
       "_topic_domain": "足球快讯",
-      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_topic_guidance": "上午最新足球消息精选：比赛结果、转会动态、突发事件。用短句快节奏呈现，每条独立成块，每条包含事件概述+一句话老六辣评。像中午在食堂打开手机扫一眼就知道上午发生了什么。",
       "_data_source_hint": "match_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-0"
     },
     {
-      "title": "输给马来西亚世界排名就要掉到98位，这球国足还敢不敢踢？",
-      "angle": "外媒算出输球后果：排名跌至98位，创近十年新低。这不是危言耸听，是把国足这些年的下滑摊在桌面上——我们这代人看着从亚洲一流滑到要为一场热身赛提心吊胆，恨铁不成钢，但明晚20点CCTV5还是会守着看。",
+      "title": "B费竟然拒了曼联续约，当了这么多年队长，他到底在等什么？",
+      "angle": "B费拒绝续约，这事放在两年前没人信。一个把曼联当家的葡萄牙人，如今也开始算自己的账了。是俱乐部给的诚意不够，还是他自己看透了这支球队的上限？老球迷都懂，球员的耐心比球迷还短。",
       "keywords": [
-        "china national team",
-        "malaysia",
-        "fifa ranking",
-        "friendly"
+        "Bruno Fernandes",
+        "Manchester United",
+        "contract",
+        "renewal"
       ],
       "keywords_cn": [
-        "国足",
-        "马来西亚",
-        "世界排名",
-        "热身赛"
+        "B费",
+        "曼联",
+        "续约",
+        "合同"
       ],
-      "content_type": "热点球评",
-      "score": 92,
+      "content_type": "转会资讯",
+      "score": 88,
       "controversy_level": "high",
-      "target_emotion": "愤怒",
-      "resonance_angle": "国足情结",
-      "series_id": "guozu-chronicle",
-      "why_pick": "排名跌至98位戳中国足下滑痛点",
-      "_category": "战报比分",
-      "_column_id": "hua-ti-lei-tai",
-      "_column_name": "话题擂台",
-      "_column_icon": "🥊",
-      "_writing_style": "烧烤摊辩论体",
-      "_style_detail": "先摆出争议话题（一句话定调）→ 正方观点（2-3个论据）→ 反方观点（2-3个论据）→ 老六站队（亮明态度+核心论据）→ 邀请读者站队。语气像烧烤摊上和朋友抬杠，可以激动但不说脏话。必须给双方都有说话的机会，但最后必须有你自己的态度。",
+      "target_emotion": "震惊",
+      "resonance_angle": "名帅名宿沉浮",
+      "series_id": "无",
+      "why_pick": "队长拒续约是更衣室风向标，争议性强",
+      "_category": "转会官宣",
+      "_column_id": "re-dian-su-ping",
+      "_column_name": "热点速评",
+      "_column_icon": "🔥",
+      "_writing_style": "赛后快刀体",
+      "_style_detail": "直接砸观点不铺垫 → 2-3个论据支撑 → 亮明立场。像从沙发上跳起来说的第一句话，锋利不留余地。500字以内，短平快。",
       "_word_count_range": [
         400,
         600
       ],
       "_interaction_type": "side_taking_vote",
-      "_interaction_guidance": "文末明确说'评论区站队——支持XX的扣1，反对的扣2，我先来：我站[1/2]，因为...'",
-      "_topic_domain": "足球争议话题",
-      "_topic_guidance": "一个有争议的足球话题，列出正反两方观点，最后给出老六的站队并说明理由。话题要能让读者看完后立刻想去评论区表态。适合的话题：'XX该不该下课''XX转会到底值不值''VAR到底该不该废除'等。",
-      "_data_source_hint": "gzh_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_interaction_guidance": "文末说：'觉得我说得对的扣1，觉得我太极端的扣2，我先来：我扣1，因为...'",
+      "_topic_domain": "足球热点评论",
+      "_topic_guidance": "从上午的比赛/新闻中选一个最值得聊的话题，快速给出观点和点评。不是深度分析，是'看完比赛后和朋友说的第一句话'。可以是一场精彩比赛的快速复盘，也可以是一个转会传闻的犀利点评。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-1"
     }
   ],
   "data_sources": {},
   "supply_layers": {
-    "total": 1,
+    "total": 2,
     "counts": {
       "一级·确定性": 0,
-      "二级·突发": 1,
+      "二级·突发": 2,
       "三级·软性": 0
     },
     "ratios": {
@@ -157,17 +157,29 @@
       "原因": "本批无可用赛程选题（源不可用或无匹配）",
       "处置": "退化为纯新闻流驱动，选题池仅由事实卡装配",
       "数量": 1
+    }
+  ],
+  "pending_review": [
+    {
+      "id": "2026-11-13-1-6d58cb",
+      "index": 1,
+      "title": "波切蒂诺扔下美国队去曼联，这步棋到底图什么？",
+      "reasons": [
+        "合同金额(命中：解约金、合同；含金额量词)"
+      ]
     },
     {
-      "环节": "软性补位跳过",
-      "原因": "晨读批禁用软性补位（P0-2：晨读吃隔夜赛果+硬新闻）",
-      "处置": "本批篇数不足，按实际成稿发布（不拿软性顶替）",
-      "数量": 1
+      "id": "2026-11-13-2-4a6ae1",
+      "index": 2,
+      "title": "波切蒂诺接手曼联？先别急，他刚把美国队带进16强就跑了",
+      "reasons": [
+        "合同金额(命中：解约金、合同；含金额量词)"
+      ]
     }
   ],
   "type": "match_analysis",
   "quota": {
-    "batch": "morning",
+    "batch": "noon",
     "max_articles": 2,
     "uplifted": false,
     "reason": null,
@@ -179,10 +191,11 @@
     "detail": "常态 2 篇",
     "source": "策略手册 第五章 / 完善计划 12.1"
   },
-  "ranker_mode": "llm",
+  "ranker_mode": "rule",
   "batches_completed": [
-    "morning"
+    "morning",
+    "noon"
   ],
-  "last_batch": "morning",
-  "last_updated": "2026-11-13 15:06:35"
+  "last_batch": "noon",
+  "last_updated": "2026-11-13 20:34:41"
 }
