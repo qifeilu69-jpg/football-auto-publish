@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T07:06:35.945572",
+  "total_articles": 1,
+  "articles": [
+    {
+      "index": 1,
+      "title": "国足明晚迎战马来西亚，三连败后这口气还能不能喘匀？",
+      "path": "/home/runner/work/_temp/output/2026-11-13/article-1-国足明晚迎战马来-9a0a77.md",
+      "slug": "国足明晚迎战马来-9a0a77",
+      "tags": [
+        "China national football team",
+        "Malaysia friendly",
+        "three consecutive defeats",
+        "CCTV5",
+        "warm-up match"
+      ],
+      "keywords": [
+        "China national football team",
+        "Malaysia friendly",
+        "three consecutive defeats",
+        "CCTV5",
+        "warm-up match"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "热点球评",
+      "topic_category": "中国足球",
+      "column_id": "hua-ti-lei-tai",
+      "column_name": "话题擂台",
+      "batch_name": "晨读",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    }
+  ],
+  "topics": [
+    {
+      "title": "原来曼联这两年半的动荡，高层自己承认是当年续约滕哈赫埋的雷？",
+      "angle": "电讯报爆料曼联高层内部复盘，把这两年半的乱局源头指向那份续约合同。一个决定拖垮一个周期，这就是足球江湖里最贵的一堂课——名帅沉浮背后，往往是管理层先动的手。",
+      "keywords": [
+        "manchester united",
+        "ten hag",
+        "contract renewal",
+        "premier league"
+      ],
+      "keywords_cn": [
+        "曼联",
+        "滕哈赫",
+        "续约",
+        "英超"
+      ],
+      "content_type": "八卦趣事",
+      "score": 88,
+      "controversy_level": "high",
+      "target_emotion": "震惊",
+      "resonance_angle": "名帅名宿沉浮",
+      "series_id": "无",
+      "why_pick": "高层自曝续约是动荡根源，反转感强",
+      "_category": "转会官宣",
+      "_column_id": "chen-du-kuai-xun",
+      "_column_name": "晨读快讯",
+      "_column_icon": "📰",
+      "_writing_style": "群聊播报体",
+      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_word_count_range": [
+        300,
+        500
+      ],
+      "_interaction_type": "prediction_poll",
+      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_topic_domain": "足球快讯",
+      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-0"
+    },
+    {
+      "title": "输给马来西亚世界排名就要掉到98位，这球国足还敢不敢踢？",
+      "angle": "外媒算出输球后果：排名跌至98位，创近十年新低。这不是危言耸听，是把国足这些年的下滑摊在桌面上——我们这代人看着从亚洲一流滑到要为一场热身赛提心吊胆，恨铁不成钢，但明晚20点CCTV5还是会守着看。",
+      "keywords": [
+        "china national team",
+        "malaysia",
+        "fifa ranking",
+        "friendly"
+      ],
+      "keywords_cn": [
+        "国足",
+        "马来西亚",
+        "世界排名",
+        "热身赛"
+      ],
+      "content_type": "热点球评",
+      "score": 92,
+      "controversy_level": "high",
+      "target_emotion": "愤怒",
+      "resonance_angle": "国足情结",
+      "series_id": "guozu-chronicle",
+      "why_pick": "排名跌至98位戳中国足下滑痛点",
+      "_category": "战报比分",
+      "_column_id": "hua-ti-lei-tai",
+      "_column_name": "话题擂台",
+      "_column_icon": "🥊",
+      "_writing_style": "烧烤摊辩论体",
+      "_style_detail": "先摆出争议话题（一句话定调）→ 正方观点（2-3个论据）→ 反方观点（2-3个论据）→ 老六站队（亮明态度+核心论据）→ 邀请读者站队。语气像烧烤摊上和朋友抬杠，可以激动但不说脏话。必须给双方都有说话的机会，但最后必须有你自己的态度。",
+      "_word_count_range": [
+        400,
+        600
+      ],
+      "_interaction_type": "side_taking_vote",
+      "_interaction_guidance": "文末明确说'评论区站队——支持XX的扣1，反对的扣2，我先来：我站[1/2]，因为...'",
+      "_topic_domain": "足球争议话题",
+      "_topic_guidance": "一个有争议的足球话题，列出正反两方观点，最后给出老六的站队并说明理由。话题要能让读者看完后立刻想去评论区表态。适合的话题：'XX该不该下课''XX转会到底值不值''VAR到底该不该废除'等。",
+      "_data_source_hint": "gzh_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-1"
+    }
+  ],
+  "data_sources": {},
+  "supply_layers": {
+    "total": 1,
+    "counts": {
+      "一级·确定性": 0,
+      "二级·突发": 1,
+      "三级·软性": 0
+    },
+    "ratios": {
+      "一级·确定性": 0.0,
+      "二级·突发": 100.0,
+      "三级·软性": 0.0
+    },
+    "targets": {
+      "一级·确定性": 30.0,
+      "二级·突发": 50.0,
+      "三级·软性": 20.0
+    },
+    "deviations": {
+      "一级·确定性": -30.0,
+      "二级·突发": 50.0,
+      "三级·软性": -20.0
+    },
+    "unclassified": 0
+  },
+  "degrade_events": [
+    {
+      "环节": "赛程源",
+      "原因": "本批无可用赛程选题（源不可用或无匹配）",
+      "处置": "退化为纯新闻流驱动，选题池仅由事实卡装配",
+      "数量": 1
+    },
+    {
+      "环节": "软性补位跳过",
+      "原因": "晨读批禁用软性补位（P0-2：晨读吃隔夜赛果+硬新闻）",
+      "处置": "本批篇数不足，按实际成稿发布（不拿软性顶替）",
+      "数量": 1
+    }
+  ],
+  "type": "match_analysis",
+  "quota": {
+    "batch": "morning",
+    "max_articles": 2,
+    "uplifted": false,
+    "reason": null,
+    "requested_reason": null,
+    "normal_max": 2,
+    "uplift_max": 3,
+    "weekly_limit": 2,
+    "weekly_used": 2,
+    "detail": "常态 2 篇",
+    "source": "策略手册 第五章 / 完善计划 12.1"
+  },
+  "ranker_mode": "llm",
+  "batches_completed": [
+    "morning"
+  ],
+  "last_batch": "morning",
+  "last_updated": "2026-11-13 15:06:35"
+}
