@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-14T06:59:57.017522",
-  "total_articles": 1,
+  "generated_at": "2026-11-14T11:43:47.769437",
+  "total_articles": 2,
   "articles": [
     {
       "index": 2,
@@ -36,91 +36,123 @@
       "is_prediction": false,
       "is_recap": false,
       "supply_layer": "二级·突发"
+    },
+    {
+      "index": 1,
+      "title": "张玉宁首发搭档林良铭，国足这份名单里颜骏凌坐替补席你意外吗",
+      "path": "/home/runner/work/_temp/output/2026-11-14/article-1-张玉宁首发搭档林-170c2e.md",
+      "slug": "张玉宁首发搭档林-170c2e",
+      "tags": [
+        "China national football team",
+        "Malaysia",
+        "starting lineup",
+        "Zhang Yuning",
+        "Yan Junling"
+      ],
+      "keywords": [
+        "China national football team",
+        "Malaysia",
+        "starting lineup",
+        "Zhang Yuning",
+        "Yan Junling"
+      ],
+      "images": [],
+      "sources_used": [
+        "懂球帝 dongqiudi.com"
+      ],
+      "source_post": "中超五洲国足vs马来西亚：王钰栋、张玉宁首发，李昊、林良铭出战",
+      "originality_note": "",
+      "content_type": "转会资讯",
+      "topic_category": "转会官宣",
+      "column_id": "wu-jian-kuai-xun",
+      "column_name": "午间快讯",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
     }
   ],
   "topics": [
     {
-      "title": "恰尔汗奥卢续约卡壳，尤文这时候插一脚，国米慌不慌？",
-      "angle": "都体曝出国米与恰尔汗奥卢续约陷僵局，尤文图斯可能介入。这不是简单的续约拉锯，是意甲内部权力博弈——国米中场核心若被死敌挖走，等于把钥匙交给对手。我的判断：尤文这手更像是抬价施压。",
+      "title": "斯托伊科维奇重返中超执教泰山，当年富力那套攻势足球还能玩得转吗？",
+      "angle": "斯托伊科维奇95%进度接手泰山，这位当年在富力打出中超最华丽进攻又最漏风防守的教头回归，是个值得聊的人物弧光——他的足球理想主义在中超还剩多少空间。",
       "keywords": [
-        "Calhanoglu",
-        "Inter Milan",
-        "Juventus",
-        "contract renewal"
+        "Stojkovic",
+        "Shandong Taishan",
+        "Chinese Super League"
       ],
       "keywords_cn": [
-        "恰尔汗奥卢",
-        "国米",
-        "尤文",
-        "续约"
+        "斯托伊科维奇",
+        "山东泰山",
+        "中超"
       ],
       "content_type": "转会资讯",
-      "score": 82,
-      "controversy_level": "high",
+      "score": 88,
+      "controversy_level": "medium",
       "target_emotion": "好奇",
       "resonance_angle": "名帅名宿沉浮",
       "series_id": "无",
-      "why_pick": "意甲死敌抢核心，转会窗硬菜",
+      "why_pick": "名帅回归中超自带人物弧光和战术争议",
       "_category": "转会官宣",
-      "_column_id": "chen-du-kuai-xun",
-      "_column_name": "晨读快讯",
-      "_column_icon": "📰",
+      "_column_id": "wu-jian-kuai-xun",
+      "_column_name": "午间快讯",
+      "_column_icon": "⚡",
       "_writing_style": "群聊播报体",
-      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_style_detail": "3-5条消息，每条3-5句。格式：【事件概述】+ 一句话老六辣评。短句、快节奏、有信息量但不啰嗦。每条独立成块。",
       "_word_count_range": [
         300,
         500
       ],
       "_interaction_type": "prediction_poll",
-      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_interaction_guidance": "文末放一个投票：'今天上午最劲爆的消息是？A.XX B.XX C.XX，我选A，你呢？'",
       "_topic_domain": "足球快讯",
-      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_topic_guidance": "上午最新足球消息精选：比赛结果、转会动态、突发事件。用短句快节奏呈现，每条独立成块，每条包含事件概述+一句话老六辣评。像中午在食堂打开手机扫一眼就知道上午发生了什么。",
       "_data_source_hint": "match_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-0"
     },
     {
-      "title": "46年不败要断？马来西亚人这句话，老球迷听着扎心不扎心",
-      "angle": "马来西亚媒体公开喊出「迎来结束46年不胜机会」，这话比任何战术分析都刺人。国足9胜4平1负的历史优势摆在那，可对手敢这么说，说明人家真研究过我们近期的低迷。当务之急不是喊口号，是进攻端拿办法。",
+      "title": "范戴克亲口说赛季后可能离队，米兰在观望，利物浦后防一个时代要散了吗？",
+      "angle": "范戴克公开谈离队可能，这不是普通转会流言而是利物浦后防核心时代的松动信号，从克洛普到斯洛特，红军后防的定海神针真到了说再见的时候？",
       "keywords": [
-        "China national team",
-        "Malaysia friendly",
-        "46 years unbeaten"
+        "Van Dijk",
+        "Liverpool",
+        "AC Milan"
       ],
       "keywords_cn": [
-        "国足",
-        "马来西亚",
-        "46年不败"
+        "范戴克",
+        "利物浦",
+        "AC米兰"
       ],
-      "content_type": "热点球评",
-      "score": 88,
-      "controversy_level": "high",
-      "target_emotion": "愤怒",
-      "resonance_angle": "国足情结",
-      "series_id": "guozu-chronicle",
-      "why_pick": "对手放话戳老球迷痛处，共鸣拉满",
-      "_category": "中国足球",
-      "_column_id": "hua-ti-lei-tai",
-      "_column_name": "话题擂台",
-      "_column_icon": "🥊",
-      "_writing_style": "烧烤摊辩论体",
-      "_style_detail": "先摆出争议话题（一句话定调）→ 正方观点（2-3个论据）→ 反方观点（2-3个论据）→ 老六站队（亮明态度+核心论据）→ 邀请读者站队。语气像烧烤摊上和朋友抬杠，可以激动但不说脏话。必须给双方都有说话的机会，但最后必须有你自己的态度。",
+      "content_type": "转会资讯",
+      "score": 86,
+      "controversy_level": "medium",
+      "target_emotion": "怀旧",
+      "resonance_angle": "老球迷身份认同",
+      "series_id": "无",
+      "why_pick": "顶级中卫离队信号，利物浦球迷集体记忆",
+      "_category": "转会官宣",
+      "_column_id": "re-dian-su-ping",
+      "_column_name": "热点速评",
+      "_column_icon": "🔥",
+      "_writing_style": "赛后快刀体",
+      "_style_detail": "直接砸观点不铺垫 → 2-3个论据支撑 → 亮明立场。像从沙发上跳起来说的第一句话，锋利不留余地。500字以内，短平快。",
       "_word_count_range": [
         400,
         600
       ],
       "_interaction_type": "side_taking_vote",
-      "_interaction_guidance": "文末明确说'评论区站队——支持XX的扣1，反对的扣2，我先来：我站[1/2]，因为...'",
-      "_topic_domain": "足球争议话题",
-      "_topic_guidance": "一个有争议的足球话题，列出正反两方观点，最后给出老六的站队并说明理由。话题要能让读者看完后立刻想去评论区表态。适合的话题：'XX该不该下课''XX转会到底值不值''VAR到底该不该废除'等。",
-      "_data_source_hint": "gzh_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_interaction_guidance": "文末说：'觉得我说得对的扣1，觉得我太极端的扣2，我先来：我扣1，因为...'",
+      "_topic_domain": "足球热点评论",
+      "_topic_guidance": "从上午的比赛/新闻中选一个最值得聊的话题，快速给出观点和点评。不是深度分析，是'看完比赛后和朋友说的第一句话'。可以是一场精彩比赛的快速复盘，也可以是一个转会传闻的犀利点评。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-1"
     }
   ],
@@ -159,17 +191,17 @@
   ],
   "pending_review": [
     {
-      "id": "2026-11-14-1-1a33d5",
-      "index": 1,
-      "title": "恰尔汗奥卢续约僵住，尤文这时候伸手是捡漏还是接盘？",
+      "id": "2026-11-14-2-f7fb03",
+      "index": 2,
+      "title": "范戴克合同剩一年还没续约？利物浦这波操作老球迷真看不懂了",
       "reasons": [
-        "合同金额(命中：年薪、合同、续约；含金额量词)"
+        "伤病(命中：伤停)"
       ]
     }
   ],
   "type": "match_analysis",
   "quota": {
-    "batch": "morning",
+    "batch": "noon",
     "max_articles": 2,
     "uplifted": false,
     "reason": null,
@@ -181,10 +213,11 @@
     "detail": "常态 2 篇",
     "source": "策略手册 第五章 / 完善计划 12.1"
   },
-  "ranker_mode": "llm",
+  "ranker_mode": "rule",
   "batches_completed": [
-    "morning"
+    "morning",
+    "noon"
   ],
-  "last_batch": "morning",
-  "last_updated": "2026-11-14 14:59:57"
+  "last_batch": "noon",
+  "last_updated": "2026-11-14 19:43:47"
 }
