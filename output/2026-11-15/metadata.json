@@ -1,7 +1,7 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T07:05:10.077608",
-  "total_articles": 1,
+  "generated_at": "2026-11-15T12:14:00.637054",
+  "total_articles": 3,
   "articles": [
     {
       "index": 1,
@@ -40,94 +40,205 @@
       "is_prediction": false,
       "is_recap": false,
       "supply_layer": "二级·突发"
+    },
+    {
+      "index": 1,
+      "title": "33岁阿奇姆彭辗转五队终夺冠，河南球迷看了会沉默吗？",
+      "path": "/home/runner/work/_temp/output/2026-11-15/article-1-33岁阿奇姆彭辗-5b2bcb.md",
+      "slug": "33岁阿奇姆彭辗-5b2bcb",
+      "tags": [
+        "Acheampong",
+        "Dalian Yingbo",
+        "CSL",
+        "Henan",
+        "Tianjin TEDA"
+      ],
+      "keywords": [
+        "Acheampong",
+        "Dalian Yingbo",
+        "CSL",
+        "Henan",
+        "Tianjin TEDA"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "转会资讯",
+      "topic_category": "转会官宣",
+      "column_id": "wu-jian-kuai-xun",
+      "column_name": "午间快讯",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    },
+    {
+      "index": 2,
+      "title": "阿奇姆彭33岁才捧首冠，原来老将的眼泪比奖杯还沉",
+      "path": "/home/runner/work/_temp/output/2026-11-15/article-2-阿奇姆彭33岁才-46318a.md",
+      "slug": "阿奇姆彭33岁才-46318a",
+      "tags": [
+        "Acheampong",
+        "Dalian Yingbo",
+        "CSL",
+        "veteran",
+        "first title"
+      ],
+      "keywords": [
+        "Acheampong",
+        "Dalian Yingbo",
+        "CSL",
+        "veteran",
+        "first title"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "八卦趣事",
+      "topic_category": "未分类",
+      "column_id": "re-dian-su-ping",
+      "column_name": "热点速评",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
     }
   ],
   "topics": [
     {
-      "title": "斯托伊科维奇真要来泰山？这位老熟人当年在中超可是有故事的",
-      "angle": "鲁媒放风斯托伊科维奇执掌山东泰山，下周见分晓。这位塞尔维亚老头当年带富力踢出中超最赏心悦目的进攻足球，如今重返中超执教豪门，是情怀回归还是又一次豪赌？",
+      "title": "斯托伊科维奇要执掌山东泰山？这桩传闻凭啥让鲁媒都不敢打包票",
+      "angle": "斯托伊科维奇的名字和泰山帅位绑在一起，但鲁媒只敢说'谜底下周揭晓'。名帅沉浮的戏码，从来比转会本身好看。",
       "keywords": [
         "Stojkovic",
         "Shandong Taishan",
-        "CSL",
-        "coach"
+        "coach",
+        "CSL"
       ],
       "keywords_cn": [
         "斯托伊科维奇",
         "山东泰山",
-        "中超",
-        "主帅"
+        "主帅",
+        "中超"
       ],
       "content_type": "转会资讯",
-      "score": 86,
+      "score": 78,
       "controversy_level": "medium",
       "target_emotion": "好奇",
       "resonance_angle": "名帅名宿沉浮",
       "series_id": "无",
-      "why_pick": "老熟人回归中超豪门，名帅沉浮有故事",
+      "why_pick": "名帅去向悬念，鲁媒都不敢拍板",
       "_category": "转会官宣",
-      "_column_id": "chen-du-kuai-xun",
-      "_column_name": "晨读快讯",
-      "_column_icon": "📰",
+      "_column_id": "wu-jian-kuai-xun",
+      "_column_name": "午间快讯",
+      "_column_icon": "⚡",
       "_writing_style": "群聊播报体",
-      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_style_detail": "3-5条消息，每条3-5句。格式：【事件概述】+ 一句话老六辣评。短句、快节奏、有信息量但不啰嗦。每条独立成块。",
       "_word_count_range": [
         300,
         500
       ],
       "_interaction_type": "prediction_poll",
-      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_interaction_guidance": "文末放一个投票：'今天上午最劲爆的消息是？A.XX B.XX C.XX，我选A，你呢？'",
       "_topic_domain": "足球快讯",
-      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_topic_guidance": "上午最新足球消息精选：比赛结果、转会动态、突发事件。用短句快节奏呈现，每条独立成块，每条包含事件概述+一句话老六辣评。像中午在食堂打开手机扫一眼就知道上午发生了什么。",
       "_data_source_hint": "match_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-0"
     },
     {
-      "title": "国足亚洲第15锁定第二档，马德兴却说年轻化还不够，这话你服吗？",
-      "angle": "国足稳住亚洲前18锁定世预赛抽签第二档，马德兴一边肯定排名一边批年轻化步伐太慢、亚洲杯延期还用老队员。排名稳了，可这代人的国足记忆还要靠老将撑多久？",
+      "title": "阿奇姆彭9年10季终夺中超冠军，这份坚持还有多少人记得？",
+      "angle": "从天津到天津，阿奇姆彭熬了9年10个赛季才摸到中超冠军奖杯。外援的忠诚在这个时代太稀缺，这故事比任何数据都动人。",
       "keywords": [
-        "China national team",
-        "Asian Cup",
-        "Ma Dexing",
-        "World Cup qualifier"
+        "Acheampong",
+        "CSL",
+        "Tianjin",
+        "loyalty"
       ],
       "keywords_cn": [
-        "国足",
-        "亚洲杯",
-        "马德兴",
-        "世预赛"
+        "阿奇姆彭",
+        "中超",
+        "天津",
+        "忠诚"
       ],
-      "content_type": "热点球评",
-      "score": 82,
-      "controversy_level": "medium",
-      "target_emotion": "愤怒",
-      "resonance_angle": "国足情结",
-      "series_id": "guozu-chronicle",
-      "why_pick": "排名稳了却挨批，老球迷又爱又恨",
+      "content_type": "八卦趣事",
+      "score": 85,
+      "controversy_level": "low",
+      "target_emotion": "感动",
+      "resonance_angle": "老球迷身份认同",
+      "series_id": "old-fan-night",
+      "why_pick": "外援九年坚守终圆梦，情怀拉满",
       "_category": "中国足球",
-      "_column_id": "hua-ti-lei-tai",
-      "_column_name": "话题擂台",
-      "_column_icon": "🥊",
-      "_writing_style": "烧烤摊辩论体",
-      "_style_detail": "先摆出争议话题（一句话定调）→ 正方观点（2-3个论据）→ 反方观点（2-3个论据）→ 老六站队（亮明态度+核心论据）→ 邀请读者站队。语气像烧烤摊上和朋友抬杠，可以激动但不说脏话。必须给双方都有说话的机会，但最后必须有你自己的态度。",
+      "_column_id": "re-dian-su-ping",
+      "_column_name": "热点速评",
+      "_column_icon": "🔥",
+      "_writing_style": "赛后快刀体",
+      "_style_detail": "直接砸观点不铺垫 → 2-3个论据支撑 → 亮明立场。像从沙发上跳起来说的第一句话，锋利不留余地。500字以内，短平快。",
       "_word_count_range": [
         400,
         600
       ],
       "_interaction_type": "side_taking_vote",
-      "_interaction_guidance": "文末明确说'评论区站队——支持XX的扣1，反对的扣2，我先来：我站[1/2]，因为...'",
-      "_topic_domain": "足球争议话题",
-      "_topic_guidance": "一个有争议的足球话题，列出正反两方观点，最后给出老六的站队并说明理由。话题要能让读者看完后立刻想去评论区表态。适合的话题：'XX该不该下课''XX转会到底值不值''VAR到底该不该废除'等。",
-      "_data_source_hint": "gzh_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_interaction_guidance": "文末说：'觉得我说得对的扣1，觉得我太极端的扣2，我先来：我扣1，因为...'",
+      "_topic_domain": "足球热点评论",
+      "_topic_guidance": "从上午的比赛/新闻中选一个最值得聊的话题，快速给出观点和点评。不是深度分析，是'看完比赛后和朋友说的第一句话'。可以是一场精彩比赛的快速复盘，也可以是一个转会传闻的犀利点评。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-1"
+    },
+    {
+      "title": "日本3-2掀翻巴西，这场逆转凭啥让老球迷一夜没睡好？",
+      "angle": "日本队把巴西掀翻，这不是友谊赛的偶然，是亚洲足球二十年苦功的兑现。老球迷看得五味杂陈：人家在进步，我们还在原地打转。",
+      "keywords": [
+        "Japan",
+        "Brazil",
+        "comeback",
+        "Asian football"
+      ],
+      "keywords_cn": [
+        "日本",
+        "巴西",
+        "逆转",
+        "亚洲足球"
+      ],
+      "content_type": "热点球评",
+      "score": 92,
+      "controversy_level": "high",
+      "target_emotion": "震惊",
+      "resonance_angle": "国足情结",
+      "series_id": "无",
+      "why_pick": "亚洲邻居掀翻巴西，最戳国足情结",
+      "_category": "战报比分",
+      "_column_id": "wu-jian-kuai-xun",
+      "_column_name": "午间快讯",
+      "_column_icon": "⚡",
+      "_writing_style": "群聊播报体",
+      "_style_detail": "3-5条消息，每条3-5句。格式：【事件概述】+ 一句话老六辣评。短句、快节奏、有信息量但不啰嗦。每条独立成块。",
+      "_word_count_range": [
+        300,
+        500
+      ],
+      "_interaction_type": "prediction_poll",
+      "_interaction_guidance": "文末放一个投票：'今天上午最劲爆的消息是？A.XX B.XX C.XX，我选A，你呢？'",
+      "_topic_domain": "足球快讯",
+      "_topic_guidance": "上午最新足球消息精选：比赛结果、转会动态、突发事件。用短句快节奏呈现，每条独立成块，每条包含事件概述+一句话老六辣评。像中午在食堂打开手机扫一眼就知道上午发生了什么。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
+      "_rank_id": "topic-2"
     }
   ],
   "data_sources": {},
@@ -163,19 +274,9 @@
       "数量": 1
     }
   ],
-  "pending_review": [
-    {
-      "id": "2026-11-15-2-836fc0",
-      "index": 2,
-      "title": "张玉宁回归国足2-0赢球，可这对手成色你敢信吗？",
-      "reasons": [
-        "伤病(命中：伤缺)"
-      ]
-    }
-  ],
   "type": "match_analysis",
   "quota": {
-    "batch": "morning",
+    "batch": "noon",
     "max_articles": 2,
     "uplifted": false,
     "reason": null,
@@ -189,8 +290,9 @@
   },
   "ranker_mode": "rule",
   "batches_completed": [
-    "morning"
+    "morning",
+    "noon"
   ],
-  "last_batch": "morning",
-  "last_updated": "2026-11-15 15:05:10"
+  "last_batch": "noon",
+  "last_updated": "2026-11-15 20:14:00"
 }
