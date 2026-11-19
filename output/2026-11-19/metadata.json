@@ -1,7 +1,7 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T07:52:03.613187",
-  "total_articles": 3,
+  "generated_at": "2026-11-19T13:53:18.734125",
+  "total_articles": 4,
   "articles": [
     {
       "index": 1,
@@ -102,141 +102,135 @@
       "is_prediction": false,
       "is_recap": false,
       "supply_layer": "未分层"
+    },
+    {
+      "index": 3,
+      "title": "梅西C罗数据大对决，到底谁更强？",
+      "path": "/home/runner/work/_temp/output/2026-11-19/article-3-梅西C罗数据大对-11721c.md",
+      "slug": "梅西C罗数据大对-11721c",
+      "tags": [
+        "Messi",
+        "Ronaldo",
+        "goals",
+        "assists",
+        "comparison"
+      ],
+      "keywords": [
+        "Messi",
+        "Ronaldo",
+        "goals",
+        "assists",
+        "comparison"
+      ],
+      "images": [],
+      "sources_used": [],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "数据对比",
+      "topic_category": "未分类",
+      "column_id": "fan-life",
+      "column_name": "战术榜单",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "三级·软性",
+      "interaction_bait_source": "template_fallback"
     }
   ],
   "topics": [
     {
-      "title": "斯坦丘说决定与经济无关，这话中超球迷信吗？",
-      "angle": "斯坦丘表态几天内做决定且与经济无关，直接点破——外援谈'不谈钱'的时候，往往就是钱在谈；结合中超外援离队潮给判断。",
+      "title": "斯坦丘年薪从200万欧跌到36万，中超这波操作谁看懂了？",
+      "angle": "同一个人，英博给200万欧，克卢日大学只给36万欧——这不是球员贬值，是中超金元退潮后整个市场的定价逻辑变了。用这组数字讲清楚中超的'理性回归'到底理性在哪。",
       "keywords": [
-        "Stanciu",
-        "CSL",
-        "transfer",
-        "foreign player"
+        "stanciu",
+        "csl",
+        "cluj",
+        "salary",
+        "transfer"
       ],
       "keywords_cn": [
         "斯坦丘",
         "中超",
-        "转会",
-        "外援"
+        "克卢日",
+        "年薪",
+        "转会"
       ],
       "content_type": "转会资讯",
-      "score": 82,
+      "score": 85,
       "controversy_level": "medium",
-      "target_emotion": "好奇",
-      "resonance_angle": "无",
+      "target_emotion": "怀旧",
+      "resonance_angle": "老球迷身份认同",
       "series_id": "无",
-      "why_pick": "外援去留自带话题，观点犀利有增量",
+      "why_pick": "极端薪资反差自带话题，金元退潮老球迷共鸣强",
       "_category": "转会官宣",
-      "_column_id": "chen-du-kuai-xun",
-      "_column_name": "晨读快讯",
-      "_column_icon": "📰",
+      "_column_id": "wu-jian-kuai-xun",
+      "_column_name": "午间快讯",
+      "_column_icon": "⚡",
       "_writing_style": "群聊播报体",
-      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_style_detail": "3-5条消息，每条3-5句。格式：【事件概述】+ 一句话老六辣评。短句、快节奏、有信息量但不啰嗦。每条独立成块。",
       "_word_count_range": [
         300,
         500
       ],
       "_interaction_type": "prediction_poll",
-      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_interaction_guidance": "文末放一个投票：'今天上午最劲爆的消息是？A.XX B.XX C.XX，我选A，你呢？'",
       "_topic_domain": "足球快讯",
-      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_topic_guidance": "上午最新足球消息精选：比赛结果、转会动态、突发事件。用短句快节奏呈现，每条独立成块，每条包含事件概述+一句话老六辣评。像中午在食堂打开手机扫一眼就知道上午发生了什么。",
       "_data_source_hint": "match_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-0"
     },
     {
-      "title": "蓉城找郑智还是李金羽？土帅这波回潮藏着什么",
-      "angle": "蓉城夏窗接触郑智、赛季后又接触李金羽，媒体人还聊到与韦世豪的协作；从选帅看中超土帅回潮，给明确判断——本土教练真到翻身的时候了吗？",
+      "title": "国安给王刚办200场仪式，'电梯战神'这外号怎么来的？",
+      "angle": "200场对一个边后卫是什么概念？王刚这名字老球迷都熟，从争议到坚守，聊聊这个'电梯战神'外号背后的故事，以及中超本土球员的体面该怎么给。",
       "keywords": [
-        "Zheng Zhi",
-        "Li Jinyu",
-        "Chengdu Rongcheng",
-        "coach"
+        "wang gang",
+        "beijing guoan",
+        "csl",
+        "200 appearances"
       ],
       "keywords_cn": [
-        "郑智",
-        "李金羽",
-        "成都蓉城",
-        "选帅"
+        "王刚",
+        "北京国安",
+        "中超",
+        "200场"
       ],
-      "content_type": "转会资讯",
+      "content_type": "八卦趣事",
       "score": 80,
-      "controversy_level": "medium",
-      "target_emotion": "好奇",
-      "resonance_angle": "名帅名宿沉浮",
-      "series_id": "无",
-      "why_pick": "名宿转型+选帅争议，戳中阅历感",
-      "_category": "转会官宣",
-      "_column_id": "hua-ti-lei-tai",
-      "_column_name": "话题擂台",
-      "_column_icon": "🥊",
-      "_writing_style": "烧烤摊辩论体",
-      "_style_detail": "先摆出争议话题（一句话定调）→ 正方观点（2-3个论据）→ 反方观点（2-3个论据）→ 老六站队（亮明态度+核心论据）→ 邀请读者站队。语气像烧烤摊上和朋友抬杠，可以激动但不说脏话。必须给双方都有说话的机会，但最后必须有你自己的态度。",
+      "controversy_level": "low",
+      "target_emotion": "怀旧",
+      "resonance_angle": "老球迷身份认同",
+      "series_id": "old-fan-night",
+      "why_pick": "本土老将坚守故事，外号有梗，情怀拉满",
+      "_category": "冲突舆情",
+      "_column_id": "re-dian-su-ping",
+      "_column_name": "热点速评",
+      "_column_icon": "🔥",
+      "_writing_style": "赛后快刀体",
+      "_style_detail": "直接砸观点不铺垫 → 2-3个论据支撑 → 亮明立场。像从沙发上跳起来说的第一句话，锋利不留余地。500字以内，短平快。",
       "_word_count_range": [
         400,
         600
       ],
       "_interaction_type": "side_taking_vote",
-      "_interaction_guidance": "文末明确说'评论区站队——支持XX的扣1，反对的扣2，我先来：我站[1/2]，因为...'",
-      "_topic_domain": "足球争议话题",
-      "_topic_guidance": "一个有争议的足球话题，列出正反两方观点，最后给出老六的站队并说明理由。话题要能让读者看完后立刻想去评论区表态。适合的话题：'XX该不该下课''XX转会到底值不值''VAR到底该不该废除'等。",
-      "_data_source_hint": "gzh_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_interaction_guidance": "文末说：'觉得我说得对的扣1，觉得我太极端的扣2，我先来：我扣1，因为...'",
+      "_topic_domain": "足球热点评论",
+      "_topic_guidance": "从上午的比赛/新闻中选一个最值得聊的话题，快速给出观点和点评。不是深度分析，是'看完比赛后和朋友说的第一句话'。可以是一场精彩比赛的快速复盘，也可以是一个转会传闻的犀利点评。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-1"
     },
     {
-      "title": "16年百战，武磊生日这天，我们到底在怀念什么？",
-      "angle": "武磊生日+百战征程，从崇明岛少年到西甲破门，写一代老球迷看着他长大的时间线；不吹不黑，就聊聊这16年留洋与坚守的分量。",
-      "keywords": [
-        "Wu Lei",
-        "birthday",
-        "Espanyol",
-        "Chinese football"
-      ],
-      "keywords_cn": [
-        "武磊",
-        "生日",
-        "留洋",
-        "国足"
-      ],
-      "content_type": "八卦趣事",
-      "score": 88,
-      "controversy_level": "low",
-      "target_emotion": "怀旧",
-      "resonance_angle": "国足情结",
-      "series_id": "guozu-chronicle",
-      "why_pick": "武磊生日自带情怀，老球迷集体记忆",
-      "_category": "中国足球",
-      "_column_id": "chen-du-kuai-xun",
-      "_column_name": "晨读快讯",
-      "_column_icon": "📰",
-      "_writing_style": "群聊播报体",
-      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
-      "_word_count_range": [
-        300,
-        500
-      ],
-      "_interaction_type": "prediction_poll",
-      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
-      "_topic_domain": "足球快讯",
-      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
-      "_data_source_hint": "match_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
-      "_rank_id": "topic-2"
-    },
-    {
-      "title": "阿根廷 7-0 哥斯达黎加，7球对攻大战",
-      "content_type": "紧急球评-进球大战"
+      "title": "梅西C罗数据大对决，到底谁更强？",
+      "content_type": "数据对比",
+      "_column_name": "战术榜单",
+      "_from_reservoir": true
     }
   ],
   "data_sources": {},
@@ -245,12 +239,12 @@
     "counts": {
       "一级·确定性": 0,
       "二级·突发": 2,
-      "三级·软性": 0
+      "三级·软性": 1
     },
     "ratios": {
       "一级·确定性": 0.0,
       "二级·突发": 66.7,
-      "三级·软性": 0.0
+      "三级·软性": 33.3
     },
     "targets": {
       "一级·确定性": 30.0,
@@ -260,9 +254,9 @@
     "deviations": {
       "一级·确定性": -30.0,
       "二级·突发": 16.7,
-      "三级·软性": -20.0
+      "三级·软性": 13.3
     },
-    "unclassified": 1
+    "unclassified": 0
   },
   "degrade_events": [
     {
@@ -272,15 +266,33 @@
       "数量": 1
     },
     {
-      "环节": "软性补位跳过",
-      "原因": "晨读批禁用软性补位（P0-2：晨读吃隔夜赛果+硬新闻）",
-      "处置": "本批篇数不足，按实际成稿发布（不拿软性顶替）",
+      "环节": "互动引导兜底",
+      "原因": "缺 关注引导",
+      "处置": "保存侧模板兜底注入",
       "数量": 1
+    }
+  ],
+  "pending_review": [
+    {
+      "id": "2026-11-19-1-620b0e",
+      "index": 1,
+      "title": "斯坦丘33岁只拿36万欧？没想到他宁可少赚也不回中超",
+      "reasons": [
+        "合同金额(命中：年薪、签字费、报价；含金额量词)"
+      ]
+    },
+    {
+      "id": "2026-11-19-2-e3235d",
+      "index": 2,
+      "title": "没想到国安明晚这场球，先给一位老将办200场仪式",
+      "reasons": [
+        "伤病(命中：缺阵)"
+      ]
     }
   ],
   "type": "match_analysis",
   "quota": {
-    "batch": "morning",
+    "batch": "noon",
     "max_articles": 3,
     "uplifted": true,
     "reason": "thursday_boost",
@@ -288,14 +300,15 @@
     "normal_max": 2,
     "uplift_max": 3,
     "weekly_limit": 2,
-    "weekly_used": 1,
-    "detail": "加发 3 篇（原因 thursday_boost，周内 1/2）",
+    "weekly_used": 2,
+    "detail": "加发 3 篇（原因 thursday_boost，周内 2/2）",
     "source": "策略手册 第五章 / 完善计划 12.1"
   },
   "ranker_mode": "rule",
   "batches_completed": [
-    "morning"
+    "morning",
+    "noon"
   ],
-  "last_batch": "morning",
-  "last_updated": "2026-11-19 15:52:03"
+  "last_batch": "noon",
+  "last_updated": "2026-11-19 21:53:18"
 }
