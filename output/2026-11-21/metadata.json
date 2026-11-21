@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
-  "generated_at": "2026-11-21T07:44:45.421373",
-  "total_articles": 1,
+  "generated_at": "2026-11-21T12:58:46.603558",
+  "total_articles": 2,
   "articles": [
     {
       "index": 1,
@@ -36,98 +36,136 @@
       "is_prediction": false,
       "is_recap": false,
       "supply_layer": "二级·突发"
+    },
+    {
+      "index": 2,
+      "title": "浮嶋敏这套4231，怎么又让U17开局就丢球？",
+      "path": "/home/runner/work/_temp/output/2026-11-21/article-2-浮嶋敏这套423-ba17fc.md",
+      "slug": "浮嶋敏这套423-ba17fc",
+      "tags": [
+        "U17",
+        "Fukushima",
+        "4231",
+        "China",
+        "group stage"
+      ],
+      "keywords": [
+        "U17",
+        "Fukushima",
+        "4231",
+        "China",
+        "group stage"
+      ],
+      "images": [],
+      "sources_used": [
+        "懂球帝 dongqiudi.com"
+      ],
+      "source_post": "02:15“赛后聊聊：中国U17五球不敌西班牙U17”重庆铜梁龙小王哥780 播放",
+      "originality_note": "",
+      "content_type": "热点球评",
+      "topic_category": "未分类",
+      "column_id": "re-dian-su-ping",
+      "column_name": "热点速评",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
     }
   ],
   "topics": [
     {
-      "title": "前国脚王永珀定居美国，那句踢球很菜为啥戳心？",
-      "angle": "一句'踢球很菜但我很爱踢球'，道尽多少老球迷和自己和解的心态。从当年鲁能的金左脚到如今异国他乡晒照，球员的退场方式比高光更让人唏嘘。",
+      "title": "斯坦丘为了家人放弃250万欧年薪，这笔账到底怎么算的？",
+      "angle": "球员为家庭放弃百万欧收入，不是清高也不是傻，是一个32岁男人的账本——留亚洲能挣250万欧，回国不足百万，他选了孩子和老婆。比起骂他矫情，更该聊聊职业球员的生涯末期到底该为谁踢球。",
       "keywords": [
-        "Wang Yongpo",
-        "former China international",
-        "retirement life"
+        "stanciu",
+        "csL",
+        "family",
+        "salary"
       ],
       "keywords_cn": [
-        "王永珀",
-        "前国脚",
-        "定居美国"
+        "斯坦丘",
+        "中超",
+        "家庭",
+        "年薪"
       ],
-      "content_type": "八卦趣事",
-      "score": 86,
-      "controversy_level": "low",
-      "target_emotion": "怀旧",
+      "content_type": "转会资讯",
+      "score": 88,
+      "controversy_level": "medium",
+      "target_emotion": "感动",
       "resonance_angle": "老球迷身份认同",
-      "series_id": "old-fan-night",
-      "why_pick": "前国脚海外近况，戳中老球迷的青春与和解",
-      "_category": "未分类",
-      "_column_id": "chen-du-kuai-xun",
-      "_column_name": "晨读快讯",
-      "_column_icon": "📰",
+      "series_id": "无",
+      "why_pick": "中超MVP为家庭降薪回国，钱与情的账本戳中年读者",
+      "_category": "转会官宣",
+      "_column_id": "wu-jian-kuai-xun",
+      "_column_name": "午间快讯",
+      "_column_icon": "⚡",
       "_writing_style": "群聊播报体",
-      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_style_detail": "3-5条消息，每条3-5句。格式：【事件概述】+ 一句话老六辣评。短句、快节奏、有信息量但不啰嗦。每条独立成块。",
       "_word_count_range": [
         300,
         500
       ],
       "_interaction_type": "prediction_poll",
-      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_interaction_guidance": "文末放一个投票：'今天上午最劲爆的消息是？A.XX B.XX C.XX，我选A，你呢？'",
       "_topic_domain": "足球快讯",
-      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_topic_guidance": "上午最新足球消息精选：比赛结果、转会动态、突发事件。用短句快节奏呈现，每条独立成块，每条包含事件概述+一句话老六辣评。像中午在食堂打开手机扫一眼就知道上午发生了什么。",
       "_data_source_hint": "match_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-0"
     },
     {
-      "title": "国少0-5西班牙，原来我们和世界的差距这么大？",
-      "angle": "0-5不是耻辱而是照妖镜，把中国足球青训和世界顶尖的真实距离摆上台面。别急着骂孩子，该问的是我们这代人陪国足走过多少弯路，下一代还要重走几遍。",
+      "title": "U17国少0-5后想出线必须赢摩洛哥，对手14人旅欧这仗怎么打？",
+      "angle": "首轮净胜球-5垫底，次轮对手14人旅欧、8人来自五大联赛青训，这不是一场势均力敌的较量。但浮嶋敏那句『日本20年前也这样』值得琢磨——差距是事实，可差距背后是体系不是孩子。别把板子全打在这批17岁少年身上。",
       "keywords": [
-        "U17 China",
-        "Spain youth",
-        "youth football gap"
+        "u17",
+        "morocco",
+        "youth",
+        "national team"
       ],
       "keywords_cn": [
         "U17国足",
-        "西班牙",
-        "青训差距"
+        "摩洛哥",
+        "世少赛",
+        "青训"
       ],
       "content_type": "热点球评",
-      "score": 91,
-      "controversy_level": "high",
-      "target_emotion": "怀旧",
+      "score": 85,
+      "controversy_level": "medium",
+      "target_emotion": "愤怒",
       "resonance_angle": "国足情结",
       "series_id": "guozu-chronicle",
-      "why_pick": "国少惨败戳老球迷痛点，编年史接历史脉络",
+      "why_pick": "国少惨败后生死战，青训差距戳中老球迷恨铁不成钢",
       "_category": "战报比分",
-      "_column_id": "hua-ti-lei-tai",
-      "_column_name": "话题擂台",
-      "_column_icon": "🥊",
-      "_writing_style": "烧烤摊辩论体",
-      "_style_detail": "先摆出争议话题（一句话定调）→ 正方观点（2-3个论据）→ 反方观点（2-3个论据）→ 老六站队（亮明态度+核心论据）→ 邀请读者站队。语气像烧烤摊上和朋友抬杠，可以激动但不说脏话。必须给双方都有说话的机会，但最后必须有你自己的态度。",
+      "_column_id": "re-dian-su-ping",
+      "_column_name": "热点速评",
+      "_column_icon": "🔥",
+      "_writing_style": "赛后快刀体",
+      "_style_detail": "直接砸观点不铺垫 → 2-3个论据支撑 → 亮明立场。像从沙发上跳起来说的第一句话，锋利不留余地。500字以内，短平快。",
       "_word_count_range": [
         400,
         600
       ],
       "_interaction_type": "side_taking_vote",
-      "_interaction_guidance": "文末明确说'评论区站队——支持XX的扣1，反对的扣2，我先来：我站[1/2]，因为...'",
-      "_topic_domain": "足球争议话题",
-      "_topic_guidance": "一个有争议的足球话题，列出正反两方观点，最后给出老六的站队并说明理由。话题要能让读者看完后立刻想去评论区表态。适合的话题：'XX该不该下课''XX转会到底值不值''VAR到底该不该废除'等。",
-      "_data_source_hint": "gzh_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_interaction_guidance": "文末说：'觉得我说得对的扣1，觉得我太极端的扣2，我先来：我扣1，因为...'",
+      "_topic_domain": "足球热点评论",
+      "_topic_guidance": "从上午的比赛/新闻中选一个最值得聊的话题，快速给出观点和点评。不是深度分析，是'看完比赛后和朋友说的第一句话'。可以是一场精彩比赛的快速复盘，也可以是一个转会传闻的犀利点评。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-1"
     }
   ],
   "data_sources": {},
   "supply_layers": {
-    "total": 1,
+    "total": 2,
     "counts": {
       "一级·确定性": 0,
-      "二级·突发": 1,
+      "二级·突发": 2,
       "三级·软性": 0
     },
     "ratios": {
@@ -153,23 +191,21 @@
       "原因": "本批无可用赛程选题（源不可用或无匹配）",
       "处置": "退化为纯新闻流驱动，选题池仅由事实卡装配",
       "数量": 1
-    },
+    }
+  ],
+  "pending_review": [
     {
-      "环节": "软性补位跳过",
-      "原因": "晨读批禁用软性补位（P0-2：晨读吃隔夜赛果+硬新闻）",
-      "处置": "本批篇数不足，按实际成稿发布（不拿软性顶替）",
-      "数量": 1
-    },
-    {
-      "环节": "评分连续不过",
-      "原因": "标题评分未过(0分)",
-      "处置": "丢弃该选题并由候选池补位",
-      "数量": 1
+      "id": "2026-11-21-1-7f444e",
+      "index": 1,
+      "title": "斯坦丘拿250万欧却回罗马尼亚？33岁MVP这步棋没想到",
+      "reasons": [
+        "合同金额(命中：年薪、合同；含金额量词)"
+      ]
     }
   ],
   "type": "match_analysis",
   "quota": {
-    "batch": "morning",
+    "batch": "noon",
     "max_articles": 2,
     "uplifted": false,
     "reason": null,
@@ -183,8 +219,9 @@
   },
   "ranker_mode": "rule",
   "batches_completed": [
-    "morning"
+    "morning",
+    "noon"
   ],
-  "last_batch": "morning",
-  "last_updated": "2026-11-21 15:44:45"
+  "last_batch": "noon",
+  "last_updated": "2026-11-21 20:58:46"
 }
