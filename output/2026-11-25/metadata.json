@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T09:10:39.021157",
-  "total_articles": 2,
+  "generated_at": "2026-11-25T14:55:35.001384",
+  "total_articles": 4,
   "articles": [
     {
       "index": 1,
@@ -70,23 +70,93 @@
       "is_prediction": false,
       "is_recap": false,
       "supply_layer": "二级·突发"
+    },
+    {
+      "index": 1,
+      "title": "皇马5-1逆转埃因霍温，姆巴佩两球维尼修斯破荒，这剧本谁写的？",
+      "path": "/home/runner/work/_temp/output/2026-11-25/article-1-皇马51逆转埃因-c2d601.md",
+      "slug": "皇马51逆转埃因-c2d601",
+      "tags": [
+        "Real Madrid",
+        "PSV",
+        "Champions League",
+        "Mbappe",
+        "Vinicius"
+      ],
+      "keywords": [
+        "Real Madrid",
+        "PSV",
+        "Champions League",
+        "Mbappe",
+        "Vinicius"
+      ],
+      "images": [
+        "/home/runner/work/_temp/output/2026-11-25/images/article-1-img-001.jpg"
+      ],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "热点球评",
+      "topic_category": "战报比分",
+      "column_id": "wu-jian-kuai-xun",
+      "column_name": "午间快讯",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    },
+    {
+      "index": 2,
+      "title": "没想到女足姑娘训练完先聊这个？叶彤李渟英格说了大实话",
+      "path": "/home/runner/work/_temp/output/2026-11-25/article-2-没想到女足姑娘训-c7478f.md",
+      "slug": "没想到女足姑娘训-c7478f",
+      "tags": [
+        "women's football",
+        "Ye Tong",
+        "Li Tingyingge",
+        "training",
+        "interview"
+      ],
+      "keywords": [
+        "women's football",
+        "Ye Tong",
+        "Li Tingyingge",
+        "training",
+        "interview"
+      ],
+      "images": [],
+      "sources_used": [
+        "懂球帝 dongqiudi.com"
+      ],
+      "source_post": "叶彤、李渟英格谈入选国家队：期待四国赛，盼通过比赛积累经验中超女足",
+      "originality_note": "",
+      "content_type": "转会资讯",
+      "topic_category": "转会官宣",
+      "column_id": "wu-jian-kuai-xun",
+      "column_name": "午间快讯",
+      "batch_name": "午间",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
     }
   ],
   "topics": [
     {
-      "title": "上任24天就下课，卡内达这帅位是不是坐得比泡面还短？",
-      "angle": "11外援先发却1-3输海港，武里南联24天炒帅——东南亚球队烧钱请外教的老毛病又犯了，这钱花得值吗",
+      "title": "皇马5-1血洗埃因霍温，姆巴佩走后这进攻反而更疯了？",
+      "angle": "皇马没了姆巴佩，进攻端反而打出了更流畅的团队配合，5-1的比分背后是更衣室权力的重新分配——老球迷都懂，有时候少了一个大牌，球队反而更像一支球队。",
       "keywords": [
-        "Cardenas",
-        "Buriram United",
-        "AFC Champions League",
-        "coach sacking"
+        "Real Madrid",
+        "PSV",
+        "Champions League",
+        "Mbappe"
       ],
       "keywords_cn": [
-        "卡内达",
-        "武里南联",
-        "亚冠",
-        "下课"
+        "皇马",
+        "埃因霍温",
+        "欧冠",
+        "姆巴佩"
       ],
       "content_type": "热点球评",
       "score": 88,
@@ -94,69 +164,112 @@
       "target_emotion": "震惊",
       "resonance_angle": "名帅名宿沉浮",
       "series_id": "无",
-      "why_pick": "24天下课反差强，名帅沉浮有话题",
-      "_category": "转会官宣",
-      "_column_id": "chen-du-kuai-xun",
-      "_column_name": "晨读快讯",
-      "_column_icon": "📰",
+      "why_pick": "豪门大胜+巨星离队反差，争议性拉满",
+      "_category": "战报比分",
+      "_column_id": "wu-jian-kuai-xun",
+      "_column_name": "午间快讯",
+      "_column_icon": "⚡",
       "_writing_style": "群聊播报体",
-      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_style_detail": "3-5条消息，每条3-5句。格式：【事件概述】+ 一句话老六辣评。短句、快节奏、有信息量但不啰嗦。每条独立成块。",
       "_word_count_range": [
         300,
         500
       ],
       "_interaction_type": "prediction_poll",
-      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_interaction_guidance": "文末放一个投票：'今天上午最劲爆的消息是？A.XX B.XX C.XX，我选A，你呢？'",
       "_topic_domain": "足球快讯",
-      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_topic_guidance": "上午最新足球消息精选：比赛结果、转会动态、突发事件。用短句快节奏呈现，每条独立成块，每条包含事件概述+一句话老六辣评。像中午在食堂打开手机扫一眼就知道上午发生了什么。",
       "_data_source_hint": "match_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
+      "_rank_id": "topic-2"
+    },
+    {
+      "title": "马德鲁加亲口说想走，泰山这外援咋总留不住人？",
+      "angle": "马德鲁加明确表示已获新报价、梦想加盟豪门，泰山队外援流失的老毛病又犯了——从当年的塔尔德利到今天的马德鲁加，中超球队为啥总在重复同一个故事？",
+      "keywords": [
+        "Madruga",
+        "Shandong Taishan",
+        "CSL",
+        "transfer"
+      ],
+      "keywords_cn": [
+        "马德鲁加",
+        "泰山",
+        "中超",
+        "转会"
+      ],
+      "content_type": "转会资讯",
+      "score": 82,
+      "controversy_level": "medium",
+      "target_emotion": "好奇",
+      "resonance_angle": "老球迷身份认同",
+      "series_id": "无",
+      "why_pick": "中超外援流失老话题，有情怀有增量",
+      "_category": "转会官宣",
+      "_column_id": "wu-jian-kuai-xun",
+      "_column_name": "午间快讯",
+      "_column_icon": "⚡",
+      "_writing_style": "群聊播报体",
+      "_style_detail": "3-5条消息，每条3-5句。格式：【事件概述】+ 一句话老六辣评。短句、快节奏、有信息量但不啰嗦。每条独立成块。",
+      "_word_count_range": [
+        300,
+        500
+      ],
+      "_interaction_type": "prediction_poll",
+      "_interaction_guidance": "文末放一个投票：'今天上午最劲爆的消息是？A.XX B.XX C.XX，我选A，你呢？'",
+      "_topic_domain": "足球快讯",
+      "_topic_guidance": "上午最新足球消息精选：比赛结果、转会动态、突发事件。用短句快节奏呈现，每条独立成块，每条包含事件概述+一句话老六辣评。像中午在食堂打开手机扫一眼就知道上午发生了什么。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-0"
     },
     {
-      "title": "没想到赵松源这名字，竟被罗马诺的账号先记住了",
-      "angle": "17岁中锋的笔记被全网围观，从'中锋原则'写到防守优先，这份少年感比任何天赋论都动人——但职业队的门槛，从来不看抖音点赞",
+      "title": "热菲尼奥说来了中国就不想走，这话你信几分？",
+      "angle": "中超外援热菲尼奥坦言来之前担心不适应，来了才发现没人想走——这话听着暖心，但结合马德鲁加想走的消息，中超外援的真实心态到底是啥？",
       "keywords": [
-        "Zhao Songyuan",
-        "U17 World Cup",
-        "Chinese football youth",
-        "center forward"
+        "Trefinio",
+        "CSL",
+        "foreign players",
+        "China"
       ],
       "keywords_cn": [
-        "赵松源",
-        "U17世界杯",
-        "国少",
-        "中锋"
+        "热菲尼奥",
+        "中超",
+        "外援",
+        "中国"
       ],
       "content_type": "八卦趣事",
-      "score": 92,
-      "controversy_level": "medium",
+      "score": 76,
+      "controversy_level": "low",
       "target_emotion": "好奇",
-      "resonance_angle": "国足情结",
-      "series_id": "guozu-chronicle",
-      "why_pick": "少年笔记细节足，情怀与争议兼具",
-      "_category": "冲突舆情",
-      "_column_id": "hua-ti-lei-tai",
-      "_column_name": "话题擂台",
-      "_column_icon": "🥊",
-      "_writing_style": "烧烤摊辩论体",
-      "_style_detail": "先摆出争议话题（一句话定调）→ 正方观点（2-3个论据）→ 反方观点（2-3个论据）→ 老六站队（亮明态度+核心论据）→ 邀请读者站队。语气像烧烤摊上和朋友抬杠，可以激动但不说脏话。必须给双方都有说话的机会，但最后必须有你自己的态度。",
+      "resonance_angle": "无",
+      "series_id": "无",
+      "why_pick": "外援真心话与转会潮形成微妙对照",
+      "_category": "转会官宣",
+      "_column_id": "re-dian-su-ping",
+      "_column_name": "热点速评",
+      "_column_icon": "🔥",
+      "_writing_style": "赛后快刀体",
+      "_style_detail": "直接砸观点不铺垫 → 2-3个论据支撑 → 亮明立场。像从沙发上跳起来说的第一句话，锋利不留余地。500字以内，短平快。",
       "_word_count_range": [
         400,
         600
       ],
       "_interaction_type": "side_taking_vote",
-      "_interaction_guidance": "文末明确说'评论区站队——支持XX的扣1，反对的扣2，我先来：我站[1/2]，因为...'",
-      "_topic_domain": "足球争议话题",
-      "_topic_guidance": "一个有争议的足球话题，列出正反两方观点，最后给出老六的站队并说明理由。话题要能让读者看完后立刻想去评论区表态。适合的话题：'XX该不该下课''XX转会到底值不值''VAR到底该不该废除'等。",
-      "_data_source_hint": "gzh_preferred",
-      "_batch_name": "晨读",
-      "_batch_time": "08:00",
-      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
-      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_interaction_guidance": "文末说：'觉得我说得对的扣1，觉得我太极端的扣2，我先来：我扣1，因为...'",
+      "_topic_domain": "足球热点评论",
+      "_topic_guidance": "从上午的比赛/新闻中选一个最值得聊的话题，快速给出观点和点评。不是深度分析，是'看完比赛后和朋友说的第一句话'。可以是一场精彩比赛的快速复盘，也可以是一个转会传闻的犀利点评。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "午间",
+      "_batch_time": "12:00",
+      "_reader_scenario": "午休刷手机，需要快速了解上午发生了什么",
+      "_overall_tone": "信息密度高、快节奏、适合午休碎片阅读",
       "_rank_id": "topic-1"
     }
   ],
@@ -195,7 +308,7 @@
   ],
   "type": "match_analysis",
   "quota": {
-    "batch": "morning",
+    "batch": "noon",
     "max_articles": 2,
     "uplifted": false,
     "reason": null,
@@ -207,10 +320,11 @@
     "detail": "常态 2 篇",
     "source": "策略手册 第五章 / 完善计划 12.1"
   },
-  "ranker_mode": "rule",
+  "ranker_mode": "llm",
   "batches_completed": [
-    "morning"
+    "morning",
+    "noon"
   ],
-  "last_batch": "morning",
-  "last_updated": "2026-11-25 17:10:39"
+  "last_batch": "noon",
+  "last_updated": "2026-11-25 22:55:35"
 }
