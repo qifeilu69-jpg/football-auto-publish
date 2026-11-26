@@ -4,10 +4,10 @@
     "prompt_tokens": 0,
     "completion_tokens": 0,
     "total_tokens": 122000,
-    "fail_streak": 26,
+    "fail_streak": 27,
     "free_quota_pct": 87.8,
     "free_quota_expires_at": "2027-08-11 11:04:10",
-    "last_fail_at": "2026-11-25T17:00:12+08:00"
+    "last_fail_at": "2026-11-26T22:20:07+08:00"
   },
   "deepseek-v4-flash-202605": {
     "prompt_tokens": 172392,
@@ -21,19 +21,19 @@
     "prompt_tokens": 0,
     "completion_tokens": 0,
     "total_tokens": 21000,
-    "fail_streak": 23,
+    "fail_streak": 24,
     "free_quota_pct": 97.9,
     "free_quota_expires_at": "2027-08-27 13:40:03",
-    "last_fail_at": "2026-11-25T17:01:13+08:00"
+    "last_fail_at": "2026-11-26T22:20:42+08:00"
   },
   "glm-5.3": {
     "prompt_tokens": 335,
     "completion_tokens": 1728,
     "total_tokens": 36063,
-    "fail_streak": 20,
+    "fail_streak": 21,
     "free_quota_pct": 96.6,
     "free_quota_expires_at": "2027-09-14 09:24:30",
-    "last_fail_at": "2026-11-25T17:02:14+08:00"
+    "last_fail_at": "2026-11-26T22:21:42+08:00"
   },
   "deepseek/deepseek-v4-flash-vision-exp": {
     "prompt_tokens": 577616,
@@ -55,28 +55,28 @@
     "prompt_tokens": 219729,
     "completion_tokens": 71182,
     "total_tokens": 431000,
-    "fail_streak": 18,
+    "fail_streak": 19,
     "free_quota_pct": 56.9,
     "free_quota_expires_at": "2027-09-14 09:24:30",
-    "last_fail_at": "2026-11-25T17:02:16+08:00"
+    "last_fail_at": "2026-11-26T22:21:46+08:00"
   },
   "kimi-k2.8-preview": {
     "prompt_tokens": 6481,
     "completion_tokens": 5734,
     "total_tokens": 523000,
-    "fail_streak": 15,
+    "fail_streak": 16,
     "free_quota_pct": 47.7,
     "free_quota_expires_at": "2027-09-14 09:24:30",
-    "last_fail_at": "2026-11-25T17:03:11+08:00"
+    "last_fail_at": "2026-11-26T22:22:44+08:00"
   },
   "hy4-preview": {
     "prompt_tokens": 0,
     "completion_tokens": 0,
     "total_tokens": 641000,
-    "fail_streak": 11,
+    "fail_streak": 12,
     "free_quota_pct": 35.9,
     "free_quota_expires_at": "2027-09-14 09:24:30",
-    "last_fail_at": "2026-11-25T17:04:12+08:00"
+    "last_fail_at": "2026-11-26T22:23:38+08:00"
   },
   "deepseek-v4-pro-0813": {
     "prompt_tokens": 521233,
@@ -90,19 +90,19 @@
     "prompt_tokens": 0,
     "completion_tokens": 0,
     "total_tokens": 28000,
-    "fail_streak": 6,
+    "fail_streak": 7,
     "free_quota_pct": 97.2,
     "free_quota_expires_at": "2027-09-27 10:07:07",
-    "last_fail_at": "2026-11-25T17:04:57+08:00"
+    "last_fail_at": "2026-11-26T22:23:52+08:00"
   },
   "step-5-preview": {
     "prompt_tokens": 26491,
     "completion_tokens": 26050,
     "total_tokens": 338000,
-    "fail_streak": 6,
+    "fail_streak": 7,
     "free_quota_pct": 66.2,
     "free_quota_expires_at": "2027-09-27 10:07:07",
-    "last_fail_at": "2026-11-25T17:05:51+08:00"
+    "last_fail_at": "2026-11-26T22:24:29+08:00"
   },
   "mimo-v2.6-flash": {
     "prompt_tokens": 56624,
@@ -134,33 +134,33 @@
     "prompt_tokens": 0,
     "completion_tokens": 0,
     "total_tokens": 0,
-    "fail_streak": 4,
+    "fail_streak": 5,
     "free_quota_pct": 100.0,
     "free_quota_expires_at": "2027-10-26 09:32:41",
-    "last_fail_at": "2026-11-25T17:06:52+08:00"
+    "last_fail_at": "2026-11-26T22:25:21+08:00"
   },
   "kimi-k3.1-pro-highspeed": {
     "prompt_tokens": 0,
     "completion_tokens": 0,
     "total_tokens": 0,
-    "fail_streak": 4,
+    "fail_streak": 5,
     "free_quota_pct": 100.0,
     "free_quota_expires_at": "2027-10-26 09:32:41",
-    "last_fail_at": "2026-11-25T17:07:45+08:00"
+    "last_fail_at": "2026-11-26T22:25:58+08:00"
   },
   "minimax-m3.1-flash": {
     "prompt_tokens": 0,
     "completion_tokens": 0,
     "total_tokens": 0,
-    "fail_streak": 4,
+    "fail_streak": 5,
     "free_quota_pct": 100.0,
     "free_quota_expires_at": "2027-10-26 09:32:41",
-    "last_fail_at": "2026-11-25T17:08:15+08:00"
+    "last_fail_at": "2026-11-26T22:26:25+08:00"
   },
   "deepseek-v4.1-flash-1017": {
-    "prompt_tokens": 241761,
-    "completion_tokens": 54212,
-    "total_tokens": 295973,
+    "prompt_tokens": 269698,
+    "completion_tokens": 59632,
+    "total_tokens": 329330,
     "fail_streak": 0,
     "free_quota_pct": 100.0,
     "free_quota_expires_at": "2027-10-26 09:32:41"
