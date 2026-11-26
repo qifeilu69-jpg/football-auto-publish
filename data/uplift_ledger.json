@@ -95,6 +95,14 @@
       "articles": 2,
       "note": "",
       "recorded_at": "2026-11-19 13:53:18"
+    },
+    {
+      "date": "2026-11-26",
+      "batch": "morning",
+      "reason": "thursday_boost",
+      "articles": 3,
+      "note": "",
+      "recorded_at": "2026-11-26 08:48:41"
     }
   ]
 }
