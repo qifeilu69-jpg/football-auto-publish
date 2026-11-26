@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T08:49:43.817931",
+  "total_articles": 1,
+  "articles": [
+    {
+      "index": 1,
+      "title": "坎通纳120万转会曼联，谁能想到利兹联亲手送出王朝？",
+      "path": "/home/runner/work/_temp/output/2026-11-26/article-1-坎通纳120万转-f3fe49.md",
+      "slug": "坎通纳120万转-f3fe49",
+      "tags": [
+        "Cantona",
+        "Manchester United",
+        "Leeds United",
+        "1992",
+        "Premier League"
+      ],
+      "keywords": [
+        "Cantona",
+        "Manchester United",
+        "Leeds United",
+        "1992",
+        "Premier League"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "八卦趣事",
+      "topic_category": "转会官宣",
+      "column_id": "hua-ti-lei-tai",
+      "column_name": "话题擂台",
+      "batch_name": "晨读",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    }
+  ],
+  "topics": [
+    {
+      "title": "李霄鹏清华附中屁股还没坐热，怎么就要去蓉城救火了？",
+      "angle": "本月刚在清华附中任职，转眼双流机场被拍到、媒体人放话「稳定人心」，这节奏像极了足球圈的临时工。我的判断：蓉城要的不是战术大师，是能压住更衣室的老面孔，这活儿安全但憋屈。",
+      "keywords": [
+        "Li Xiaopeng",
+        "Chengdu Rongcheng",
+        "CSL manager"
+      ],
+      "keywords_cn": [
+        "李霄鹏",
+        "成都蓉城",
+        "中超主帅"
+      ],
+      "content_type": "转会资讯",
+      "score": 88,
+      "controversy_level": "medium",
+      "target_emotion": "好奇",
+      "resonance_angle": "名帅名宿沉浮",
+      "series_id": "无",
+      "why_pick": "名帅跳槽反差强，人物弧光足",
+      "_category": "转会官宣",
+      "_column_id": "chen-du-kuai-xun",
+      "_column_name": "晨读快讯",
+      "_column_icon": "📰",
+      "_writing_style": "群聊播报体",
+      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_word_count_range": [
+        300,
+        500
+      ],
+      "_interaction_type": "prediction_poll",
+      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_topic_domain": "足球快讯",
+      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-0"
+    },
+    {
+      "title": "1992年的今天，120万镑的坎通纳去了曼联，足球从此变了味",
+      "angle": "120万镑放今天不够买个替补边卫，可这笔钱买来的是曼联90年代霸业的开关。聊聊坎通纳这笔「便宜到离谱」的转会怎么改写了英超格局，顺带说说今天的转会市场为什么再也淘不到这种漏。",
+      "keywords": [
+        "Eric Cantona",
+        "Manchester United",
+        "Leeds United"
+      ],
+      "keywords_cn": [
+        "坎通纳",
+        "曼联",
+        "利兹联"
+      ],
+      "content_type": "八卦趣事",
+      "score": 86,
+      "controversy_level": "low",
+      "target_emotion": "怀旧",
+      "resonance_angle": "老球迷身份认同",
+      "series_id": "old-fan-night",
+      "why_pick": "经典转会周年，老球迷DNA动了",
+      "_category": "转会官宣",
+      "_column_id": "hua-ti-lei-tai",
+      "_column_name": "话题擂台",
+      "_column_icon": "🥊",
+      "_writing_style": "烧烤摊辩论体",
+      "_style_detail": "先摆出争议话题（一句话定调）→ 正方观点（2-3个论据）→ 反方观点（2-3个论据）→ 老六站队（亮明态度+核心论据）→ 邀请读者站队。语气像烧烤摊上和朋友抬杠，可以激动但不说脏话。必须给双方都有说话的机会，但最后必须有你自己的态度。",
+      "_word_count_range": [
+        400,
+        600
+      ],
+      "_interaction_type": "side_taking_vote",
+      "_interaction_guidance": "文末明确说'评论区站队——支持XX的扣1，反对的扣2，我先来：我站[1/2]，因为...'",
+      "_topic_domain": "足球争议话题",
+      "_topic_guidance": "一个有争议的足球话题，列出正反两方观点，最后给出老六的站队并说明理由。话题要能让读者看完后立刻想去评论区表态。适合的话题：'XX该不该下课''XX转会到底值不值''VAR到底该不该废除'等。",
+      "_data_source_hint": "gzh_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-1"
+    },
+    {
+      "title": "原来24年前国足世界杯的目标，今天连想都不敢想",
+      "angle": "2002年那届的目标是「进一球、拿一分、赢一场」，如今国少打个斐济都被反复叮嘱别给压力。把两代国字号的目标摆一起，落差就是一代人的青春账单——我们不是怀念那届有多强，是怀念那时候还敢定目标。",
+      "keywords": [
+        "China national team",
+        "2002 World Cup",
+        "U17 national team"
+      ],
+      "keywords_cn": [
+        "国足",
+        "2002世界杯",
+        "国少"
+      ],
+      "content_type": "热点球评",
+      "score": 94,
+      "controversy_level": "medium",
+      "target_emotion": "怀旧",
+      "resonance_angle": "国足情结",
+      "series_id": "guozu-chronicle",
+      "why_pick": "24年目标对照，老球迷集体记忆锚点",
+      "_category": "中国足球",
+      "_column_id": "chen-du-kuai-xun",
+      "_column_name": "晨读快讯",
+      "_column_icon": "📰",
+      "_writing_style": "群聊播报体",
+      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_word_count_range": [
+        300,
+        500
+      ],
+      "_interaction_type": "prediction_poll",
+      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_topic_domain": "足球快讯",
+      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-2"
+    }
+  ],
+  "data_sources": {},
+  "supply_layers": {
+    "total": 2,
+    "counts": {
+      "一级·确定性": 0,
+      "二级·突发": 2,
+      "三级·软性": 0
+    },
+    "ratios": {
+      "一级·确定性": 0.0,
+      "二级·突发": 100.0,
+      "三级·软性": 0.0
+    },
+    "targets": {
+      "一级·确定性": 30.0,
+      "二级·突发": 50.0,
+      "三级·软性": 20.0
+    },
+    "deviations": {
+      "一级·确定性": -30.0,
+      "二级·突发": 50.0,
+      "三级·软性": -20.0
+    },
+    "unclassified": 0
+  },
+  "degrade_events": [
+    {
+      "环节": "赛程源",
+      "原因": "本批无可用赛程选题（源不可用或无匹配）",
+      "处置": "退化为纯新闻流驱动，选题池仅由事实卡装配",
+      "数量": 1
+    },
+    {
+      "环节": "软性补位跳过",
+      "原因": "晨读批禁用软性补位（P0-2：晨读吃隔夜赛果+硬新闻）",
+      "处置": "本批篇数不足，按实际成稿发布（不拿软性顶替）",
+      "数量": 1
+    },
+    {
+      "环节": "一致性校验",
+      "原因": "事实验证连续不过: 缺少主队名: 组阿根廷",
+      "处置": "降级为低风险板块（人物故事）后重生成一次",
+      "数量": 1
+    },
+    {
+      "环节": "一致性校验",
+      "原因": "降级后仍不过: 缺少主队名: 组阿根廷",
+      "处置": "丢弃该选题，交由候选池补位",
+      "数量": 1
+    }
+  ],
+  "pending_review": [
+    {
+      "id": "2026-11-26-2-e65b0c",
+      "index": 2,
+      "title": "摩洛哥2-2逼平国足U17，那个1米62的小个子原来这么难缠？",
+      "reasons": [
+        "合同金额(命中：合同；含金额量词)"
+      ]
+    }
+  ],
+  "type": "match_analysis",
+  "quota": {
+    "batch": "morning",
+    "max_articles": 3,
+    "uplifted": true,
+    "reason": "thursday_boost",
+    "requested_reason": "thursday_boost",
+    "normal_max": 2,
+    "uplift_max": 3,
+    "weekly_limit": 2,
+    "weekly_used": 1,
+    "detail": "加发 3 篇（原因 thursday_boost，周内 1/2）",
+    "source": "策略手册 第五章 / 完善计划 12.1"
+  },
+  "ranker_mode": "rule",
+  "batches_completed": [
+    "morning"
+  ],
+  "last_batch": "morning",
+  "last_updated": "2026-11-26 16:49:43"
+}
