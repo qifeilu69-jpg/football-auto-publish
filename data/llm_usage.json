@@ -158,9 +158,9 @@
     "last_fail_at": "2026-11-26T22:26:25+08:00"
   },
   "deepseek-v4.1-flash-1017": {
-    "prompt_tokens": 274857,
-    "completion_tokens": 60702,
-    "total_tokens": 335559,
+    "prompt_tokens": 287779,
+    "completion_tokens": 62452,
+    "total_tokens": 350231,
     "fail_streak": 0,
     "free_quota_pct": 100.0,
     "free_quota_expires_at": "2027-10-26 09:32:41"
