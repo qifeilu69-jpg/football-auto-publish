@@ -108,19 +108,19 @@
     "prompt_tokens": 56624,
     "completion_tokens": 29895,
     "total_tokens": 403619,
-    "fail_streak": 6,
+    "fail_streak": 7,
     "free_quota_pct": 60.7,
     "free_quota_expires_at": "2027-09-27 10:07:07",
-    "last_fail_at": "2026-11-25T22:54:26+08:00"
+    "last_fail_at": "2026-11-27T16:57:20+08:00"
   },
   "mimo-v2.6-pro": {
-    "prompt_tokens": 59916,
-    "completion_tokens": 25701,
-    "total_tokens": 434038,
-    "fail_streak": 4,
+    "prompt_tokens": 72856,
+    "completion_tokens": 33474,
+    "total_tokens": 454751,
+    "fail_streak": 1,
     "free_quota_pct": 59.1,
     "free_quota_expires_at": "2027-09-27 10:07:07",
-    "last_fail_at": "2026-11-25T22:55:10+08:00"
+    "last_fail_at": "2026-11-27T17:02:47+08:00"
   },
   "deepseek-v4.1-flash": {
     "prompt_tokens": 500655,
@@ -158,9 +158,9 @@
     "last_fail_at": "2026-11-26T22:26:25+08:00"
   },
   "deepseek-v4.1-flash-1017": {
-    "prompt_tokens": 269698,
-    "completion_tokens": 59632,
-    "total_tokens": 329330,
+    "prompt_tokens": 274857,
+    "completion_tokens": 60702,
+    "total_tokens": 335559,
     "fail_streak": 0,
     "free_quota_pct": 100.0,
     "free_quota_expires_at": "2027-10-26 09:32:41"
