@@ -1,0 +1,224 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T08:27:43.945310",
+  "total_articles": 2,
+  "articles": [
+    {
+      "index": 1,
+      "title": "没想到塞尔维亚U17首秀就3场零封，咱们国少该学点啥？",
+      "path": "/home/runner/work/_temp/output/2026-11-28/article-1-没想到塞尔维亚U-e7b15e.md",
+      "slug": "没想到塞尔维亚U-e7b15e",
+      "tags": [
+        "Serbia U17",
+        "zero goals conceded",
+        "group stage",
+        "China youth football"
+      ],
+      "keywords": [
+        "Serbia U17",
+        "zero goals conceded",
+        "group stage",
+        "China youth football"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "战术解析",
+      "topic_category": "未分类",
+      "column_id": "hua-ti-lei-tai",
+      "column_name": "话题擂台",
+      "batch_name": "晨读",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "二级·突发"
+    },
+    {
+      "index": 2,
+      "title": "切尔西客场2-3栽在森林手里，福法纳这手球到底冤不冤？",
+      "path": "/home/runner/work/_temp/output/2026-11-28/article-2-切尔西客场23栽-bc8886.md",
+      "slug": "切尔西客场23栽-bc8886",
+      "tags": [
+        "Nottingham Forest",
+        "Chelsea",
+        "Premier League",
+        "Gibbs-White",
+        "Fofana"
+      ],
+      "keywords": [
+        "Nottingham Forest",
+        "Chelsea",
+        "Premier League",
+        "Gibbs-White",
+        "Fofana"
+      ],
+      "images": [],
+      "sources_used": [
+        "直播吧 zhibo8.cc"
+      ],
+      "source_post": "",
+      "originality_note": "",
+      "content_type": "紧急球评",
+      "topic_category": "战报比分",
+      "column_id": "breaking",
+      "column_name": "突发直击",
+      "batch_name": "晨读",
+      "is_prediction": false,
+      "is_recap": false,
+      "supply_layer": "未分层"
+    }
+  ],
+  "topics": [
+    {
+      "title": "曼奇尼自曝和加利亚尼吵过架，这位意大利名帅的江湖恩怨比剧本还耐看",
+      "angle": "曼奇尼亲口说和加利亚尼、乌利维耶里有过争执，还强调从未考虑加盟尤文——名帅的沉浮和旧怨，正是老球迷最爱的那口酒。足球江湖的人情世故，比战术板有意思多了。",
+      "keywords": [
+        "Mancini",
+        "Galliani",
+        "Juventus",
+        "Serie A"
+      ],
+      "keywords_cn": [
+        "曼奇尼",
+        "加利亚尼",
+        "尤文图斯",
+        "意甲"
+      ],
+      "content_type": "八卦趣事",
+      "score": 82,
+      "controversy_level": "medium",
+      "target_emotion": "好奇",
+      "resonance_angle": "名帅名宿沉浮",
+      "series_id": "old-fan-night",
+      "why_pick": "名帅自曝旧怨，人物弧光戳中有阅历的读者",
+      "_category": "转会官宣",
+      "_column_id": "chen-du-kuai-xun",
+      "_column_name": "晨读快讯",
+      "_column_icon": "📰",
+      "_writing_style": "群聊播报体",
+      "_style_detail": "每条消息3-5句，格式为【事件概述】+一句话老六辣评。短句、快节奏、有信息量但不啰嗦。像一个人肉RSS但有态度。禁止长篇大论，每条独立成块。",
+      "_word_count_range": [
+        300,
+        500
+      ],
+      "_interaction_type": "prediction_poll",
+      "_interaction_guidance": "文末放一个关于文中某条消息的预测性投票（比如'你觉得XX这笔转会能成吗？'），选项A/B，自己先给判断。",
+      "_topic_domain": "足球快讯",
+      "_topic_guidance": "3-5条最新足球短消息加一句话辣评。可以是一条比赛结果+一条转会动态+一条花边/争议新闻。像微信群里的足球老哥早上发的第一条消息。每条独立成块，短句快节奏。",
+      "_data_source_hint": "match_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-0"
+    },
+    {
+      "title": "塞尔维亚3战全胜0失球，国少淘汰赛第一关就撞上硬茬，这签运你服吗？",
+      "angle": "别只盯着8-0的比分爽，淘汰赛对手塞尔维亚4档参赛却3战全胜进4球0失球，阵中7人还是万项队友——这才是真考验。国少能不能过这关，比小组赛赢几个球重要一百倍。",
+      "keywords": [
+        "Serbia U17",
+        "China U17",
+        "round of 16",
+        "Wan Xiang"
+      ],
+      "keywords_cn": [
+        "塞尔维亚U17",
+        "国少",
+        "16强",
+        "万项"
+      ],
+      "content_type": "战术解析",
+      "score": 88,
+      "controversy_level": "medium",
+      "target_emotion": "好奇",
+      "resonance_angle": "国足情结",
+      "series_id": "无",
+      "why_pick": "对手越强越有看点，0失球的塞尔维亚是真试金石",
+      "_category": "未分类",
+      "_column_id": "hua-ti-lei-tai",
+      "_column_name": "话题擂台",
+      "_column_icon": "🥊",
+      "_writing_style": "烧烤摊辩论体",
+      "_style_detail": "先摆出争议话题（一句话定调）→ 正方观点（2-3个论据）→ 反方观点（2-3个论据）→ 老六站队（亮明态度+核心论据）→ 邀请读者站队。语气像烧烤摊上和朋友抬杠，可以激动但不说脏话。必须给双方都有说话的机会，但最后必须有你自己的态度。",
+      "_word_count_range": [
+        400,
+        600
+      ],
+      "_interaction_type": "side_taking_vote",
+      "_interaction_guidance": "文末明确说'评论区站队——支持XX的扣1，反对的扣2，我先来：我站[1/2]，因为...'",
+      "_topic_domain": "足球争议话题",
+      "_topic_guidance": "一个有争议的足球话题，列出正反两方观点，最后给出老六的站队并说明理由。话题要能让读者看完后立刻想去评论区表态。适合的话题：'XX该不该下课''XX转会到底值不值''VAR到底该不该废除'等。",
+      "_data_source_hint": "gzh_preferred",
+      "_batch_name": "晨读",
+      "_batch_time": "08:00",
+      "_reader_scenario": "通勤/早咖啡，需要快速了解发生了什么",
+      "_overall_tone": "轻快、信息密度高、适合碎片化阅读",
+      "_rank_id": "topic-1"
+    },
+    {
+      "title": "诺丁汉森林 3-2 切尔西，5球对攻大战",
+      "content_type": "紧急球评-进球大战"
+    }
+  ],
+  "data_sources": {},
+  "supply_layers": {
+    "total": 2,
+    "counts": {
+      "一级·确定性": 0,
+      "二级·突发": 1,
+      "三级·软性": 0
+    },
+    "ratios": {
+      "一级·确定性": 0.0,
+      "二级·突发": 50.0,
+      "三级·软性": 0.0
+    },
+    "targets": {
+      "一级·确定性": 30.0,
+      "二级·突发": 50.0,
+      "三级·软性": 20.0
+    },
+    "deviations": {
+      "一级·确定性": -30.0,
+      "二级·突发": 0.0,
+      "三级·软性": -20.0
+    },
+    "unclassified": 1
+  },
+  "degrade_events": [
+    {
+      "环节": "赛程源",
+      "原因": "本批无可用赛程选题（源不可用或无匹配）",
+      "处置": "退化为纯新闻流驱动，选题池仅由事实卡装配",
+      "数量": 1
+    },
+    {
+      "环节": "软性补位跳过",
+      "原因": "晨读批禁用软性补位（P0-2：晨读吃隔夜赛果+硬新闻）",
+      "处置": "本批篇数不足，按实际成稿发布（不拿软性顶替）",
+      "数量": 1
+    }
+  ],
+  "type": "match_analysis",
+  "quota": {
+    "batch": "morning",
+    "max_articles": 2,
+    "uplifted": false,
+    "reason": null,
+    "requested_reason": null,
+    "normal_max": 2,
+    "uplift_max": 3,
+    "weekly_limit": 2,
+    "weekly_used": 2,
+    "detail": "常态 2 篇",
+    "source": "策略手册 第五章 / 完善计划 12.1"
+  },
+  "ranker_mode": "rule",
+  "batches_completed": [
+    "morning"
+  ],
+  "last_batch": "morning",
+  "last_updated": "2026-11-28 16:27:43"
+}
